@@ -14,3 +14,4 @@ Thumbs.db
 
 # Large data files (not for git)
 vndb-db-*.tar.zst
+temp-data
