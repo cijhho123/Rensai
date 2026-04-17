@@ -1,0 +1,1334 @@
+{
+  "2channel-otaku-culture": {
+    "name": "2Channel Otaku Culture",
+    "type": "otaku-history",
+    "weight": 103,
+    "score": 0
+  },
+  "2point5d-idol": {
+    "name": "2Point5D Idol",
+    "type": "idol",
+    "weight": 100,
+    "score": 0
+  },
+  "adult-content-creators-gone-mainstream": {
+    "name": "Adult Content Creators Gone Mainstream",
+    "type": "otaku-history",
+    "weight": 104,
+    "score": 0
+  },
+  "akb48": {
+    "name": "Akb48",
+    "type": "idol",
+    "weight": 80,
+    "score": 160
+  },
+  "akihabara-2008-and-after": {
+    "name": "Akihabara 2008 And After",
+    "type": "otaku-history",
+    "weight": 104,
+    "score": 0
+  },
+  "akihabara-culture": {
+    "name": "Akihabara Culture",
+    "type": "otaku-culture",
+    "weight": 100,
+    "score": 0
+  },
+  "akihabara-electronics-to-anime": {
+    "name": "Akihabara Electronics To Anime",
+    "type": "otaku-history",
+    "weight": 102,
+    "score": 0
+  },
+  "akina-nakamori": {
+    "name": "Akina Nakamori",
+    "type": "idol",
+    "weight": 81,
+    "score": 0
+  },
+  "angerme": {
+    "name": "Angerme",
+    "type": "idol",
+    "weight": 93,
+    "score": 0
+  },
+  "angura-kei": {
+    "name": "Angura Kei",
+    "type": "otaku-culture",
+    "weight": 107,
+    "score": 0
+  },
+  "anime-bands": {
+    "name": "Anime Bands",
+    "type": "anime-music",
+    "weight": 110,
+    "score": 0
+  },
+  "anime-conventions-global": {
+    "name": "Anime Conventions Global",
+    "type": "otaku-culture",
+    "weight": 103,
+    "score": 0
+  },
+  "anime-disc-sales-culture": {
+    "name": "Anime Disc Sales Culture",
+    "type": "otaku-culture",
+    "weight": 104,
+    "score": 0
+  },
+  "anime-expo-history": {
+    "name": "Anime Expo History",
+    "type": "otaku-culture",
+    "weight": 103,
+    "score": 0
+  },
+  "anime-fashion-collabs": {
+    "name": "Anime Fashion Collabs",
+    "type": "otaku-culture",
+    "weight": 103,
+    "score": 0
+  },
+  "anime-labor-conditions": {
+    "name": "Anime Labor Conditions",
+    "type": "otaku-history",
+    "weight": 101,
+    "score": 0
+  },
+  "anime-location-pilgrimages": {
+    "name": "Anime Location Pilgrimages",
+    "type": "otaku-culture",
+    "weight": 103,
+    "score": 0
+  },
+  "anime-movie-soundtracks": {
+    "name": "Anime Movie Soundtracks",
+    "type": "anime-music",
+    "weight": 105,
+    "score": 0
+  },
+  "anime-op-ed": {
+    "name": "Anime Op Ed",
+    "type": "anime-music",
+    "weight": 90,
+    "score": 0
+  },
+  "anime-overseas-production": {
+    "name": "Anime Overseas Production",
+    "type": "otaku-history",
+    "weight": 103,
+    "score": 0
+  },
+  "anime-overseas-spread": {
+    "name": "Anime Overseas Spread",
+    "type": "otaku-history",
+    "weight": 100,
+    "score": 0
+  },
+  "anime-piracy-history": {
+    "name": "Anime Piracy History",
+    "type": "otaku-history",
+    "weight": 110,
+    "score": 0
+  },
+  "anime-production-committee-system": {
+    "name": "Anime Production Committee System",
+    "type": "otaku-history",
+    "weight": 100,
+    "score": 0
+  },
+  "anime-production-pipeline": {
+    "name": "Anime Production Pipeline",
+    "type": "otaku-history",
+    "weight": 103,
+    "score": 0
+  },
+  "anime-soundtracks": {
+    "name": "Anime Soundtracks",
+    "type": "anime-music",
+    "weight": 100,
+    "score": 0
+  },
+  "anime-streaming-revolution": {
+    "name": "Anime Streaming Revolution",
+    "type": "otaku-history",
+    "weight": 100,
+    "score": 0
+  },
+  "anime-themed-cafes": {
+    "name": "Anime Themed Cafes",
+    "type": "otaku-culture",
+    "weight": 103,
+    "score": 0
+  },
+  "animejapan-and-tokyo-game-show": {
+    "name": "Animejapan And Tokyo Game Show",
+    "type": "otaku-culture",
+    "weight": 102,
+    "score": 0
+  },
+  "anison-composers": {
+    "name": "Anison Composers",
+    "type": "anime-music",
+    "weight": 95,
+    "score": 0
+  },
+  "anison-history": {
+    "name": "Anison History",
+    "type": "anime-music",
+    "weight": 100,
+    "score": 0
+  },
+  "anison-labels": {
+    "name": "Anison Labels",
+    "type": "anime-music",
+    "weight": 115,
+    "score": 0
+  },
+  "arashi": {
+    "name": "Arashi",
+    "type": "idol",
+    "weight": 81,
+    "score": 0
+  },
+  "arcade-decline-and-survival": {
+    "name": "Arcade Decline And Survival",
+    "type": "otaku-culture",
+    "weight": 104,
+    "score": 0
+  },
+  "arcade-fighting-game-scene": {
+    "name": "Arcade Fighting Game Scene",
+    "type": "otaku-culture",
+    "weight": 103,
+    "score": 0
+  },
+  "atsuko-maeda": {
+    "name": "Atsuko Maeda",
+    "type": "idol",
+    "weight": 86,
+    "score": 0
+  },
+  "aya-matsuura": {
+    "name": "Aya Matsuura",
+    "type": "idol",
+    "weight": 89,
+    "score": 0
+  },
+  "babymetal": {
+    "name": "Babymetal",
+    "type": "idol",
+    "weight": 84,
+    "score": 0
+  },
+  "be-first": {
+    "name": "Be First",
+    "type": "idol",
+    "weight": 91,
+    "score": 0
+  },
+  "berryz-koubou": {
+    "name": "Berryz Koubou",
+    "type": "idol",
+    "weight": 92,
+    "score": 0
+  },
+  "bish": {
+    "name": "Bish",
+    "type": "idol",
+    "weight": 91,
+    "score": 0
+  },
+  "blind-box-culture": {
+    "name": "Blind Box Culture",
+    "type": "figures",
+    "weight": 102,
+    "score": 0
+  },
+  "bones-studio": {
+    "name": "Bones Studio",
+    "type": "anime",
+    "weight": 101,
+    "score": 0
+  },
+  "butler-cafe-culture": {
+    "name": "Butler Cafe Culture",
+    "type": "otaku-culture",
+    "weight": 105,
+    "score": 0
+  },
+  "c-ute": {
+    "name": "C Ute",
+    "type": "idol",
+    "weight": 92,
+    "score": 0
+  },
+  "cel-to-digital-transition": {
+    "name": "Cel To Digital Transition",
+    "type": "otaku-history",
+    "weight": 102,
+    "score": 0
+  },
+  "cgi-in-anime-history": {
+    "name": "Cgi In Anime History",
+    "type": "anime",
+    "weight": 102,
+    "score": 0
+  },
+  "chika-idol-scene": {
+    "name": "Chika Idol Scene",
+    "type": "idol",
+    "weight": 104,
+    "score": 0
+  },
+  "classic-lolita": {
+    "name": "Classic Lolita",
+    "type": "otaku-culture",
+    "weight": 104,
+    "score": 0
+  },
+  "comiket-cosplay-culture": {
+    "name": "Comiket Cosplay Culture",
+    "type": "cosplay",
+    "weight": 110,
+    "score": 0
+  },
+  "comiket-economics": {
+    "name": "Comiket Economics",
+    "type": "otaku-culture",
+    "weight": 101,
+    "score": 0
+  },
+  "comiket-history": {
+    "name": "Comiket History",
+    "type": "otaku-history",
+    "weight": 100,
+    "score": 0
+  },
+  "concept-cafe-evolution": {
+    "name": "Concept Cafe Evolution",
+    "type": "otaku-culture",
+    "weight": 103,
+    "score": 0
+  },
+  "cosplay-as-profession": {
+    "name": "Cosplay As Profession",
+    "type": "cosplay",
+    "weight": 115,
+    "score": 0
+  },
+  "cosplay-history-japan": {
+    "name": "Cosplay History Japan",
+    "type": "cosplay",
+    "weight": 105,
+    "score": 0
+  },
+  "cosplay-usa-vs-japan": {
+    "name": "Cosplay Usa Vs Japan",
+    "type": "cosplay",
+    "weight": 110,
+    "score": 0
+  },
+  "crane-game-culture": {
+    "name": "Crane Game Culture",
+    "type": "otaku-culture",
+    "weight": 103,
+    "score": 0
+  },
+  "decora-fashion": {
+    "name": "Decora Fashion",
+    "type": "otaku-culture",
+    "weight": 104,
+    "score": 0
+  },
+  "dempagumi-inc": {
+    "name": "Dempagumi Inc",
+    "type": "idol",
+    "weight": 93,
+    "score": 0
+  },
+  "dolly-kei": {
+    "name": "Dolly Kei",
+    "type": "otaku-culture",
+    "weight": 107,
+    "score": 0
+  },
+  "doujinshi-adult-market": {
+    "name": "Doujinshi Adult Market",
+    "type": "otaku-culture",
+    "weight": 103,
+    "score": 0
+  },
+  "doujinshi-culture": {
+    "name": "Doujinshi Culture",
+    "type": "otaku-culture",
+    "weight": 105,
+    "score": 0
+  },
+  "doujinshi-shops": {
+    "name": "Doujinshi Shops",
+    "type": "otaku-culture",
+    "weight": 103,
+    "score": 0
+  },
+  "e-girls": {
+    "name": "E Girls",
+    "type": "idol",
+    "weight": 90,
+    "score": 0
+  },
+  "ero-manga-history": {
+    "name": "Ero Manga History",
+    "type": "otaku-history",
+    "weight": 103,
+    "score": 0
+  },
+  "eroge-to-mainstream-vn": {
+    "name": "Eroge To Mainstream Vn",
+    "type": "otaku-history",
+    "weight": 102,
+    "score": 0
+  },
+  "fairies": {
+    "name": "Fairies",
+    "type": "idol",
+    "weight": 94,
+    "score": 0
+  },
+  "fairy-kei": {
+    "name": "Fairy Kei",
+    "type": "otaku-culture",
+    "weight": 105,
+    "score": 0
+  },
+  "fansub-era": {
+    "name": "Fansub Era",
+    "type": "otaku-history",
+    "weight": 110,
+    "score": 0
+  },
+  "figure-collecting-culture": {
+    "name": "Figure Collecting Culture",
+    "type": "figures",
+    "weight": 101,
+    "score": 0
+  },
+  "fruits-magazine": {
+    "name": "Fruits Magazine",
+    "type": "otaku-culture",
+    "weight": 104,
+    "score": 0
+  },
+  "fujoshi-culture": {
+    "name": "Fujoshi Culture",
+    "type": "otaku-culture",
+    "weight": 105,
+    "score": 0
+  },
+  "gacha-and-anime-franchises": {
+    "name": "Gacha And Anime Franchises",
+    "type": "otaku-culture",
+    "weight": 105,
+    "score": 0
+  },
+  "gainax-history": {
+    "name": "Gainax History",
+    "type": "anime",
+    "weight": 98,
+    "score": 0
+  },
+  "galge-and-dating-sim-history": {
+    "name": "Galge And Dating Sim History",
+    "type": "otaku-history",
+    "weight": 103,
+    "score": 0
+  },
+  "game-center-culture": {
+    "name": "Game Center Culture",
+    "type": "otaku-culture",
+    "weight": 101,
+    "score": 0
+  },
+  "ganguro": {
+    "name": "Ganguro",
+    "type": "otaku-culture",
+    "weight": 103,
+    "score": 0
+  },
+  "gashapon-history": {
+    "name": "Gashapon History",
+    "type": "figures",
+    "weight": 103,
+    "score": 0
+  },
+  "gothic-lolita": {
+    "name": "Gothic Lolita",
+    "type": "otaku-culture",
+    "weight": 103,
+    "score": 0
+  },
+  "goto-maki": {
+    "name": "Goto Maki",
+    "type": "idol",
+    "weight": 91,
+    "score": 0
+  },
+  "gyaru-culture": {
+    "name": "Gyaru Culture",
+    "type": "otaku-culture",
+    "weight": 101,
+    "score": 0
+  },
+  "h-game-industry": {
+    "name": "H Game Industry",
+    "type": "otaku-history",
+    "weight": 102,
+    "score": 0
+  },
+  "harajuku-fashion-history": {
+    "name": "Harajuku Fashion History",
+    "type": "otaku-history",
+    "weight": 100,
+    "score": 0
+  },
+  "haruna-kojima": {
+    "name": "Haruna Kojima",
+    "type": "idol",
+    "weight": 90,
+    "score": 0
+  },
+  "hentai-ova-boom": {
+    "name": "Hentai Ova Boom",
+    "type": "otaku-history",
+    "weight": 104,
+    "score": 0
+  },
+  "hey-say-jump": {
+    "name": "Hey Say Jump",
+    "type": "idol",
+    "weight": 91,
+    "score": 0
+  },
+  "hikaru-genji": {
+    "name": "Hikaru Genji",
+    "type": "idol",
+    "weight": 91,
+    "score": 0
+  },
+  "himegyaru": {
+    "name": "Himegyaru",
+    "type": "otaku-culture",
+    "weight": 104,
+    "score": 0
+  },
+  "hinatazaka46": {
+    "name": "Hinatazaka46",
+    "type": "idol",
+    "weight": 90,
+    "score": 0
+  },
+  "hkt48": {
+    "name": "Hkt48",
+    "type": "idol",
+    "weight": 91,
+    "score": 0
+  },
+  "idol-anime-connection": {
+    "name": "Idol Anime Connection",
+    "type": "idol",
+    "weight": 102,
+    "score": 0
+  },
+  "idol-anime-music": {
+    "name": "Idol Anime Music",
+    "type": "anime-music",
+    "weight": 105,
+    "score": 0
+  },
+  "idol-concert-culture": {
+    "name": "Idol Concert Culture",
+    "type": "idol",
+    "weight": 103,
+    "score": 0
+  },
+  "idol-culture": {
+    "name": "Idol Culture",
+    "type": "otaku-culture",
+    "weight": 95,
+    "score": 0
+  },
+  "idol-dark-side": {
+    "name": "Idol Dark Side",
+    "type": "idol",
+    "weight": 103,
+    "score": 0
+  },
+  "idol-fan-club-culture": {
+    "name": "Idol Fan Club Culture",
+    "type": "idol",
+    "weight": 105,
+    "score": 0
+  },
+  "idol-fashion-aesthetics": {
+    "name": "Idol Fashion Aesthetics",
+    "type": "idol",
+    "weight": 105,
+    "score": 0
+  },
+  "idol-graduation-system": {
+    "name": "Idol Graduation System",
+    "type": "idol",
+    "weight": 103,
+    "score": 0
+  },
+  "idol-handshake-events": {
+    "name": "Idol Handshake Events",
+    "type": "idol",
+    "weight": 105,
+    "score": 0
+  },
+  "idol-history-1970s": {
+    "name": "Idol History 1970S",
+    "type": "idol",
+    "weight": 102,
+    "score": 0
+  },
+  "idol-history-1980s": {
+    "name": "Idol History 1980S",
+    "type": "idol",
+    "weight": 100,
+    "score": 0
+  },
+  "idol-history-1990s": {
+    "name": "Idol History 1990S",
+    "type": "idol",
+    "weight": 100,
+    "score": 0
+  },
+  "idol-history-2000s": {
+    "name": "Idol History 2000S",
+    "type": "idol",
+    "weight": 100,
+    "score": 0
+  },
+  "idol-history-2010s": {
+    "name": "Idol History 2010S",
+    "type": "idol",
+    "weight": 100,
+    "score": 0
+  },
+  "idol-label-history": {
+    "name": "Idol Label History",
+    "type": "idol",
+    "weight": 106,
+    "score": 0
+  },
+  "idol-love-ban-rule": {
+    "name": "Idol Love Ban Rule",
+    "type": "idol",
+    "weight": 100,
+    "score": 0
+  },
+  "idol-oshi-culture": {
+    "name": "Idol Oshi Culture",
+    "type": "idol",
+    "weight": 100,
+    "score": 0
+  },
+  "idol-overseas-expansion": {
+    "name": "Idol Overseas Expansion",
+    "type": "idol",
+    "weight": 103,
+    "score": 0
+  },
+  "idol-scandal-culture": {
+    "name": "Idol Scandal Culture",
+    "type": "idol",
+    "weight": 100,
+    "score": 0
+  },
+  "idol-senbatsu-elections": {
+    "name": "Idol Senbatsu Elections",
+    "type": "idol",
+    "weight": 103,
+    "score": 0
+  },
+  "idol-shashinshuu": {
+    "name": "Idol Shashinshuu",
+    "type": "idol",
+    "weight": 107,
+    "score": 0
+  },
+  "idol-streaming-era": {
+    "name": "Idol Streaming Era",
+    "type": "idol",
+    "weight": 103,
+    "score": 0
+  },
+  "idol-training-audition-system": {
+    "name": "Idol Training Audition System",
+    "type": "idol",
+    "weight": 102,
+    "score": 0
+  },
+  "idol-vs-kpop": {
+    "name": "Idol Vs Kpop",
+    "type": "idol",
+    "weight": 102,
+    "score": 0
+  },
+  "idol-wota-psychology": {
+    "name": "Idol Wota Psychology",
+    "type": "idol",
+    "weight": 103,
+    "score": 0
+  },
+  "ikebukuro-otome-road": {
+    "name": "Ikebukuro Otome Road",
+    "type": "otaku-culture",
+    "weight": 102,
+    "score": 0
+  },
+  "isekai-boom": {
+    "name": "Isekai Boom",
+    "type": "otaku-culture",
+    "weight": 100,
+    "score": 0
+  },
+  "japan-obscenity-law-history": {
+    "name": "Japan Obscenity Law History",
+    "type": "otaku-history",
+    "weight": 102,
+    "score": 0
+  },
+  "jirai-kei": {
+    "name": "Jirai Kei",
+    "type": "otaku-culture",
+    "weight": 101,
+    "score": 0
+  },
+  "johnnys-entertainment-history": {
+    "name": "Johnnys Entertainment History",
+    "type": "idol",
+    "weight": 95,
+    "score": 0
+  },
+  "juice-juice": {
+    "name": "Juice Juice",
+    "type": "idol",
+    "weight": 93,
+    "score": 0
+  },
+  "jurina-matsui": {
+    "name": "Jurina Matsui",
+    "type": "idol",
+    "weight": 89,
+    "score": 0
+  },
+  "kanjani8": {
+    "name": "Kanjani8",
+    "type": "idol",
+    "weight": 90,
+    "score": 0
+  },
+  "kattun": {
+    "name": "Kattun",
+    "type": "idol",
+    "weight": 90,
+    "score": 0
+  },
+  "kawaii-as-cultural-export": {
+    "name": "Kawaii As Cultural Export",
+    "type": "otaku-culture",
+    "weight": 100,
+    "score": 0
+  },
+  "keyakizaka46": {
+    "name": "Keyakizaka46",
+    "type": "idol",
+    "weight": 88,
+    "score": 0
+  },
+  "king-and-prince": {
+    "name": "King And Prince",
+    "type": "idol",
+    "weight": 91,
+    "score": 0
+  },
+  "kinki-kids": {
+    "name": "Kinki Kids",
+    "type": "idol",
+    "weight": 87,
+    "score": 0
+  },
+  "kogal": {
+    "name": "Kogal",
+    "type": "otaku-culture",
+    "weight": 103,
+    "score": 0
+  },
+  "kyoko-koizumi": {
+    "name": "Kyoko Koizumi",
+    "type": "idol",
+    "weight": 89,
+    "score": 0
+  },
+  "kyoto-animation-history": {
+    "name": "Kyoto Animation History",
+    "type": "anime",
+    "weight": 97,
+    "score": 0
+  },
+  "light-novel-boom": {
+    "name": "Light Novel Boom",
+    "type": "otaku-history",
+    "weight": 105,
+    "score": 0
+  },
+  "lolita-fashion": {
+    "name": "Lolita Fashion",
+    "type": "otaku-culture",
+    "weight": 100,
+    "score": 0
+  },
+  "madhouse-golden-era": {
+    "name": "Madhouse Golden Era",
+    "type": "anime",
+    "weight": 102,
+    "score": 0
+  },
+  "maid-cafe-history": {
+    "name": "Maid Cafe History",
+    "type": "otaku-culture",
+    "weight": 101,
+    "score": 0
+  },
+  "maid-cafe-industry": {
+    "name": "Maid Cafe Industry",
+    "type": "otaku-culture",
+    "weight": 103,
+    "score": 0
+  },
+  "maid-cafe-overseas": {
+    "name": "Maid Cafe Overseas",
+    "type": "otaku-culture",
+    "weight": 104,
+    "score": 0
+  },
+  "maid-fashion-and-cafes": {
+    "name": "Maid Fashion And Cafes",
+    "type": "otaku-culture",
+    "weight": 103,
+    "score": 0
+  },
+  "mal-and-anime-list-culture": {
+    "name": "Mal And Anime List Culture",
+    "type": "otaku-culture",
+    "weight": 104,
+    "score": 0
+  },
+  "manga-editor-culture": {
+    "name": "Manga Editor Culture",
+    "type": "manga",
+    "weight": 103,
+    "score": 0
+  },
+  "manga-magazine-decline": {
+    "name": "Manga Magazine Decline",
+    "type": "manga",
+    "weight": 102,
+    "score": 0
+  },
+  "manga-magazine-ecosystem": {
+    "name": "Manga Magazine Ecosystem",
+    "type": "manga",
+    "weight": 101,
+    "score": 0
+  },
+  "mappa-controversy": {
+    "name": "Mappa Controversy",
+    "type": "anime",
+    "weight": 101,
+    "score": 0
+  },
+  "mayu-watanabe": {
+    "name": "Mayu Watanabe",
+    "type": "idol",
+    "weight": 87,
+    "score": 0
+  },
+  "menhera-kei": {
+    "name": "Menhera Kei",
+    "type": "otaku-culture",
+    "weight": 103,
+    "score": 0
+  },
+  "miho-nakayama": {
+    "name": "Miho Nakayama",
+    "type": "idol",
+    "weight": 90,
+    "score": 0
+  },
+  "minami-takahashi": {
+    "name": "Minami Takahashi",
+    "type": "idol",
+    "weight": 90,
+    "score": 0
+  },
+  "moe-culture": {
+    "name": "Moe Culture",
+    "type": "otaku-culture",
+    "weight": 100,
+    "score": 0
+  },
+  "momoe-yamaguchi": {
+    "name": "Momoe Yamaguchi",
+    "type": "idol",
+    "weight": 83,
+    "score": 0
+  },
+  "momoiro-clover-z": {
+    "name": "Momoiro Clover Z",
+    "type": "idol",
+    "weight": 86,
+    "score": 0
+  },
+  "mori-girl": {
+    "name": "Mori Girl",
+    "type": "otaku-culture",
+    "weight": 106,
+    "score": 0
+  },
+  "morning-musume": {
+    "name": "Morning Musume",
+    "type": "idol",
+    "weight": 83,
+    "score": 0
+  },
+  "nakano-broadway": {
+    "name": "Nakano Broadway",
+    "type": "otaku-culture",
+    "weight": 103,
+    "score": 0
+  },
+  "narou-web-novel-platform": {
+    "name": "Narou Web Novel Platform",
+    "type": "otaku-history",
+    "weight": 100,
+    "score": 0
+  },
+  "news-johnnys": {
+    "name": "News Johnnys",
+    "type": "idol",
+    "weight": 90,
+    "score": 0
+  },
+  "ngt48": {
+    "name": "Ngt48",
+    "type": "idol",
+    "weight": 95,
+    "score": 0
+  },
+  "niconico-douga-history": {
+    "name": "Niconico Douga History",
+    "type": "otaku-history",
+    "weight": 99,
+    "score": 0
+  },
+  "nipponbashi-den-den-town": {
+    "name": "Nipponbashi Den Den Town",
+    "type": "otaku-culture",
+    "weight": 103,
+    "score": 0
+  },
+  "niziu": {
+    "name": "Niziu",
+    "type": "idol",
+    "weight": 88,
+    "score": 0
+  },
+  "nmb48": {
+    "name": "Nmb48",
+    "type": "idol",
+    "weight": 91,
+    "score": 0
+  },
+  "nogizaka46": {
+    "name": "Nogizaka46",
+    "type": "idol",
+    "weight": 81,
+    "score": 0
+  },
+  "onyanko-club": {
+    "name": "Onyanko Club",
+    "type": "idol",
+    "weight": 94,
+    "score": 0
+  },
+  "otaku-bashing": {
+    "name": "Otaku Bashing",
+    "type": "otaku-history",
+    "weight": 110,
+    "score": 0
+  },
+  "otaku-history-1980s": {
+    "name": "Otaku History 1980S",
+    "type": "otaku-history",
+    "weight": 100,
+    "score": 0
+  },
+  "otaku-history-1990s": {
+    "name": "Otaku History 1990S",
+    "type": "otaku-history",
+    "weight": 100,
+    "score": 0
+  },
+  "otaku-history-2000s": {
+    "name": "Otaku History 2000S",
+    "type": "otaku-history",
+    "weight": 100,
+    "score": 0
+  },
+  "otaku-tourism": {
+    "name": "Otaku Tourism",
+    "type": "otaku-culture",
+    "weight": 102,
+    "score": 0
+  },
+  "otome-kei": {
+    "name": "Otome Kei",
+    "type": "otaku-culture",
+    "weight": 105,
+    "score": 0
+  },
+  "ova-era-history": {
+    "name": "Ova Era History",
+    "type": "otaku-history",
+    "weight": 101,
+    "score": 0
+  },
+  "perfume": {
+    "name": "Perfume",
+    "type": "idol",
+    "weight": 85,
+    "score": 0
+  },
+  "pixiv-and-fan-art-culture": {
+    "name": "Pixiv And Fan Art Culture",
+    "type": "otaku-culture",
+    "weight": 100,
+    "score": 0
+  },
+  "production-ig-history": {
+    "name": "Production Ig History",
+    "type": "anime",
+    "weight": 101,
+    "score": 0
+  },
+  "r18-doujinshi-and-fandom": {
+    "name": "R18 Doujinshi And Fandom",
+    "type": "otaku-culture",
+    "weight": 105,
+    "score": 0
+  },
+  "regional-idol-boom": {
+    "name": "Regional Idol Boom",
+    "type": "idol",
+    "weight": 104,
+    "score": 0
+  },
+  "retro-anime-goods-collecting": {
+    "name": "Retro Anime Goods Collecting",
+    "type": "figures",
+    "weight": 103,
+    "score": 0
+  },
+  "rhythm-game-culture": {
+    "name": "Rhythm Game Culture",
+    "type": "otaku-culture",
+    "weight": 102,
+    "score": 0
+  },
+  "rino-sashihara": {
+    "name": "Rino Sashihara",
+    "type": "idol",
+    "weight": 87,
+    "score": 0
+  },
+  "sakurazaka46": {
+    "name": "Sakurazaka46",
+    "type": "idol",
+    "weight": 89,
+    "score": 0
+  },
+  "seiko-matsuda": {
+    "name": "Seiko Matsuda",
+    "type": "idol",
+    "weight": 79,
+    "score": 0
+  },
+  "seiyuu-agency-system": {
+    "name": "Seiyuu Agency System",
+    "type": "seiyuu",
+    "weight": 103,
+    "score": 0
+  },
+  "seiyuu-live-events": {
+    "name": "Seiyuu Live Events",
+    "type": "seiyuu",
+    "weight": 101,
+    "score": 0
+  },
+  "seiyuu-radio-shows": {
+    "name": "Seiyuu Radio Shows",
+    "type": "seiyuu",
+    "weight": 104,
+    "score": 0
+  },
+  "seiyuu-training-schools": {
+    "name": "Seiyuu Training Schools",
+    "type": "seiyuu",
+    "weight": 103,
+    "score": 0
+  },
+  "seiyuu-who-sing": {
+    "name": "Seiyuu Who Sing",
+    "type": "anime-music",
+    "weight": 110,
+    "score": 0
+  },
+  "sexy-zone": {
+    "name": "Sexy Zone",
+    "type": "idol",
+    "weight": 91,
+    "score": 0
+  },
+  "shaft-studio": {
+    "name": "Shaft Studio",
+    "type": "anime",
+    "weight": 101,
+    "score": 0
+  },
+  "shiritsu-ebisu-chuugaku": {
+    "name": "Shiritsu Ebisu Chuugaku",
+    "type": "idol",
+    "weight": 94,
+    "score": 0
+  },
+  "shizuka-kudo": {
+    "name": "Shizuka Kudo",
+    "type": "idol",
+    "weight": 89,
+    "score": 0
+  },
+  "shonen-jump-history": {
+    "name": "Shonen Jump History",
+    "type": "manga",
+    "weight": 98,
+    "score": 0
+  },
+  "sixtones": {
+    "name": "Sixtones",
+    "type": "idol",
+    "weight": 90,
+    "score": 0
+  },
+  "ske48": {
+    "name": "Ske48",
+    "type": "idol",
+    "weight": 90,
+    "score": 0
+  },
+  "smap": {
+    "name": "Smap",
+    "type": "idol",
+    "weight": 80,
+    "score": 0
+  },
+  "snow-man": {
+    "name": "Snow Man",
+    "type": "idol",
+    "weight": 89,
+    "score": 0
+  },
+  "speed": {
+    "name": "Speed",
+    "type": "idol",
+    "weight": 91,
+    "score": 0
+  },
+  "stu48": {
+    "name": "Stu48",
+    "type": "idol",
+    "weight": 96,
+    "score": 0
+  },
+  "studio-ghibli-legacy": {
+    "name": "Studio Ghibli Legacy",
+    "type": "anime",
+    "weight": 96,
+    "score": 0
+  },
+  "sunrise-and-gundam": {
+    "name": "Sunrise And Gundam",
+    "type": "anime",
+    "weight": 99,
+    "score": 0
+  },
+  "sweet-lolita": {
+    "name": "Sweet Lolita",
+    "type": "otaku-culture",
+    "weight": 103,
+    "score": 0
+  },
+  "tankobon-vs-magazine-reading": {
+    "name": "Tankobon Vs Magazine Reading",
+    "type": "otaku-culture",
+    "weight": 104,
+    "score": 0
+  },
+  "team-syachihoko": {
+    "name": "Team Syachihoko",
+    "type": "idol",
+    "weight": 95,
+    "score": 0
+  },
+  "toei-animation-history": {
+    "name": "Toei Animation History",
+    "type": "anime",
+    "weight": 99,
+    "score": 0
+  },
+  "tokio": {
+    "name": "Tokio",
+    "type": "idol",
+    "weight": 88,
+    "score": 0
+  },
+  "tokyo-girls-style": {
+    "name": "Tokyo Girls Style",
+    "type": "idol",
+    "weight": 93,
+    "score": 0
+  },
+  "touhou-and-comiket": {
+    "name": "Touhou And Comiket",
+    "type": "otaku-culture",
+    "weight": 101,
+    "score": 0
+  },
+  "touhou-music-scene": {
+    "name": "Touhou Music Scene",
+    "type": "anime-music",
+    "weight": 100,
+    "score": 0
+  },
+  "touhou-project": {
+    "name": "Touhou Project",
+    "type": "otaku-culture",
+    "weight": 96,
+    "score": 0
+  },
+  "trigger-studio": {
+    "name": "Trigger Studio",
+    "type": "anime",
+    "weight": 102,
+    "score": 0
+  },
+  "twice": {
+    "name": "Twice",
+    "type": "idol",
+    "weight": 86,
+    "score": 0
+  },
+  "twitter-anime-fandom": {
+    "name": "Twitter Anime Fandom",
+    "type": "otaku-culture",
+    "weight": 103,
+    "score": 0
+  },
+  "ura-harajuku": {
+    "name": "Ura Harajuku",
+    "type": "otaku-culture",
+    "weight": 105,
+    "score": 0
+  },
+  "v6": {
+    "name": "V6",
+    "type": "idol",
+    "weight": 89,
+    "score": 0
+  },
+  "virtual-idol-culture": {
+    "name": "Virtual Idol Culture",
+    "type": "idol",
+    "weight": 95,
+    "score": 0
+  },
+  "visual-kei-fashion": {
+    "name": "Visual Kei Fashion",
+    "type": "otaku-culture",
+    "weight": 102,
+    "score": 0
+  },
+  "vocaloid-culture": {
+    "name": "Vocaloid Culture",
+    "type": "anime-music",
+    "weight": 95,
+    "score": 0
+  },
+  "vtuber-culture": {
+    "name": "Vtuber Culture",
+    "type": "otaku-culture",
+    "weight": 90,
+    "score": 0
+  },
+  "wa-lolita": {
+    "name": "Wa Lolita",
+    "type": "otaku-culture",
+    "weight": 106,
+    "score": 0
+  },
+  "wink": {
+    "name": "Wink",
+    "type": "idol",
+    "weight": 93,
+    "score": 0
+  },
+  "wit-studio": {
+    "name": "Wit Studio",
+    "type": "anime",
+    "weight": 103,
+    "score": 0
+  },
+  "wonder-festival-history": {
+    "name": "Wonder Festival History",
+    "type": "figures",
+    "weight": 103,
+    "score": 0
+  },
+  "world-cosplay-summit": {
+    "name": "World Cosplay Summit",
+    "type": "cosplay",
+    "weight": 110,
+    "score": 0
+  },
+  "wotagei-culture": {
+    "name": "Wotagei Culture",
+    "type": "idol",
+    "weight": 103,
+    "score": 0
+  },
+  "yami-kawaii": {
+    "name": "Yami Kawaii",
+    "type": "otaku-culture",
+    "weight": 102,
+    "score": 0
+  },
+  "yoko-minamino": {
+    "name": "Yoko Minamino",
+    "type": "idol",
+    "weight": 91,
+    "score": 0
+  }
+}
