@@ -1,0 +1,16 @@
+# Hugo
+public/
+resources/
+.hugo_build.lock
+
+# OS
+Thumbs.db
+
+# IDE
+.vscode/
+
+# Claude
+.claude/
+
+# Large data files (not for git)
+vndb-db-*.tar.zst

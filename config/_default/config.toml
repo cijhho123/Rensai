@@ -1,0 +1,15 @@
+baseurl      = "https://cijhho123.github.io/Rensai/"
+languageCode = "en-us"
+title        = "Rensai"
+theme        = "hugo-theme-stack"
+
+defaultContentLanguage = "en"
+
+# Anime/manga content has Japanese terms mixed in
+hasCJKLanguage = true
+
+[pagination]
+    pagerSize = 10
+
+[caches.images]
+    dir = ":cacheDir/images"
