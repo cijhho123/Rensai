@@ -73,19 +73,47 @@ These are the last 20 article titles. Avoid writing something too similar to any
 
 ## Step 4 - Research online
 
-Search the web for primary sources, interviews, production history, critical reception,
-fan discourse - whatever gives the article real substance. You are looking for:
-- Specific facts, dates, quotes from creators or critics
-- Details that most people do not know but that serious fans would find revelatory
-- Contradictions, controversies, or underappreciated aspects worth examining
+**Do not decide your angle before researching.** Your angle must emerge from what you
+find, not from what you already know. Treat everything you think you know about the
+topic as unverified until a source confirms it.
+
+Research is the foundation of every article. The quality of the piece is directly
+proportional to how many different sources you consult. Each source — a creator
+interview, a production retrospective, a fan essay, a MAL review, a Reddit debate —
+carries its own angle, tone, and set of details. The more perspectives you absorb,
+the richer and more original your writing becomes. An article built from 3 sources
+reads like a summary. An article built from 15 reads like someone who actually knows
+the subject.
+
+**Search broadly and deeply.** Do not stop after finding one good source. For every
+topic, aim to consult at least 10-15 distinct sources across multiple categories:
+- Creator interviews and statements (translated or original)
+- Production histories and behind-the-scenes accounts
+- Critical reception and professional reviews
+- Fan discourse — Reddit threads, forum debates, blog essays
+- Reference entries — MAL, AniList, Wikipedia, fan wikis
+- News coverage — announcements, controversies, industry reporting
+- Academic or analytical writing if it exists
 
 For figures/merch topics: also search for recent releases and collaborations.
 
-**If research yields thin material:** fall back to community sources — MAL entry and
-user reviews, AniList, Reddit (r/anime, r/manga, r/visualnovels, and the franchise's
-own subreddit), fan wikis, and any translated creator interviews you can find.
-Synthesize the most interesting perspectives and recurring debates into an article.
-Even a topic with little press coverage has a fandom discourse worth examining.
+**If primary research yields thin material:** fall back to community sources — MAL
+entry and user reviews, AniList, Reddit (r/anime, r/manga, r/visualnovels, and the
+franchise's own subreddit), fan wikis, and any translated creator interviews you can
+find. Synthesize the most interesting perspectives and recurring debates into an
+article. Even a topic with little press coverage has a fandom discourse worth examining.
+
+**Hard rule:** You must consult at least 5 distinct sources before you are permitted to
+select an angle in Step 7. If you find yourself knowing what you want to argue before
+you have read 5 sources, keep searching until something you find surprises you,
+contradicts your assumption, or adds a detail you did not know. That moment of surprise
+is when research is actually working.
+
+**Source diversity rule:** At least one source must be fan discourse — a Reddit thread,
+forum post, or community essay. Professional reviews and Wikipedia are easy to find but
+they only tell you what journalists think. Fan discourse tells you how the work actually
+landed — what people argue about, what they noticed, what they care about. That
+perspective is irreplaceable and must be represented in every article's research.
 
 ## Step 5 - Surface all interesting material
 
@@ -110,6 +138,10 @@ This file is harvested by the weekly news routine. One line per item. Create the
 if it does not exist.
 
 ## Step 7 - Pick the angle
+
+The angle must be a product of your Step 4 research — not a thesis you formed before
+searching and then went looking for evidence to support. If your angle is identical to
+what you would have written without doing any research, go back to Step 4.
 
 For each article, commit to ONE specific angle. Be precise about what the piece actually
 is — not just a topic but a lens and a claim:
@@ -239,7 +271,10 @@ Do not:
 - Insert authorship disclaimers of any kind
 - Write a conclusion that just restates the intro
 
-**Images:** embed at least one image using Markdown: ![alt text](direct-image-url)
+**Images:** embed 1-3 images using Markdown: ![alt text](direct-image-url)
+Every article must have at least one. Use more when the topic benefits from it — key
+visuals, character designs, promotional art, production stills. Spread them through
+the article, not clustered at the top.
 Find images in this order of preference:
 1. Official promotional images from the studio, publisher, or distributor's site
 2. MAL or AniList cover/character images (direct image URL, not the page URL)
@@ -247,9 +282,21 @@ Find images in this order of preference:
 4. Fan wikis or news articles that host press/promotional images
 Use the direct URL to the image file (.jpg/.png), not a link to a webpage.
 
-**Sources:** cite inline. Every specific claim, quote, or statistic needs a linked
-source (MAL, Wikipedia, AniList, official site, news article, interview, etc.).
-Aim for 3+ inline links woven naturally into the text - not a reference list at the end.
+**Sources:** minimum 10 inline citations per article, aim for 15+. Every specific claim,
+quote, date, or statistic must link to its source (MAL, Wikipedia, AniList, official
+site, news article, interview, blog post, Reddit thread, etc.).
+
+This is not a formatting requirement — it is a quality requirement. Dense sourcing is
+what separates real analysis from surface-level content. Each source you cite brings a
+different perspective, a different voice, a different set of facts. A creator interview
+gives you intent. A fan forum gives you reception. A production history gives you
+context. An academic essay gives you framework. When you weave 12-15 of these into a
+single article, the result reads like someone who genuinely understands the subject from
+multiple angles — not someone who skimmed one Wikipedia page.
+
+Weave citations naturally into the text. Do not dump them in a reference list at the
+end. An article with fewer than 10 inline links is under-researched — go back and
+find more before moving on.
 
 Frontmatter:
 ---
@@ -290,8 +337,11 @@ After writing each article, spawn a sub-agent to review it before committing.
 > - **Substance** — Does it say something specific and informed, or stay surface-level?
 > - **Voice** — Does it sound like a person with real opinions, or like a content mill?
 > - **Ending** — Does it close with something that sticks, or just trail off / restate the intro?
-> - **Factual claims** — Are sources cited inline? Flag any claims that feel unsupported.
-> - **Images** — Is there at least one embedded image?
+> - **Sources** — Count the inline citations. The minimum is 10, target is 15+.
+>   If under 10, this is a hard fail — list specific claims that need sources.
+>   If 10-14, note it as acceptable but suggest where more sources would strengthen
+>   the argument. Also check source diversity — are they all from the same site?
+> - **Images** — Count embedded images. There should be 1-3. If zero, flag it.
 >
 > Then give specific revision suggestions. Be direct — praise only what genuinely works,
 > flag everything that does not. If the article has no real angle and is just a summary,
