@@ -10,8 +10,8 @@ def update_topic_score(slug):
     topics = json.loads(TOPICS_FILE.read_text())
 
     if slug not in topics:
-        print(f"Warning: '{slug}' not in topics.json", file=sys.stderr)
-        return
+        topics[slug] = {"name": slug.replace("-", " ").title(), "type": "anime", "weight": 100, "score": 0}
+        print(f"Added new topic '{slug}' with default values")
 
     topics[slug]["score"] += topics[slug]["weight"]
     TOPICS_FILE.write_text(json.dumps(topics, indent=2, ensure_ascii=False))
