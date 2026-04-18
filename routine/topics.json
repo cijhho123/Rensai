@@ -13336,7 +13336,7 @@
       "anime"
     ],
     "weight": 60,
-    "score": 1
+    "score": -5
   },
   "berserk-2016": {
     "name": "Berserk (2016)",
@@ -86630,7 +86630,7 @@
       "anime"
     ],
     "weight": 88,
-    "score": 0
+    "score": 150
   },
   "neon-genesis-evangelion-the-shinji-ikari-raising-project": {
     "name": "Neon Genesis Evangelion: The Shinji Ikari Raising Project",
@@ -136872,7 +136872,7 @@
       "light-novel"
     ],
     "weight": 84,
-    "score": 1
+    "score": -1
   },
   "welcome-to-the-outcasts-restaurant": {
     "name": "Welcome to the Outcast's Restaurant!",
