@@ -244,26 +244,24 @@ tags:
 
 Path: content/post/YYYY-MM-DD-{slug}/index.md
 
-## Step 12 - Commit each article, then push once
+## Step 12 - Commit each article with its state, then push once
 
-For each article written this run, stage and commit it individually:
-  git add content/post/YYYY-MM-DD-{slug}/index.md
-  git commit -m "Daily: {Article Title}"
+For each article written this run:
+
+1. Run: python routine/update_topic_score.py {topic}
+2. Append ONE line to topic-log/{topic}.txt (create if missing):
+   Format: "YYYY-MM-DD: {angle-type} - {one sentence on what was covered}"
+3. Prepend the article title to routine/recent.txt, newest first. Trim to 20 lines.
+4. Stage and commit everything together:
+
+```
+git add content/post/YYYY-MM-DD-{slug}/index.md \
+       routine/topics.json \
+       routine/news-notes.txt \
+       topic-log/{topic}.txt \
+       routine/recent.txt
+git commit -m "Daily: {Article Title}"
+```
 
 After all articles are committed, push once:
-  git push origin main
-
-## Step 13 - Update state
-
-For each article written, run:
-  python routine/update_topic_score.py {topic}
-
-Append ONE line to topic-log/{topic}.txt (create if missing):
-  Format: "YYYY-MM-DD: {angle-type} - {one sentence on what was covered}"
-
-Prepend each article title to routine/recent.txt, newest first. Trim to 20 lines.
-
-Then commit and push state in one go:
-  git add routine/topics.json routine/news-notes.txt topic-log/*.txt routine/recent.txt
-  git commit -m "State: {list of topics updated}"
   git push origin main

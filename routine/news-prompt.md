@@ -85,12 +85,9 @@ tags:
     - any-franchises-or-people-or-groups-mentioned
 ---
 
-## Step 3 - Write file and push
+## Step 3 - Write the file
 
 Path: content/post/YYYY-MM-DD-weekly-news/index.md
-git add content/post/YYYY-MM-DD-weekly-news/index.md
-git commit -m "Weekly News: {date}"
-git push origin main
 
 ## Step 4 - Check news-notes for anything missed
 
@@ -99,13 +96,18 @@ These are brief items collected by the article agents during their research runs
 week. Each line is: "YYYY-MM-DD: {summary} — {source URL}"
 
 Use this as a final check to see if anything significant slipped through your web
-research. The roundup is already published - this step is read-only, no changes needed.
+research. The roundup is already written - this step is read-only, no changes needed.
 
-## Step 5 - Clear news-notes and update state
+## Step 5 - Update state, commit, and push
 
 Write today's ISO date (YYYY-MM-DD) to routine/last-news-post.txt
 Clear routine/news-notes.txt (write an empty file - it refills during the coming week)
 
-git add routine/last-news-post.txt routine/news-notes.txt
-git commit -m "State: news post date updated, news-notes cleared"
+Stage everything and commit once:
+```
+git add content/post/YYYY-MM-DD-weekly-news/index.md \
+       routine/last-news-post.txt \
+       routine/news-notes.txt
+git commit -m "Weekly News: {date}"
 git push origin main
+```
