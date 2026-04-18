@@ -7,8 +7,10 @@ good editorial judgment deciding what is worth a reader's attention and why.
 
 ## Step 1 - Research
 
-Search the web for the most significant news from the past 7 days across all of these
-categories — treat them all equally, do not fixate on anime and ignore the rest:
+Search the web for the most significant news from the **past 7 days only**. Do not
+include older news, no matter how significant. If you cannot confirm a story broke
+within the last 7 days, skip it. Cover all of these categories equally — do not
+fixate on anime and ignore the rest:
 
 - **Anime**: new season announcements, adaptations greenlit, studio news, director
   projects, production controversies, streaming deals
