@@ -24,6 +24,8 @@ Strong angles, not summaries. Examples of the kind of pieces to aim for:
 Not every article needs to be that heavy - but every article needs a real angle and a
 real position. "Here is a thing that exists" is not an article.
 
+---
+
 ## Step 1 - Select topic
 
 Run: python routine/get_next_topic.py
@@ -48,9 +50,14 @@ fan discourse - whatever gives the article real substance. You are looking for:
 - Contradictions, controversies, or underappreciated aspects worth examining
 
 For figures/merch topics: also search for recent releases and collaborations.
-For cosplay articles: find image URLs you can embed.
 
-## Step 4b - Surface all interesting material
+**If research yields thin material:** fall back to community sources — MAL entry and
+user reviews, AniList, Reddit (r/anime, r/manga, r/visualnovels, and the franchise's
+own subreddit), fan wikis, and any translated creator interviews you can find.
+Synthesize the most interesting perspectives and recurring debates into an article.
+Even a topic with little press coverage has a fandom discourse worth examining.
+
+## Step 5 - Surface all interesting material
 
 While researching, collect everything worth writing about. For each strong angle you
 find, ask: "Is there enough here for a standalone article?"
@@ -60,112 +67,84 @@ Things that qualify as a standalone:
 - A significant real-world event (pop-up, exhibition, collab) with enough substance
 - An adjacent topic that surfaced organically with clear article potential
 
-Write all of them. Each becomes its own file, its own commit, its own state update.
-Skip thin material - it will get picked up by the weekly news routine instead.
+Write all of them. Each becomes its own file, its own commit. Push all commits together
+at the end of the run.
 
-## Step 5 - Pick the angle
+## Step 6 - Log thin news items
 
-For each article, commit to ONE specific angle. Be precise:
+For anything newsworthy but too thin for a standalone article (announcements, brief
+updates, upcoming releases, event dates), append a line to routine/news-notes.txt:
+Format: "YYYY-MM-DD: {one sentence summary} — {source URL}"
+
+This file is harvested by the weekly news routine. One line per item. Create the file
+if it does not exist.
+
+## Step 7 - Pick the angle
+
+For each article, commit to ONE specific angle. Be precise about what the piece actually
+is — not just a topic but a lens and a claim:
 - Not "retrospective on Berserk" but "how Miura's art direction in the Golden Age arc
   set a benchmark that the 2016 adaptation failed to understand"
 - Not "character analysis of Rei Ayanami" but "Rei as a vessel vs. a person: how NGE
   uses her blank-slate design to critique the moe archetype it helped create"
 
-Angle types: character-analysis | thematic-analysis | retrospective | cultural-impact |
-comparison | industry-deep-dive | creator-spotlight | fan-culture
+The following are common angle types to draw from as inspiration — they are not a
+constraint. If the material calls for something not on this list, use it. The only
+rule is that the piece must have a clear purpose and a real point of view. A great
+angle that does not fit any label here is better than a mediocre one that does.
+
+**Analytical:**
+- **character-analysis** — psychological or narrative deep dive on a specific character
+- **thematic-analysis** — unpacking what a work is actually about beneath the surface
+- **deconstruction** — how a work subverts, critiques, or dismantles a genre or trope
+- **anatomy** — breaking down exactly how a specific scene, arc, or technique works and why
+- **sociological-lens** — reading a work or phenomenon through gender, class, psychology, or politics
+- **comparison** — two works, two eras, two approaches examined side by side
+- **reappraisal** — arguing that something is better, worse, or different than consensus holds
+
+**Historical & Contextual:**
+- **retrospective** — looking back at a work, era, or figure with the benefit of time
+- **origin-story** — how something came to exist: a genre, a trend, a studio, a format
+- **legacy** — what something left behind: its influence on works that came after
+- **cultural-impact** — how something changed the medium, the fandom, or broader culture
+- **biography** — chronicling the life, career, and significance of a real person
+
+**Industry & Community:**
+- **industry-deep-dive** — how the business, production, or labor side works or broke down
+- **creator-spotlight** — a director, mangaka, composer, seiyuu, or other figure's work and craft
+- **fan-culture** — how a fandom formed, what it made, how it behaved, what it reveals
+- **event-coverage** — a collab, anniversary, exhibition, shutdown, or moment worth documenting
+
+**News-Adjacent:**
+- **anniversary** — a franchise or work reaching a milestone, and what that milestone means
+- **collab-breakdown** — what a crossover or collaboration reveals about both parties
+- **incident** — a controversy, shutdown, scandal, or rupture and its consequences
+- **release-context** — situating a new volume, season, or entry in the broader story of its franchise
 
 The angle must not be medium-locked - it should work whether the reader came from the
 anime, the manga, the game, or just cultural osmosis.
 
-## Step 6 - Determine the category
+## Step 8 - Determine the category
 
 Pick the ONE most fitting:
-Anime Analysis | Manga Spotlight | Light Novel | Visual Novel | Seiyuu |
-Anime Music | Figures & Merchandise | Cosplay Culture | Idol | Otaku History | Otaku Culture |
+Anime | Manga | Light Novel | Visual Novel | Seiyuu |
+Anime Music | Figures & Merchandise | Cosplay | Idol | Otaku History | Otaku Culture |
 Events & Collaborations
 
-## Step 7 - Build the tags
+## Step 9 - Build the tags
 
-Using the schema for the chosen category (see below), generate all tag types.
-All tags are kebab-case. Include every applicable tag - do not skip unless genuinely
-inapplicable.
+Using the schema for your chosen category below, generate all applicable tag types.
+All tags are kebab-case. Do not skip a field unless it genuinely does not apply.
 
 **Franchise tagging:** If this topic is a sequel, spinoff, or OVA from a larger
 franchise, include the root franchise slug as an additional tag. E.g. an article on
 "attack-on-titan-final-season" also gets the tag "attack-on-titan".
 
-## Step 8 - Write the article
-
-Length: 700-1100 words. Aim for the high end on analytical pieces.
-
-Structure: lead with the hook - the specific claim, contradiction, or question you are
-going to examine. Do not open with "In the world of anime..." or any generic framing.
-Get into it immediately. Use subheadings if the piece benefits from them.
-
-Voice requirements:
-- First person is fine when expressing a genuine opinion
-- Use specific examples, not generalities ("Hideaki Anno" not "the director")
-- Quote sources when you have them
-- Take a position and defend it - "this works because...", "this fails because..."
-- End with something that opens outward - an implication, a question, a connection to
-  something larger. Not a summary.
-
-Do not:
-- Recap plot at length - assume the reader has seen/read it
-- Hedge every claim with "some fans believe" or "it could be argued"
-- Insert authorship disclaimers of any kind
-- Write a conclusion that just restates the intro
-
-Images: embed at least one image found online (Markdown: ![alt](url))
-Links: include at least one external link (MAL, Wikipedia, AniList, official site, etc.)
-
-Frontmatter:
----
-title: "Article Title Here"
-description: "One sharp sentence - the specific claim or angle, not a generic description."
-slug: topic-angle-slug
-date: YYYY-MM-DDTHH:MM:SS+0000
-categories:
-    - Category Name
-tags:
-    - tag-one
-    - tag-two
-    - ...
----
-
-## Step 9 - Write the file
-
-Path: content/post/YYYY-MM-DD-{slug}/index.md
-
-## Step 10 - Commit and push
-
-git add content/post/YYYY-MM-DD-{slug}/index.md
-git commit -m "Daily: {Article Title}"
-git push origin main
-
-## Step 11 - Update state (repeat for each article written this run)
-
-Run: python routine/update_topic_score.py {topic}
-If the topic is not in topics.json, skip the score update.
-
-Append ONE line to topic-log/{topic}.txt (create if missing):
-Format: "YYYY-MM-DD: {angle-type} - {one sentence on what was covered}"
-
-Prepend article title to routine/recent.txt, newest first. Trim to 20 lines.
-
-git add routine/topics.json topic-log/*.txt routine/recent.txt
-git commit -m "State: {list of topics updated}"
-git push origin main
-
----
-
-## TAG SCHEMAS
-
-### Anime Analysis
+### Anime
 franchise, full-title, format(tv/movie/ova/ona), broadcast-season, studio, director,
 demographic, genre, source-material, characters, angle, themes
 
-### Manga Spotlight
+### Manga
 franchise, full-title, format(manga/manhwa/manhua), mangaka, artist(if-different),
 magazine, publisher, demographic, genre, status, characters, angle, themes
 
@@ -189,7 +168,7 @@ broadcast-season(if-tied), composer(if-relevant), angle
 franchise, characters, manufacturer, scale, type, collab-partner(if-applicable),
 era, angle
 
-### Cosplay Culture
+### Cosplay
 cosplayed-franchise(if-focused), event(if-applicable), region, era, angle
 
 ### Idol
@@ -207,3 +186,81 @@ district(harajuku/shibuya/akihabara - if tied to a physical scene), era(if-relev
 ### Events & Collaborations
 franchise, event-type(pop-up-store/exhibition/collab/screening), collab-partner(if-applicable),
 location, characters(if-featured), broadcast-season, angle=event-coverage
+
+## Step 10 - Write the article
+
+Length: 700-1100 words. Aim for the high end on analytical pieces.
+
+Structure: lead with the hook - the specific claim, contradiction, or question you are
+going to examine. Do not open with "In the world of anime..." or any generic framing.
+Get into it immediately. Use subheadings if the piece benefits from them.
+
+Voice requirements:
+- First person is fine when expressing a genuine opinion
+- Use specific examples, not generalities ("Hideaki Anno" not "the director")
+- Quote sources when you have them
+- Take a position and defend it - "this works because...", "this fails because..."
+- End with something that opens outward - an implication, a question, a connection to
+  something larger. Not a summary.
+
+Do not:
+- Recap plot at length - assume the reader has seen/read it
+- Hedge every claim with "some fans believe" or "it could be argued"
+- Insert authorship disclaimers of any kind
+- Write a conclusion that just restates the intro
+
+**Images:** embed at least one image using Markdown: ![alt text](direct-image-url)
+Find images in this order of preference:
+1. Official promotional images from the studio, publisher, or distributor's site
+2. MAL or AniList cover/character images (direct image URL, not the page URL)
+3. Wikimedia Commons (free license, always safe)
+4. Fan wikis or news articles that host press/promotional images
+Use the direct URL to the image file (.jpg/.png), not a link to a webpage.
+
+**Sources:** cite inline. Every specific claim, quote, or statistic needs a linked
+source (MAL, Wikipedia, AniList, official site, news article, interview, etc.).
+Aim for 3+ inline links woven naturally into the text - not a reference list at the end.
+
+Frontmatter:
+---
+title: "Article Title Here"
+description: "One sharp sentence - the specific claim or angle, not a generic description."
+slug: topic-angle-slug
+date: YYYY-MM-DDTHH:MM:SS+0000
+categories:
+    - Anime   # or Manga, Light Novel, Visual Novel, Seiyuu, Anime Music,
+              # Figures & Merchandise, Cosplay, Idol, Otaku History, Otaku Culture,
+              # Events & Collaborations
+tags:
+    - tag-one
+    - tag-two
+    - ...
+---
+
+## Step 11 - Write the file
+
+Path: content/post/YYYY-MM-DD-{slug}/index.md
+
+## Step 12 - Commit each article, then push once
+
+For each article written this run, stage and commit it individually:
+  git add content/post/YYYY-MM-DD-{slug}/index.md
+  git commit -m "Daily: {Article Title}"
+
+After all articles are committed, push once:
+  git push origin main
+
+## Step 13 - Update state
+
+For each article written, run:
+  python routine/update_topic_score.py {topic}
+
+Append ONE line to topic-log/{topic}.txt (create if missing):
+  Format: "YYYY-MM-DD: {angle-type} - {one sentence on what was covered}"
+
+Prepend each article title to routine/recent.txt, newest first. Trim to 20 lines.
+
+Then commit and push state in one go:
+  git add routine/topics.json routine/news-notes.txt topic-log/*.txt routine/recent.txt
+  git commit -m "State: {list of topics updated}"
+  git push origin main
