@@ -28,8 +28,8 @@ FAVES_GATE = {
 }
 
 SCORE_FALLBACK = 7.0  # used when MAL score is null/zero
-VN_THRESHOLD   = 100  # minimum c_votecount for VNDB entries
-VN_FLOOR       = 30   # minimum c_votecount for long-tail VNDB entries
+VN_THRESHOLD   = 450  # minimum c_votecount for VNDB entries (~750 entries)
+VN_FLOOR       = 150  # minimum c_votecount for long-tail VNDB entries
 
 LONG_TAIL_WEIGHT = (250, 1200)  # weight range for below-threshold entries
 LONG_TAIL_SCORE  = (150, 600)   # starting score range for below-threshold entries
