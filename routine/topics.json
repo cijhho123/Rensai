@@ -464,8 +464,8 @@
   "ai-hoshino": {
     "name": "Ai Hoshino",
     "type": "character",
-    "weight": 119,
-    "score": 1
+    "weight": 90,
+    "score": -1
   },
   "ai-kakuma": {
     "name": "Ai Kakuma",
@@ -9584,8 +9584,8 @@
   "jellyfish-cant-swim-in-the-night": {
     "name": "Jellyfish Can't Swim in the Night",
     "type": "anime",
-    "weight": 136,
-    "score": 1
+    "weight": 111,
+    "score": -1
   },
   "jerry-jewell": {
     "name": "Jerry Jewell",
@@ -10418,7 +10418,7 @@
   "kana-arima": {
     "name": "Kana Arima",
     "type": "character",
-    "weight": 116,
+    "weight": 90,
     "score": 1
   },
   "kana-asumi": {
@@ -13754,8 +13754,8 @@
   "meme-oshino": {
     "name": "Meme Oshino",
     "type": "character",
-    "weight": 133,
-    "score": 1
+    "weight": 90,
+    "score": -1
   },
   "memories": {
     "name": "Memories",
@@ -16214,8 +16214,8 @@
   "onimai-im-now-your-sister": {
     "name": "Onimai: I'm Now Your Sister!",
     "type": "anime",
-    "weight": 122,
-    "score": 0
+    "weight": 85,
+    "score": -1
   },
   "only-the-flower-knows": {
     "name": "Only the Flower Knows",
@@ -17829,7 +17829,7 @@
     "name": "Rie Takahashi",
     "type": "person",
     "weight": 71,
-    "score": 1
+    "score": -1
   },
   "rie-tanaka": {
     "name": "Rie Tanaka",
@@ -18158,8 +18158,8 @@
   "ruby-hoshino": {
     "name": "Ruby Hoshino",
     "type": "character",
-    "weight": 138,
-    "score": 1
+    "weight": 90,
+    "score": -1
   },
   "rudeus-greyrat": {
     "name": "Rudeus Greyrat",
@@ -19268,8 +19268,8 @@
   "serial-experiments-lain": {
     "name": "Serial Experiments Lain",
     "type": "anime",
-    "weight": 88,
-    "score": 1
+    "weight": 50,
+    "score": -1
   },
   "servamp": {
     "name": "Servamp",
@@ -20834,8 +20834,8 @@
   "sumire-uesaka": {
     "name": "Sumire Uesaka",
     "type": "person",
-    "weight": 113,
-    "score": 1
+    "weight": 88,
+    "score": -1
   },
   "sumireko-sanshokuin": {
     "name": "Sumireko Sanshokuin",
