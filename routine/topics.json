@@ -5511,7 +5511,7 @@
     "name": "Evangelion: 1.0 You Are (Not) Alone",
     "type": "anime",
     "weight": 125,
-    "score": 0
+    "score": -1
   },
   "evangelion-20-you-can-not-advance": {
     "name": "Evangelion: 2.0 You Can (Not) Advance",
@@ -5523,13 +5523,13 @@
     "name": "Evangelion: 3.0 You Can (Not) Redo",
     "type": "anime",
     "weight": 125,
-    "score": 0
+    "score": -1
   },
   "evangelion-3010-thrice-upon-a-time": {
     "name": "Evangelion: 3.0+1.0 Thrice Upon a Time",
     "type": "anime",
     "weight": 106,
-    "score": 0
+    "score": -1
   },
   "eve": {
     "name": "Eve",
@@ -15531,7 +15531,7 @@
     "name": "Neon Genesis Evangelion: The End of Evangelion",
     "type": "anime",
     "weight": 88,
-    "score": 0
+    "score": -500
   },
   "neptune": {
     "name": "Neptune",
