@@ -596,7 +596,7 @@
   "akane-banashi": {
     "name": "Akane-banashi",
     "type": "manga",
-    "weight": 142,
+    "weight": 104,
     "score": 0
   },
   "akane-fujita": {
@@ -608,7 +608,7 @@
   "akane-kurokawa": {
     "name": "Akane Kurokawa",
     "type": "character",
-    "weight": 123,
+    "weight": 77,
     "score": 0
   },
   "akane-tsunemori": {
@@ -1442,8 +1442,8 @@
   "aquamarine-hoshino": {
     "name": "Aquamarine Hoshino",
     "type": "character",
-    "weight": 126,
-    "score": 1
+    "weight": 85,
+    "score": -1
   },
   "arakawa-under-the-bridge": {
     "name": "Arakawa Under the Bridge",
@@ -11870,7 +11870,7 @@
   "koyomi-araragi": {
     "name": "Koyomi Araragi",
     "type": "character",
-    "weight": 93,
+    "weight": 83,
     "score": 1
   },
   "kraft-lawrence": {
@@ -16424,7 +16424,7 @@
   "ougi-oshino": {
     "name": "Ougi Oshino",
     "type": "character",
-    "weight": 129,
+    "weight": 88,
     "score": 1
   },
   "our-dating-story-the-experienced-you-and-the-inexperienced-me": {
@@ -23672,7 +23672,7 @@
   "tsubasa-hanekawa": {
     "name": "Tsubasa Hanekawa",
     "type": "character",
-    "weight": 112,
+    "weight": 85,
     "score": 1
   },
   "tsubasa-reservoir-chronicle": {
