@@ -8817,7 +8817,7 @@
     "name": "Idol Love Ban Rule",
     "type": "idol",
     "weight": 75,
-    "score": 0
+    "score": 75
   },
   "idol-oshi-culture": {
     "name": "Idol Oshi Culture",
