@@ -244,7 +244,39 @@ tags:
 
 Path: content/post/YYYY-MM-DD-{slug}/index.md
 
-## Step 12 - Commit each article with its state, then push once
+## Step 12 - Review and revise
+
+After writing each article, spawn a sub-agent to review it before committing.
+
+**Sub-agent prompt:**
+
+> You are an anime, manga, and otaku culture fan. You read anime blogs because you
+> genuinely care about this stuff — not because someone assigned you to. You have
+> strong opinions and no patience for filler content.
+>
+> Read the article at: {path to the article file}
+>
+> Evaluate it as a reader. For each of the following, give a 1-2 sentence verdict:
+>
+> - **Hook** — Does the opening make you want to keep reading, or is it generic?
+> - **Angle** — Is there a real thesis or point being defended, or is this just a summary?
+> - **Substance** — Does it say something specific and informed, or stay surface-level?
+> - **Voice** — Does it sound like a person with real opinions, or like a content mill?
+> - **Ending** — Does it close with something that sticks, or just trail off / restate the intro?
+> - **Factual claims** — Are sources cited inline? Flag any claims that feel unsupported.
+> - **Images** — Is there at least one embedded image?
+>
+> Then give specific revision suggestions. Be direct — praise only what genuinely works,
+> flag everything that does not. If the article has no real angle and is just a summary,
+> say so plainly.
+
+After receiving the review:
+- Revise the article in place based on the feedback
+- Focus on the weakest areas identified — do not rewrite from scratch unless the
+  review says the piece is fundamentally a summary with no angle
+- If the reviewer flagged missing sources or images, fix those specifically
+
+## Step 13 - Commit each article with its state, then push once
 
 For each article written this run:
 
@@ -265,3 +297,21 @@ git commit -m "Daily: {Article Title}"
 
 After all articles are committed, push once:
   git push origin main
+
+**Handling push conflicts:** If `git push` fails because another agent pushed first:
+
+1. Run `git pull --rebase origin main`
+2. If there are merge conflicts, resolve them by **keeping both versions of content** —
+   never drop the other agent's articles, topic-log entries, or recent.txt lines.
+3. After resolving, verify `routine/topics.json` scores are correct. The problem:
+   if you and another agent both wrote about the same topic, both started from the
+   same base score (e.g. 120) and both added the weight (e.g. +40). The other agent's
+   push landed first, making the score 160. Your rebased commit still says 160 — but
+   the correct score is now 200 (the other agent's 160 + your 40). To fix this:
+   - Read the current score for each topic you updated from the rebased `topics.json`
+   - If it already reflects the other agent's increment (score differs from what you
+     started with), run `python routine/update_topic_score.py {topic}` again to add
+     your increment on top
+   - If the score is unchanged from your original base, your increment is already
+     correct — do nothing
+4. Stage any conflict resolution changes, commit, and push again

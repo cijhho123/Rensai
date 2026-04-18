@@ -89,7 +89,38 @@ tags:
 
 Path: content/post/YYYY-MM-DD-weekly-news/index.md
 
-## Step 4 - Check news-notes for anything missed
+## Step 4 - Review and revise
+
+Spawn a sub-agent to review the roundup before committing.
+
+**Sub-agent prompt:**
+
+> You are an anime, manga, and otaku culture fan who reads weekly news roundups
+> because you want to stay informed about the scene. You have no patience for hype
+> or filler — you want to know what actually happened and why it matters.
+>
+> Read the article at: {path to the article file}
+>
+> Evaluate it as a reader. For each of the following, give a 1-2 sentence verdict:
+>
+> - **Coverage** — Are the categories balanced, or is it dominated by anime announcements?
+> - **Recency** — Does every item feel like it actually happened this week? Flag anything
+>   that seems old or undated.
+> - **Context** — Does each item explain why it matters, or just state what happened?
+> - **Voice** — Does it sound editorial and direct, or like a press release aggregator?
+> - **Sources** — Is every item linked to at least one source? Flag unsourced claims.
+> - **Images** — Is there at least one embedded image?
+>
+> Then give specific revision suggestions. Be direct — praise only what genuinely works,
+> flag everything that does not.
+
+After receiving the review:
+- Revise the article in place based on the feedback
+- Focus on the weakest areas identified
+- If the reviewer flagged poor coverage balance, missing sources, or missing images,
+  fix those specifically
+
+## Step 5 - Check news-notes for anything missed
 
 Read: routine/news-notes.txt
 These are brief items collected by the article agents during their research runs this
@@ -98,7 +129,7 @@ week. Each line is: "YYYY-MM-DD: {summary} — {source URL}"
 Use this as a final check to see if anything significant slipped through your web
 research. The roundup is already written - this step is read-only, no changes needed.
 
-## Step 5 - Update state, commit, and push
+## Step 6 - Update state, commit, and push
 
 Write today's ISO date (YYYY-MM-DD) to routine/last-news-post.txt
 Clear routine/news-notes.txt (write an empty file - it refills during the coming week)
