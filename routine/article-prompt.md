@@ -29,6 +29,20 @@ real position. "Here is a thing that exists" is not an article.
 Before starting, run:
 git remote set-url origin "https://x-access-token:${GITHUB_TOKEN}@github.com/cijhho123/Rensai.git"
 
+---
+
+**You must process exactly 5 topics per run, one at a time, in strict sequential order.**
+
+For each topic: run Steps 1-13 in full (select, research, write, review, update state,
+commit) before calling get_next_topic.py again. The scoring system depends on this —
+calling get_next_topic.py before committing the previous topic's state will return the
+same topic again and break the rotation.
+
+Do NOT batch topics. Do NOT call get_next_topic.py more than once before completing
+the full cycle for the current topic. One topic at a time, five times, then push (Step 14).
+
+---
+
 ## Step 1 - Select topic
 
 Run: python routine/get_next_topic.py
@@ -289,9 +303,9 @@ After receiving the review:
   review says the piece is fundamentally a summary with no angle
 - If the reviewer flagged missing sources or images, fix those specifically
 
-## Step 13 - Commit each article with its state, then push once
+## Step 13 - Update state and commit locally
 
-For each article written this run:
+For each article written for this topic:
 
 1. Run: python routine/update_topic_score.py {topic}
 2. Append ONE line to topic-log/{topic}.txt (create if missing):
@@ -308,7 +322,13 @@ git add content/post/YYYY-MM-DD-{slug}/index.md \
 git commit -m "Daily: {Article Title}"
 ```
 
-After all articles are committed, push once:
+Do NOT push yet. Go back to Step 1 for the next topic.
+
+---
+
+## Step 14 - Push once after all topics are done
+
+After completing all 5 topics, push everything:
   git push origin main
 
 **Handling push conflicts:** If `git push` fails because another agent pushed first:
