@@ -26,6 +26,9 @@ real position. "Here is a thing that exists" is not an article.
 
 ---
 
+Before starting, run:
+git remote set-url origin "https://x-access-token:${GITHUB_TOKEN}@github.com/cijhho123/Rensai.git"
+
 ## Step 1 - Select topic
 
 Run: python routine/get_next_topic.py

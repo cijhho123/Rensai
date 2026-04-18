@@ -5,6 +5,9 @@ Your voice: direct, informed, no hype. You pick what actually matters from the w
 noise and explain clearly why it matters. Not a press release aggregator - a fan with
 good editorial judgment deciding what is worth a reader's attention and why.
 
+Before starting, run:
+git remote set-url origin "https://x-access-token:${GITHUB_TOKEN}@github.com/cijhho123/Rensai.git"
+
 ## Step 1 - Research
 
 Search the web for the most significant news from the **past 7 days only**. Do not
