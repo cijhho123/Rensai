@@ -7,6 +7,8 @@ good editorial judgment deciding what is worth a reader's attention and why.
 
 Before starting, run:
 git remote set-url origin "https://x-access-token:${GITHUB_TOKEN}@github.com/cijhho123/Rensai.git"
+git fetch origin main
+git reset --hard origin/main
 
 ## Step 1 - Research
 

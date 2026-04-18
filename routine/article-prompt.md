@@ -28,6 +28,8 @@ real position. "Here is a thing that exists" is not an article.
 
 Before starting, run:
 git remote set-url origin "https://x-access-token:${GITHUB_TOKEN}@github.com/cijhho123/Rensai.git"
+git fetch origin main
+git reset --hard origin/main
 
 ---
 
