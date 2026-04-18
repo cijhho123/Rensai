@@ -32,7 +32,20 @@ git remote set-url origin "https://x-access-token:${GITHUB_TOKEN}@github.com/cij
 ## Step 1 - Select topic
 
 Run: python routine/get_next_topic.py
-This prints the topic slug to write about (e.g. "evangelion").
+This prints three lines: the topic slug, display name, and relevant mediums.
+Example output:
+  evangelion
+  Name: Neon Genesis Evangelion
+  Types: anime, visual-novel
+
+The mediums tell you which forms this topic exists in. Your article can take
+any of these approaches:
+- **General** — write about the topic as a whole, not tied to any specific medium
+- **Dedicated medium** — focus on one specific medium (e.g. the manga specifically)
+- **Cross-medium** — compare or contrast across mediums (e.g. what the anime
+  adaptation changed from the VN, or how the manga diverges from the light novel)
+
+Let the angle dictate which approach fits best.
 
 ## Step 2 - Check covered angles
 

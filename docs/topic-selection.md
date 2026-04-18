@@ -7,10 +7,10 @@ Each key is a kebab-case slug. Each value has four fields:
 
 ```json
 {
-  "neon-genesis-evangelion": {
-    "name": "Neon Genesis Evangelion",
-    "type": "anime",
-    "weight": 60,
+  "clannad": {
+    "name": "Clannad",
+    "type": ["anime", "manga", "visual-novel"],
+    "weight": 90,
     "score": 0
   }
 }
@@ -19,7 +19,7 @@ Each key is a kebab-case slug. Each value has four fields:
 | Field | Purpose |
 |---|---|
 | `name` | Display name used in logging |
-| `type` | Blog category: `anime`, `manga`, `light-novel`, `visual-novel`, `person`, `character`, `producer`, `idol`, `anime-music`, `otaku-culture`, `otaku-history`, `cosplay`, `figures` |
+| `type` | Array of relevant mediums: `anime`, `manga`, `light-novel`, `visual-novel`, `person`, `character`, `producer`, `idol`, `anime-music`, `otaku-culture`, `otaku-history`, `cosplay`, `figures`. Topics spanning multiple mediums have multiple entries. |
 | `weight` | Score increment per article written. Lower = more frequent. |
 | `score` | Accumulated total. Selection picks from the lowest-score pool. |
 
