@@ -12625,8 +12625,8 @@
     "type": [
       "character"
     ],
-    "weight": 93,
-    "score": 0
+    "weight": 73,
+    "score": -1
   },
   "asuka-mishima": {
     "name": "Asuka Mishima",
@@ -16768,7 +16768,7 @@
       "anime"
     ],
     "weight": 60,
-    "score": 1
+    "score": -1
   },
   "berserk-2016": {
     "name": "Berserk (2016)",
@@ -16802,7 +16802,7 @@
       "manga"
     ],
     "weight": 704,
-    "score": 365
+    "score": -1
   },
   "berserk-the-golden-age-arc---memorial-edition": {
     "name": "Berserk: The Golden Age Arc - Memorial Edition",
@@ -45796,8 +45796,8 @@
     "type": [
       "character"
     ],
-    "weight": 147,
-    "score": 1
+    "weight": 90,
+    "score": 0
   },
   "gene-starwind": {
     "name": "Gene Starwind",
@@ -49714,7 +49714,7 @@
       "character"
     ],
     "weight": 74,
-    "score": 1
+    "score": -1
   },
   "guu": {
     "name": "Guu",
@@ -85904,7 +85904,7 @@
       "character"
     ],
     "weight": 106,
-    "score": 1
+    "score": -1
   },
   "laios-touden": {
     "name": "Laios Touden",
@@ -95562,8 +95562,8 @@
     "type": [
       "character"
     ],
-    "weight": 293,
-    "score": 170
+    "weight": 85,
+    "score": 0
   },
   "mari-kozakura": {
     "name": "Mari Kozakura",
@@ -101784,7 +101784,7 @@
       "character"
     ],
     "weight": 124,
-    "score": 1
+    "score": -1
   },
   "misaki-okusawa": {
     "name": "Misaki Okusawa",
@@ -101879,8 +101879,8 @@
     "type": [
       "character"
     ],
-    "weight": 103,
-    "score": 1
+    "weight": 88,
+    "score": 0
   },
   "misato-tachibana": {
     "name": "Misato Tachibana",
@@ -128223,8 +128223,8 @@
     "type": [
       "character"
     ],
-    "weight": 100,
-    "score": 1
+    "weight": 86,
+    "score": -1
   },
   "rei-ayanami---angel-of-sex": {
     "name": "Rei Ayanami - Angel of Sex",
@@ -143996,8 +143996,8 @@
     "type": [
       "character"
     ],
-    "weight": 100,
-    "score": 1
+    "weight": 80,
+    "score": 0
   },
   "shinji-kimura": {
     "name": "Shinji Kimura",
@@ -177175,8 +177175,8 @@
       "manga",
       "light-novel"
     ],
-    "weight": 89,
-    "score": 1
+    "weight": 84,
+    "score": -1
   },
   "welcome-to-the-outcasts-restaurant": {
     "name": "Welcome to the Outcast's Restaurant!",
