@@ -25,14 +25,18 @@ Output goes to `routine/topics.json`. Stderr shows per-category entry counts.
 |---|---|---|---|
 | Anime | `temp-data/mal-archives/anime/full.zip` | `favorites * (score or 7.0)` | favorites >= 500 |
 | Manga | `temp-data/mal-archives/manga/full.zip` | `favorites * (score or 7.0)` | favorites >= 500 |
-| Light Novel | same zip, `type == "Light Novel"` | `favorites * (score or 7.0)` | favorites >= 500 |
+| Light Novel | same zip, `type in ("Light Novel", "Novel")` | `favorites * (score or 7.0)` | favorites >= 500 |
 | People | `temp-data/mal-archives/people/full.zip` | `favorites` | favorites >= 1000 |
 | Characters | `temp-data/mal-archives/characters/full.zip` | `favorites` | favorites >= 1500 |
 | Producers | `temp-data/mal-archives/producers/full.zip` | `favorites` | favorites >= 1000 |
-| Visual Novels | `vndb-db-*.tar.zst` in repo root | `c_votecount` | votes >= 100 |
+| Visual Novels | `vndb-db-*.tar.zst` in repo root or `temp-data/` | `c_votecount` | votes >= 450 |
+
+Each category also has a **long-tail tier** for entries below the gate but above a floor
+(`gate // 10` for MAL, 150 votes for VN). Long-tail entries get weight 250-1200 and
+starting score 150-600, so they trickle in gradually over time.
 
 `temp-data/` is gitignored. The zips are large and only needed at generation time.
-The VNDB dump is also gitignored — place it in repo root, run the script, then delete it.
+The VNDB dump is also gitignored — place it in `temp-data/` or repo root, run the script.
 
 ## Weight Formula
 

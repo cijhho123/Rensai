@@ -7,10 +7,10 @@ Each key is a kebab-case slug. Each value has four fields:
 
 ```json
 {
-  "neon-genesis-evangelion": {
-    "name": "Neon Genesis Evangelion",
-    "type": "anime",
-    "weight": 60,
+  "clannad": {
+    "name": "Clannad",
+    "type": ["anime", "manga", "visual-novel"],
+    "weight": 90,
     "score": 0
   }
 }
@@ -19,7 +19,7 @@ Each key is a kebab-case slug. Each value has four fields:
 | Field | Purpose |
 |---|---|
 | `name` | Display name used in logging |
-| `type` | Blog category: `anime`, `manga`, `light-novel`, `visual-novel`, `person`, `character`, `producer`, `idol`, `anime-music`, `otaku-culture`, `otaku-history`, `cosplay`, `figures` |
+| `type` | Array of relevant mediums: `anime`, `manga`, `light-novel`, `visual-novel`, `person`, `character`, `producer`, `idol`, `anime-music`, `otaku-culture`, `otaku-history`, `cosplay`, `figures`. Topics spanning multiple mediums have multiple entries. |
 | `weight` | Score increment per article written. Lower = more frequent. |
 | `score` | Accumulated total. Selection picks from the lowest-score pool. |
 
@@ -29,7 +29,7 @@ Each key is a kebab-case slug. Each value has four fields:
 1. Load all topics
 2. Find the minimum score across all entries
 3. Collect every topic at that minimum
-4. Return one at random
+4. Return one at random (prints slug, name, and types)
 
 This is a weighted round-robin. Low-weight topics return to the minimum pool faster
 than high-weight ones, so they appear proportionally more often over time.
@@ -42,7 +42,7 @@ python routine/update_topic_score.py {slug}
 ```
 
 This increments `score += weight` for that slug. If the slug does not exist in
-`topics.json`, it is auto-created with `weight=100, score=0, type="anime"` as defaults.
+`topics.json`, it is auto-created with `weight=100, score=0, type=["anime"]` as defaults.
 
 ## Initial State
 
@@ -53,7 +53,8 @@ On first deploy:
   Does Not Dream): `score = 0`
 
 This ensures the blog opens with curated cultural topics and priority franchises
-before cycling into the full automated catalogue of 4,000+ entries.
+before cycling into the full automated catalogue. Long-tail entries (below main
+thresholds) start with score 150-600 and weight 250-1200, so they trickle in gradually.
 
 ## Adding New Topics
 
