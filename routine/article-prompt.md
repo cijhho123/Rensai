@@ -253,7 +253,9 @@ location, characters(if-featured), broadcast-season, angle=event-coverage
 
 ## Step 10 - Write the article
 
-Length: 700-2100 words. Aim for the high end on analytical pieces.
+Length: 700-2500 words. Let the material dictate the length - a tight cultural
+observation can be 800 words, a deep analytical piece or industry retrospective can
+run to 2000+. Do not pad to fill space, but do not cut short when there is more to say.
 
 Structure: lead with the hook - the specific claim, contradiction, or question you are
 going to examine. Do not open with "In the world of anime..." or any generic framing.
