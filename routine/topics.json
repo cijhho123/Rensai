@@ -254,7 +254,7 @@
     "type": [
       "otaku-history"
     ],
-    "weight": 77,
+    "weight": 30,
     "score": 0
   },
   "2ne1": {
@@ -278,7 +278,7 @@
     "type": [
       "idol"
     ],
-    "weight": 75,
+    "weight": 30,
     "score": 0
   },
   "300-en-no-otsukiai-anime-edition": {
@@ -2171,7 +2171,7 @@
     "type": [
       "otaku-history"
     ],
-    "weight": 78,
+    "weight": 30,
     "score": 0
   },
   "adult-experience-value": {
@@ -4108,7 +4108,7 @@
       "idol",
       "person"
     ],
-    "weight": 60,
+    "weight": 30,
     "score": 60
   },
   "akb49-renai-kinshi-jourei": {
@@ -4302,7 +4302,7 @@
     "type": [
       "otaku-history"
     ],
-    "weight": 78,
+    "weight": 30,
     "score": 0
   },
   "akihabara-culture": {
@@ -4310,7 +4310,7 @@
     "type": [
       "otaku-culture"
     ],
-    "weight": 75,
+    "weight": 30,
     "score": 0
   },
   "akihabara-electronics-to-anime": {
@@ -4318,7 +4318,7 @@
     "type": [
       "otaku-history"
     ],
-    "weight": 76,
+    "weight": 30,
     "score": 0
   },
   "akihiko-kaji": {
@@ -4502,7 +4502,7 @@
     "type": [
       "idol"
     ],
-    "weight": 61,
+    "weight": 30,
     "score": 0
   },
   "akino": {
@@ -7005,7 +7005,7 @@
     "type": [
       "idol"
     ],
-    "weight": 70,
+    "weight": 30,
     "score": 0
   },
   "angolmois-record-of-mongol-invasion": {
@@ -7021,7 +7021,7 @@
     "type": [
       "otaku-culture"
     ],
-    "weight": 80,
+    "weight": 30,
     "score": 80
   },
   "aniki-no-yome-san-nara-ore-ni-hamerarete-hiihii-itteru-tokoro-da-yo": {
@@ -7093,7 +7093,7 @@
     "type": [
       "anime-music"
     ],
-    "weight": 82,
+    "weight": 30,
     "score": 0
   },
   "anime-conventions-global": {
@@ -7101,7 +7101,7 @@
     "type": [
       "otaku-culture"
     ],
-    "weight": 77,
+    "weight": 30,
     "score": 0
   },
   "anime-disc-sales-culture": {
@@ -7109,7 +7109,7 @@
     "type": [
       "otaku-culture"
     ],
-    "weight": 78,
+    "weight": 30,
     "score": 78
   },
   "anime-expo-history": {
@@ -7117,7 +7117,7 @@
     "type": [
       "otaku-culture"
     ],
-    "weight": 77,
+    "weight": 30,
     "score": 0
   },
   "anime-fashion-collabs": {
@@ -7125,7 +7125,7 @@
     "type": [
       "otaku-culture"
     ],
-    "weight": 77,
+    "weight": 30,
     "score": 0
   },
   "anime-gataris": {
@@ -7141,7 +7141,7 @@
     "type": [
       "otaku-history"
     ],
-    "weight": 76,
+    "weight": 30,
     "score": 0
   },
   "anime-location-pilgrimages": {
@@ -7149,7 +7149,7 @@
     "type": [
       "otaku-culture"
     ],
-    "weight": 77,
+    "weight": 30,
     "score": 0
   },
   "anime-movie-soundtracks": {
@@ -7157,7 +7157,7 @@
     "type": [
       "anime-music"
     ],
-    "weight": 79,
+    "weight": 30,
     "score": 0
   },
   "anime-op-ed": {
@@ -7165,7 +7165,7 @@
     "type": [
       "anime-music"
     ],
-    "weight": 68,
+    "weight": 30,
     "score": 0
   },
   "anime-overseas-production": {
@@ -7173,7 +7173,7 @@
     "type": [
       "otaku-history"
     ],
-    "weight": 77,
+    "weight": 30,
     "score": 0
   },
   "anime-overseas-spread": {
@@ -7181,7 +7181,7 @@
     "type": [
       "otaku-history"
     ],
-    "weight": 75,
+    "weight": 30,
     "score": 75
   },
   "anime-piracy-history": {
@@ -7189,7 +7189,7 @@
     "type": [
       "otaku-history"
     ],
-    "weight": 82,
+    "weight": 30,
     "score": 0
   },
   "anime-production-committee-system": {
@@ -7197,7 +7197,7 @@
     "type": [
       "otaku-history"
     ],
-    "weight": 75,
+    "weight": 30,
     "score": 0
   },
   "anime-production-pipeline": {
@@ -7205,7 +7205,7 @@
     "type": [
       "otaku-history"
     ],
-    "weight": 77,
+    "weight": 30,
     "score": 0
   },
   "anime-soundtracks": {
@@ -7213,7 +7213,7 @@
     "type": [
       "anime-music"
     ],
-    "weight": 75,
+    "weight": 30,
     "score": 0
   },
   "anime-streaming-revolution": {
@@ -7221,7 +7221,7 @@
     "type": [
       "otaku-history"
     ],
-    "weight": 75,
+    "weight": 30,
     "score": 0
   },
   "anime-tenchou-x-touhou-project": {
@@ -7237,7 +7237,7 @@
     "type": [
       "otaku-culture"
     ],
-    "weight": 77,
+    "weight": 30,
     "score": 0
   },
   "animejapan-and-tokyo-game-show": {
@@ -7245,7 +7245,7 @@
     "type": [
       "otaku-culture"
     ],
-    "weight": 76,
+    "weight": 30,
     "score": 76
   },
   "aniplex": {
@@ -7269,7 +7269,7 @@
     "type": [
       "anime-music"
     ],
-    "weight": 71,
+    "weight": 30,
     "score": 0
   },
   "anison-history": {
@@ -7277,7 +7277,7 @@
     "type": [
       "anime-music"
     ],
-    "weight": 75,
+    "weight": 30,
     "score": 0
   },
   "anison-labels": {
@@ -7285,7 +7285,7 @@
     "type": [
       "anime-music"
     ],
-    "weight": 86,
+    "weight": 30,
     "score": 0
   },
   "anisphia-wynn-palettia": {
@@ -8435,7 +8435,7 @@
       "idol",
       "person"
     ],
-    "weight": 61,
+    "weight": 30,
     "score": 61
   },
   "arashi-nagase": {
@@ -8524,7 +8524,7 @@
     "type": [
       "otaku-culture"
     ],
-    "weight": 78,
+    "weight": 30,
     "score": 0
   },
   "arcade-fighting-game-scene": {
@@ -8532,7 +8532,7 @@
     "type": [
       "otaku-culture"
     ],
-    "weight": 77,
+    "weight": 30,
     "score": 0
   },
   "arcana-famiglia": {
@@ -10212,7 +10212,7 @@
     "type": [
       "idol"
     ],
-    "weight": 64,
+    "weight": 30,
     "score": 64
   },
   "atsuko-tanaka": {
@@ -10786,7 +10786,7 @@
     "type": [
       "idol"
     ],
-    "weight": 67,
+    "weight": 30,
     "score": 0
   },
   "aya-nakahara": {
@@ -11645,7 +11645,7 @@
     "type": [
       "idol"
     ],
-    "weight": 63,
+    "weight": 30,
     "score": 0
   },
   "baccano": {
@@ -12808,7 +12808,7 @@
     "type": [
       "idol"
     ],
-    "weight": 68,
+    "weight": 30,
     "score": 0
   },
   "be-my-wife": {
@@ -13326,7 +13326,7 @@
     "type": [
       "idol"
     ],
-    "weight": 69,
+    "weight": 30,
     "score": 0
   },
   "berserk": {
@@ -13948,7 +13948,7 @@
       "idol",
       "person"
     ],
-    "weight": 68,
+    "weight": 30,
     "score": 0
   },
   "bishamon": {
@@ -14734,7 +14734,7 @@
     "type": [
       "figures"
     ],
-    "weight": 76,
+    "weight": 30,
     "score": 0
   },
   "blink-master-of-the-magic-academy": {
@@ -17107,7 +17107,7 @@
     "type": [
       "otaku-culture"
     ],
-    "weight": 79,
+    "weight": 30,
     "score": 0
   },
   "butterflies-flowers": {
@@ -17268,7 +17268,7 @@
     "type": [
       "idol"
     ],
-    "weight": 69,
+    "weight": 30,
     "score": 0
   },
   "c2c": {
@@ -18418,7 +18418,7 @@
     "type": [
       "otaku-history"
     ],
-    "weight": 76,
+    "weight": 30,
     "score": 0
   },
   "celestia-ludenberg": {
@@ -19605,7 +19605,7 @@
     "type": [
       "idol"
     ],
-    "weight": 78,
+    "weight": 30,
     "score": 0
   },
   "chika-komari": {
@@ -21188,7 +21188,7 @@
     "type": [
       "otaku-culture"
     ],
-    "weight": 78,
+    "weight": 30,
     "score": 0
   },
   "classicaloid": {
@@ -21980,7 +21980,7 @@
     "type": [
       "cosplay"
     ],
-    "weight": 82,
+    "weight": 30,
     "score": 0
   },
   "comiket-economics": {
@@ -21988,7 +21988,7 @@
     "type": [
       "otaku-culture"
     ],
-    "weight": 76,
+    "weight": 30,
     "score": 0
   },
   "comiket-history": {
@@ -21996,7 +21996,7 @@
     "type": [
       "otaku-history"
     ],
-    "weight": 75,
+    "weight": 30,
     "score": 0
   },
   "coming-out-on-top": {
@@ -22044,7 +22044,7 @@
     "type": [
       "otaku-culture"
     ],
-    "weight": 77,
+    "weight": 30,
     "score": 0
   },
   "conception": {
@@ -22391,7 +22391,7 @@
     "type": [
       "cosplay"
     ],
-    "weight": 86,
+    "weight": 30,
     "score": 0
   },
   "cosplay-fetish-academy": {
@@ -22407,7 +22407,7 @@
     "type": [
       "cosplay"
     ],
-    "weight": 79,
+    "weight": 30,
     "score": 79
   },
   "cosplay-usa-vs-japan": {
@@ -22415,7 +22415,7 @@
     "type": [
       "cosplay"
     ],
-    "weight": 82,
+    "weight": 30,
     "score": 0
   },
   "count-d": {
@@ -22496,7 +22496,7 @@
     "type": [
       "otaku-culture"
     ],
-    "weight": 77,
+    "weight": 30,
     "score": 0
   },
   "crash": {
@@ -24944,7 +24944,7 @@
     "type": [
       "otaku-culture"
     ],
-    "weight": 78,
+    "weight": 30,
     "score": 0
   },
   "deedlit": {
@@ -25330,7 +25330,7 @@
     "type": [
       "idol"
     ],
-    "weight": 70,
+    "weight": 30,
     "score": 0
   },
   "den-noh-coil": {
@@ -26962,7 +26962,7 @@
     "type": [
       "otaku-culture"
     ],
-    "weight": 80,
+    "weight": 30,
     "score": 0
   },
   "dolly-kill-kill": {
@@ -27417,7 +27417,7 @@
     "type": [
       "otaku-culture"
     ],
-    "weight": 77,
+    "weight": 30,
     "score": 0
   },
   "doujinshi-culture": {
@@ -27425,7 +27425,7 @@
     "type": [
       "otaku-culture"
     ],
-    "weight": 79,
+    "weight": 30,
     "score": 0
   },
   "doujinshi-shops": {
@@ -27433,7 +27433,7 @@
     "type": [
       "otaku-culture"
     ],
-    "weight": 77,
+    "weight": 30,
     "score": 0
   },
   "doukyonin-wa-hiza-tokidoki-atama-no-ue": {
@@ -28433,7 +28433,7 @@
     "type": [
       "idol"
     ],
-    "weight": 68,
+    "weight": 30,
     "score": 0
   },
   "earl-and-fairy": {
@@ -30219,7 +30219,7 @@
     "type": [
       "otaku-history"
     ],
-    "weight": 77,
+    "weight": 30,
     "score": 0
   },
   "ero-zemi-ecchi-ni-yaru-ki-ni-abc": {
@@ -30259,7 +30259,7 @@
     "type": [
       "otaku-history"
     ],
-    "weight": 76,
+    "weight": 30,
     "score": 0
   },
   "eroko-san-on-the-attack": {
@@ -31091,7 +31091,7 @@
     "type": [
       "idol"
     ],
-    "weight": 70,
+    "weight": 30,
     "score": 0
   },
   "fairies-album": {
@@ -31131,7 +31131,7 @@
     "type": [
       "otaku-culture"
     ],
-    "weight": 79,
+    "weight": 30,
     "score": 0
   },
   "fairy-princess-minky-momo": {
@@ -31391,7 +31391,7 @@
     "type": [
       "otaku-history"
     ],
-    "weight": 82,
+    "weight": 30,
     "score": 0
   },
   "fantasia-sango-realm-of-legends": {
@@ -32266,7 +32266,7 @@
     "type": [
       "figures"
     ],
-    "weight": 76,
+    "weight": 30,
     "score": 0
   },
   "figures-of-happiness": {
@@ -33849,7 +33849,7 @@
     "type": [
       "otaku-culture"
     ],
-    "weight": 78,
+    "weight": 30,
     "score": 0
   },
   "fu-fu": {
@@ -34027,7 +34027,7 @@
     "type": [
       "otaku-culture"
     ],
-    "weight": 79,
+    "weight": 30,
     "score": 0
   },
   "fukou-na-kaa-san-to-shiawase-love-love-seikatsu": {
@@ -34977,7 +34977,7 @@
     "type": [
       "otaku-culture"
     ],
-    "weight": 79,
+    "weight": 30,
     "score": 0
   },
   "gacha-gacha": {
@@ -35230,7 +35230,7 @@
     "type": [
       "otaku-history"
     ],
-    "weight": 77,
+    "weight": 30,
     "score": 0
   },
   "galileo-galilei": {
@@ -35351,7 +35351,7 @@
     "type": [
       "otaku-culture"
     ],
-    "weight": 76,
+    "weight": 30,
     "score": 0
   },
   "game-of-familia": {
@@ -35426,7 +35426,7 @@
     "type": [
       "otaku-culture"
     ],
-    "weight": 77,
+    "weight": 30,
     "score": 0
   },
   "gankutsuou-the-count-of-monte-cristo": {
@@ -35659,7 +35659,7 @@
     "type": [
       "figures"
     ],
-    "weight": 77,
+    "weight": 30,
     "score": 0
   },
   "gasper-vladi": {
@@ -38125,7 +38125,7 @@
     "type": [
       "otaku-culture"
     ],
-    "weight": 77,
+    "weight": 30,
     "score": 0
   },
   "goto-maki": {
@@ -38133,7 +38133,7 @@
     "type": [
       "idol"
     ],
-    "weight": 68,
+    "weight": 30,
     "score": 0
   },
   "gou-dere-sora-nagihara": {
@@ -39193,7 +39193,7 @@
     "type": [
       "otaku-culture"
     ],
-    "weight": 76,
+    "weight": 30,
     "score": 0
   },
   "gyarukano-wagamama-body-na-honpou-kanojo": {
@@ -39273,7 +39273,7 @@
     "type": [
       "otaku-history"
     ],
-    "weight": 76,
+    "weight": 30,
     "score": 76
   },
   "h-p-lovecraft": {
@@ -40955,7 +40955,7 @@
     "type": [
       "otaku-history"
     ],
-    "weight": 75,
+    "weight": 30,
     "score": 0
   },
   "hardcore-leveling-warrior": {
@@ -41804,7 +41804,7 @@
     "type": [
       "idol"
     ],
-    "weight": 68,
+    "weight": 30,
     "score": 0
   },
   "haruna-nagashima": {
@@ -43033,7 +43033,7 @@
     "type": [
       "otaku-history"
     ],
-    "weight": 78,
+    "weight": 30,
     "score": 0
   },
   "her-blue-sky": {
@@ -43284,7 +43284,7 @@
     "type": [
       "idol"
     ],
-    "weight": 68,
+    "weight": 30,
     "score": 0
   },
   "hey-your-cat-ears-are-showing": {
@@ -44338,7 +44338,7 @@
     "type": [
       "idol"
     ],
-    "weight": 68,
+    "weight": 30,
     "score": 0
   },
   "hikaru-hanada": {
@@ -44669,7 +44669,7 @@
     "type": [
       "otaku-culture"
     ],
-    "weight": 78,
+    "weight": 30,
     "score": 0
   },
   "himekishi-ga-classmate-the-comic": {
@@ -45016,7 +45016,7 @@
     "type": [
       "idol"
     ],
-    "weight": 68,
+    "weight": 30,
     "score": 0
   },
   "hino-san-no-baka": {
@@ -46067,7 +46067,7 @@
     "type": [
       "idol"
     ],
-    "weight": 68,
+    "weight": 30,
     "score": 68
   },
   "hodaka-morishima": {
@@ -48599,7 +48599,7 @@
     "type": [
       "idol"
     ],
-    "weight": 76,
+    "weight": 30,
     "score": 0
   },
   "idol-anime-music": {
@@ -48607,7 +48607,7 @@
     "type": [
       "anime-music"
     ],
-    "weight": 79,
+    "weight": 30,
     "score": 0
   },
   "idol-concert-culture": {
@@ -48615,7 +48615,7 @@
     "type": [
       "idol"
     ],
-    "weight": 77,
+    "weight": 30,
     "score": 0
   },
   "idol-culture": {
@@ -48623,7 +48623,7 @@
     "type": [
       "otaku-culture"
     ],
-    "weight": 71,
+    "weight": 30,
     "score": 71
   },
   "idol-dark-side": {
@@ -48631,7 +48631,7 @@
     "type": [
       "idol"
     ],
-    "weight": 77,
+    "weight": 30,
     "score": 0
   },
   "idol-fan-club-culture": {
@@ -48639,7 +48639,7 @@
     "type": [
       "idol"
     ],
-    "weight": 79,
+    "weight": 30,
     "score": 0
   },
   "idol-fashion-aesthetics": {
@@ -48647,7 +48647,7 @@
     "type": [
       "idol"
     ],
-    "weight": 79,
+    "weight": 30,
     "score": 0
   },
   "idol-graduation-system": {
@@ -48655,7 +48655,7 @@
     "type": [
       "idol"
     ],
-    "weight": 77,
+    "weight": 30,
     "score": 0
   },
   "idol-handshake-events": {
@@ -48663,7 +48663,7 @@
     "type": [
       "idol"
     ],
-    "weight": 79,
+    "weight": 30,
     "score": 0
   },
   "idol-history-1970s": {
@@ -48671,7 +48671,7 @@
     "type": [
       "idol"
     ],
-    "weight": 76,
+    "weight": 30,
     "score": 76
   },
   "idol-history-1980s": {
@@ -48679,7 +48679,7 @@
     "type": [
       "idol"
     ],
-    "weight": 75,
+    "weight": 30,
     "score": 0
   },
   "idol-history-1990s": {
@@ -48687,7 +48687,7 @@
     "type": [
       "idol"
     ],
-    "weight": 75,
+    "weight": 30,
     "score": 0
   },
   "idol-history-2000s": {
@@ -48695,7 +48695,7 @@
     "type": [
       "idol"
     ],
-    "weight": 75,
+    "weight": 30,
     "score": 0
   },
   "idol-history-2010s": {
@@ -48703,7 +48703,7 @@
     "type": [
       "idol"
     ],
-    "weight": 75,
+    "weight": 30,
     "score": 0
   },
   "idol-label-history": {
@@ -48711,7 +48711,7 @@
     "type": [
       "idol"
     ],
-    "weight": 80,
+    "weight": 30,
     "score": 80
   },
   "idol-love-ban-rule": {
@@ -48719,7 +48719,7 @@
     "type": [
       "idol"
     ],
-    "weight": 75,
+    "weight": 30,
     "score": 75
   },
   "idol-magical-girl-chiru-chiru-michiru": {
@@ -48735,7 +48735,7 @@
     "type": [
       "idol"
     ],
-    "weight": 75,
+    "weight": 30,
     "score": 0
   },
   "idol-overseas-expansion": {
@@ -48743,7 +48743,7 @@
     "type": [
       "idol"
     ],
-    "weight": 77,
+    "weight": 30,
     "score": 0
   },
   "idol-pretender": {
@@ -48759,7 +48759,7 @@
     "type": [
       "idol"
     ],
-    "weight": 75,
+    "weight": 30,
     "score": 0
   },
   "idol-senbatsu-elections": {
@@ -48767,7 +48767,7 @@
     "type": [
       "idol"
     ],
-    "weight": 77,
+    "weight": 30,
     "score": 0
   },
   "idol-shashinshuu": {
@@ -48775,7 +48775,7 @@
     "type": [
       "idol"
     ],
-    "weight": 80,
+    "weight": 30,
     "score": 80
   },
   "idol-streaming-era": {
@@ -48783,7 +48783,7 @@
     "type": [
       "idol"
     ],
-    "weight": 77,
+    "weight": 30,
     "score": 0
   },
   "idol-time-pripara": {
@@ -48799,7 +48799,7 @@
     "type": [
       "idol"
     ],
-    "weight": 76,
+    "weight": 30,
     "score": 0
   },
   "idol-vs-kpop": {
@@ -48807,7 +48807,7 @@
     "type": [
       "idol"
     ],
-    "weight": 76,
+    "weight": 30,
     "score": 0
   },
   "idol-wota-psychology": {
@@ -48815,7 +48815,7 @@
     "type": [
       "idol"
     ],
-    "weight": 77,
+    "weight": 30,
     "score": 77
   },
   "idoldays": {
@@ -49081,7 +49081,7 @@
     "type": [
       "otaku-culture"
     ],
-    "weight": 76,
+    "weight": 30,
     "score": 0
   },
   "ikebukuro-west-gate-park": {
@@ -51249,7 +51249,7 @@
     "type": [
       "otaku-culture"
     ],
-    "weight": 75,
+    "weight": 30,
     "score": 0
   },
   "isekai-cheat-magician": {
@@ -52445,7 +52445,7 @@
     "type": [
       "otaku-history"
     ],
-    "weight": 76,
+    "weight": 30,
     "score": 0
   },
   "japan-sinks-2020": {
@@ -53089,7 +53089,7 @@
     "type": [
       "otaku-culture"
     ],
-    "weight": 76,
+    "weight": 30,
     "score": 0
   },
   "jiraiya": {
@@ -53418,7 +53418,7 @@
     "type": [
       "idol"
     ],
-    "weight": 71,
+    "weight": 30,
     "score": 0
   },
   "johnson": {
@@ -54057,7 +54057,7 @@
     "type": [
       "idol"
     ],
-    "weight": 70,
+    "weight": 30,
     "score": 0
   },
   "jujutsu-kaisen": {
@@ -54676,7 +54676,7 @@
     "type": [
       "idol"
     ],
-    "weight": 67,
+    "weight": 30,
     "score": 0
   },
   "jusetsu-ryuu": {
@@ -56967,7 +56967,7 @@
     "type": [
       "idol"
     ],
-    "weight": 68,
+    "weight": 30,
     "score": 0
   },
   "kanji-tatsumi": {
@@ -58334,7 +58334,7 @@
     "type": [
       "idol"
     ],
-    "weight": 68,
+    "weight": 30,
     "score": 0
   },
   "katyusha": {
@@ -58350,7 +58350,7 @@
     "type": [
       "otaku-culture"
     ],
-    "weight": 75,
+    "weight": 30,
     "score": 0
   },
   "kawaii-hito": {
@@ -60415,7 +60415,7 @@
     "type": [
       "idol"
     ],
-    "weight": 66,
+    "weight": 30,
     "score": 0
   },
   "keyaru": {
@@ -61238,7 +61238,7 @@
     "type": [
       "idol"
     ],
-    "weight": 68,
+    "weight": 30,
     "score": 0
   },
   "king-app": {
@@ -61515,7 +61515,7 @@
     "type": [
       "idol"
     ],
-    "weight": 65,
+    "weight": 30,
     "score": 65
   },
   "kinkoi-golden-loveriche": {
@@ -62796,7 +62796,7 @@
     "type": [
       "otaku-culture"
     ],
-    "weight": 77,
+    "weight": 30,
     "score": 0
   },
   "kogarashi": {
@@ -65820,7 +65820,7 @@
     "type": [
       "idol"
     ],
-    "weight": 67,
+    "weight": 30,
     "score": 0
   },
   "kyoko-okazaki": {
@@ -67972,7 +67972,7 @@
     "type": [
       "otaku-history"
     ],
-    "weight": 79,
+    "weight": 30,
     "score": 0
   },
   "light-yagami": {
@@ -68875,7 +68875,7 @@
     "type": [
       "otaku-culture"
     ],
-    "weight": 75,
+    "weight": 30,
     "score": 75
   },
   "london-detective-mysteria": {
@@ -71919,7 +71919,7 @@
     "type": [
       "otaku-culture"
     ],
-    "weight": 76,
+    "weight": 30,
     "score": 0
   },
   "maid-cafe-industry": {
@@ -71927,7 +71927,7 @@
     "type": [
       "otaku-culture"
     ],
-    "weight": 77,
+    "weight": 30,
     "score": 0
   },
   "maid-cafe-overseas": {
@@ -71935,7 +71935,7 @@
     "type": [
       "otaku-culture"
     ],
-    "weight": 78,
+    "weight": 30,
     "score": 78
   },
   "maid-fashion-and-cafes": {
@@ -71943,7 +71943,7 @@
     "type": [
       "otaku-culture"
     ],
-    "weight": 77,
+    "weight": 30,
     "score": 0
   },
   "maid-for-loving-you": {
@@ -72910,7 +72910,7 @@
     "type": [
       "otaku-culture"
     ],
-    "weight": 78,
+    "weight": 30,
     "score": 0
   },
   "malevolent-spirits-mononogatari": {
@@ -75550,7 +75550,7 @@
       "idol",
       "person"
     ],
-    "weight": 65,
+    "weight": 30,
     "score": 0
   },
   "mayuko-nise": {
@@ -76516,7 +76516,7 @@
     "type": [
       "otaku-culture"
     ],
-    "weight": 77,
+    "weight": 30,
     "score": 0
   },
   "menherafflesia": {
@@ -77347,7 +77347,7 @@
     "type": [
       "idol"
     ],
-    "weight": 68,
+    "weight": 30,
     "score": 0
   },
   "miho-nishizumi": {
@@ -78214,7 +78214,7 @@
       "idol",
       "person"
     ],
-    "weight": 68,
+    "weight": 30,
     "score": 68
   },
   "minami-takayama": {
@@ -80215,7 +80215,7 @@
     "type": [
       "otaku-culture"
     ],
-    "weight": 75,
+    "weight": 30,
     "score": 0
   },
   "moe-era": {
@@ -80504,7 +80504,7 @@
     "type": [
       "idol"
     ],
-    "weight": 62,
+    "weight": 30,
     "score": 0
   },
   "momoiro-closet": {
@@ -80520,7 +80520,7 @@
     "type": [
       "idol"
     ],
-    "weight": 64,
+    "weight": 30,
     "score": 0
   },
   "momoka-fujiwara": {
@@ -81088,7 +81088,7 @@
     "type": [
       "otaku-culture"
     ],
-    "weight": 80,
+    "weight": 30,
     "score": 0
   },
   "moriarty-the-patriot": {
@@ -81161,7 +81161,7 @@
     "type": [
       "idol"
     ],
-    "weight": 62,
+    "weight": 30,
     "score": 0
   },
   "moro": {
@@ -83623,7 +83623,7 @@
       "anime",
       "manga"
     ],
-    "weight": 384,
+    "weight": 89,
     "score": -965
   },
   "mysterious-girlfriend-x": {
@@ -84146,7 +84146,7 @@
     "type": [
       "otaku-culture"
     ],
-    "weight": 77,
+    "weight": 30,
     "score": 0
   },
   "nakanohito-genome-jikkyouchuu": {
@@ -85005,7 +85005,7 @@
     "type": [
       "otaku-history"
     ],
-    "weight": 75,
+    "weight": 30,
     "score": 0
   },
   "narrator": {
@@ -86863,7 +86863,7 @@
     "type": [
       "idol"
     ],
-    "weight": 68,
+    "weight": 30,
     "score": 0
   },
   "newton-and-the-apple-tree": {
@@ -86935,7 +86935,7 @@
     "type": [
       "idol"
     ],
-    "weight": 71,
+    "weight": 30,
     "score": 0
   },
   "nhk": {
@@ -87119,7 +87119,7 @@
     "type": [
       "otaku-history"
     ],
-    "weight": 74,
+    "weight": 30,
     "score": 0
   },
   "nidome-no-jinsei-wo-isekai-de": {
@@ -87705,7 +87705,7 @@
     "type": [
       "otaku-culture"
     ],
-    "weight": 77,
+    "weight": 30,
     "score": 0
   },
   "nise-x-koi-boyfriend": {
@@ -87811,7 +87811,7 @@
     "type": [
       "idol"
     ],
-    "weight": 66,
+    "weight": 30,
     "score": 0
   },
   "nmb48": {
@@ -87819,7 +87819,7 @@
     "type": [
       "idol"
     ],
-    "weight": 68,
+    "weight": 30,
     "score": 0
   },
   "nnoitra-gilga": {
@@ -88492,7 +88492,7 @@
     "type": [
       "idol"
     ],
-    "weight": 61,
+    "weight": 30,
     "score": 0
   },
   "noi": {
@@ -91050,7 +91050,7 @@
     "type": [
       "idol"
     ],
-    "weight": 70,
+    "weight": 30,
     "score": 0
   },
   "oodanna": {
@@ -91852,7 +91852,7 @@
     "type": [
       "otaku-history"
     ],
-    "weight": 82,
+    "weight": 30,
     "score": 0
   },
   "otaku-elf": {
@@ -91868,7 +91868,7 @@
     "type": [
       "otaku-history"
     ],
-    "weight": 75,
+    "weight": 30,
     "score": 0
   },
   "otaku-history-1990s": {
@@ -91876,7 +91876,7 @@
     "type": [
       "otaku-history"
     ],
-    "weight": 75,
+    "weight": 30,
     "score": 0
   },
   "otaku-history-2000s": {
@@ -91884,7 +91884,7 @@
     "type": [
       "otaku-history"
     ],
-    "weight": 75,
+    "weight": 30,
     "score": 0
   },
   "otaku-no-musume-san": {
@@ -91908,7 +91908,7 @@
     "type": [
       "otaku-culture"
     ],
-    "weight": 76,
+    "weight": 30,
     "score": 0
   },
   "otaku-vampires-love-bite": {
@@ -92047,7 +92047,7 @@
     "type": [
       "otaku-culture"
     ],
-    "weight": 79,
+    "weight": 30,
     "score": 0
   },
   "otome-no-teikoku": {
@@ -92458,7 +92458,7 @@
     "type": [
       "otaku-history"
     ],
-    "weight": 76,
+    "weight": 30,
     "score": 0
   },
   "over-drive": {
@@ -93518,7 +93518,7 @@
       "idol",
       "person"
     ],
-    "weight": 64,
+    "weight": 30,
     "score": 0
   },
   "period": {
@@ -94275,7 +94275,7 @@
     "type": [
       "otaku-culture"
     ],
-    "weight": 75,
+    "weight": 30,
     "score": 0
   },
   "place-to-place": {
@@ -96597,7 +96597,7 @@
     "type": [
       "otaku-culture"
     ],
-    "weight": 79,
+    "weight": 30,
     "score": 0
   },
   "raana-kaname": {
@@ -98206,7 +98206,7 @@
     "type": [
       "idol"
     ],
-    "weight": 78,
+    "weight": 30,
     "score": 0
   },
   "regulus-corneas": {
@@ -99418,7 +99418,7 @@
     "type": [
       "figures"
     ],
-    "weight": 77,
+    "weight": 30,
     "score": 77
   },
   "retsu-unohana": {
@@ -99767,7 +99767,7 @@
     "type": [
       "otaku-culture"
     ],
-    "weight": 76,
+    "weight": 30,
     "score": 0
   },
   "ria-koito": {
@@ -100794,7 +100794,7 @@
     "type": [
       "idol"
     ],
-    "weight": 65,
+    "weight": 30,
     "score": 0
   },
   "rintarou": {
@@ -105156,7 +105156,7 @@
     "type": [
       "idol"
     ],
-    "weight": 67,
+    "weight": 30,
     "score": 0
   },
   "sakuta-azusagawa": {
@@ -107637,7 +107637,7 @@
     "type": [
       "idol"
     ],
-    "weight": 60,
+    "weight": 30,
     "score": 0
   },
   "seiko-shinohara": {
@@ -107887,7 +107887,7 @@
     "type": [
       "seiyuu"
     ],
-    "weight": 103,
+    "weight": 30,
     "score": 1
   },
   "seiyuu-live-events": {
@@ -107895,7 +107895,7 @@
     "type": [
       "seiyuu"
     ],
-    "weight": 101,
+    "weight": 30,
     "score": 1
   },
   "seiyuu-radio-shows": {
@@ -107903,7 +107903,7 @@
     "type": [
       "seiyuu"
     ],
-    "weight": 104,
+    "weight": 30,
     "score": 1
   },
   "seiyuu-training-schools": {
@@ -107911,7 +107911,7 @@
     "type": [
       "seiyuu"
     ],
-    "weight": 103,
+    "weight": 30,
     "score": 1
   },
   "seiyuu-who-sing": {
@@ -107919,7 +107919,7 @@
     "type": [
       "anime-music"
     ],
-    "weight": 82,
+    "weight": 30,
     "score": 0
   },
   "sekai-ichi-hatsukoi---worlds-greatest-first-love": {
@@ -109072,7 +109072,7 @@
     "type": [
       "idol"
     ],
-    "weight": 68,
+    "weight": 30,
     "score": 0
   },
   "sgt-frog": {
@@ -111373,7 +111373,7 @@
     "type": [
       "idol"
     ],
-    "weight": 70,
+    "weight": 30,
     "score": 0
   },
   "shirley-fenette": {
@@ -111725,7 +111725,7 @@
     "type": [
       "idol"
     ],
-    "weight": 67,
+    "weight": 30,
     "score": 0
   },
   "shizuka-kuze": {
@@ -113565,7 +113565,7 @@
     "type": [
       "idol"
     ],
-    "weight": 68,
+    "weight": 30,
     "score": 68
   },
   "sizhui-lan": {
@@ -113629,7 +113629,7 @@
     "type": [
       "idol"
     ],
-    "weight": 68,
+    "weight": 30,
     "score": 0
   },
   "skeleton-knight-in-another-world": {
@@ -113981,7 +113981,7 @@
     "type": [
       "idol"
     ],
-    "weight": 60,
+    "weight": 30,
     "score": 0
   },
   "smash": {
@@ -114110,7 +114110,7 @@
     "type": [
       "idol"
     ],
-    "weight": 67,
+    "weight": 30,
     "score": 67
   },
   "snow-sakura": {
@@ -115624,7 +115624,7 @@
     "type": [
       "idol"
     ],
-    "weight": 68,
+    "weight": 30,
     "score": 0
   },
   "speed-grapher": {
@@ -116837,7 +116837,7 @@
     "type": [
       "idol"
     ],
-    "weight": 72,
+    "weight": 30,
     "score": 0
   },
   "student-council-staff-members": {
@@ -118559,7 +118559,7 @@
     "type": [
       "otaku-culture"
     ],
-    "weight": 77,
+    "weight": 30,
     "score": 0
   },
   "sweet-osmanthus": {
@@ -120893,7 +120893,7 @@
     "type": [
       "otaku-culture"
     ],
-    "weight": 78,
+    "weight": 30,
     "score": 0
   },
   "tantei-gakuen-q": {
@@ -121472,7 +121472,7 @@
     "type": [
       "idol"
     ],
-    "weight": 71,
+    "weight": 30,
     "score": 0
   },
   "tear-grants": {
@@ -124686,8 +124686,8 @@
     "type": [
       "manga"
     ],
-    "weight": 119,
-    "score": 1
+    "weight": 79,
+    "score": -4
   },
   "the-guyver-bio-booster-armor": {
     "name": "The Guyver: Bio-Booster Armor",
@@ -129350,7 +129350,7 @@
     "type": [
       "idol"
     ],
-    "weight": 66,
+    "weight": 30,
     "score": 0
   },
   "tokio-kurohara": {
@@ -129531,7 +129531,7 @@
     "type": [
       "idol"
     ],
-    "weight": 70,
+    "weight": 30,
     "score": 0
   },
   "tokyo-godfathers": {
@@ -130942,7 +130942,7 @@
     "type": [
       "otaku-culture"
     ],
-    "weight": 76,
+    "weight": 30,
     "score": 0
   },
   "touhou-bougetsushou-silent-sinner-in-blue": {
@@ -130990,7 +130990,7 @@
     "type": [
       "anime-music"
     ],
-    "weight": 75,
+    "weight": 30,
     "score": 75
   },
   "touhou-niji-sousaku-doujin-anime-musou-kakyou": {
@@ -131006,7 +131006,7 @@
     "type": [
       "otaku-culture"
     ],
-    "weight": 72,
+    "weight": 30,
     "score": 0
   },
   "touhou-sangetsusei-oriental-sacred-place": {
@@ -133023,7 +133023,7 @@
     "type": [
       "idol"
     ],
-    "weight": 64,
+    "weight": 30,
     "score": 0
   },
   "twilight-out-of-focus": {
@@ -133090,7 +133090,7 @@
     "type": [
       "otaku-culture"
     ],
-    "weight": 77,
+    "weight": 30,
     "score": 0
   },
   "twittering-birds-never-fly": {
@@ -134058,7 +134058,7 @@
     "type": [
       "otaku-culture"
     ],
-    "weight": 79,
+    "weight": 30,
     "score": 0
   },
   "ura-kyoushi-haitoku-no-inetsu-jugyou": {
@@ -134670,7 +134670,7 @@
     "type": [
       "idol"
     ],
-    "weight": 67,
+    "weight": 30,
     "score": 0
   },
   "va-11-hall-a": {
@@ -135592,7 +135592,7 @@
     "type": [
       "idol"
     ],
-    "weight": 71,
+    "weight": 30,
     "score": 0
   },
   "virtual-strangers": {
@@ -135616,7 +135616,7 @@
     "type": [
       "otaku-culture"
     ],
-    "weight": 76,
+    "weight": 30,
     "score": 0
   },
   "visual-prison": {
@@ -135744,7 +135744,7 @@
     "type": [
       "anime-music"
     ],
-    "weight": 71,
+    "weight": 30,
     "score": 71
   },
   "vofan": {
@@ -135825,7 +135825,7 @@
     "type": [
       "otaku-culture"
     ],
-    "weight": 68,
+    "weight": 30,
     "score": 68
   },
   "vtuber-legend-how-i-went-viral-after-forgetting-to-turn-off-my-stream": {
@@ -135865,7 +135865,7 @@
     "type": [
       "otaku-culture"
     ],
-    "weight": 80,
+    "weight": 30,
     "score": 0
   },
   "wabisabi": {
@@ -137439,7 +137439,7 @@
     "type": [
       "idol"
     ],
-    "weight": 70,
+    "weight": 30,
     "score": 0
   },
   "winry-rockbell": {
@@ -137902,7 +137902,7 @@
     "type": [
       "figures"
     ],
-    "weight": 77,
+    "weight": 30,
     "score": 0
   },
   "wonderful-everyday-diskontinuierliches-dasein": {
@@ -137990,7 +137990,7 @@
     "type": [
       "cosplay"
     ],
-    "weight": 82,
+    "weight": 30,
     "score": 0
   },
   "world-customize-creator": {
@@ -138113,7 +138113,7 @@
     "type": [
       "idol"
     ],
-    "weight": 77,
+    "weight": 30,
     "score": 0
   },
   "wotakoi-love-is-hard-for-otaku": {
@@ -138866,7 +138866,7 @@
     "type": [
       "otaku-culture"
     ],
-    "weight": 76,
+    "weight": 30,
     "score": 0
   },
   "yami-no-koe": {
@@ -139707,7 +139707,7 @@
     "type": [
       "idol"
     ],
-    "weight": 68,
+    "weight": 30,
     "score": 0
   },
   "yoko-shimomura": {
