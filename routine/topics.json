@@ -928,8 +928,8 @@
     "type": [
       "manga"
     ],
-    "weight": 673,
-    "score": 350
+    "weight": 668,
+    "score": -50
   },
   "a-drifting-life": {
     "name": "A Drifting Life",
@@ -2738,7 +2738,7 @@
     "type": [
       "character"
     ],
-    "weight": 90,
+    "weight": 45,
     "score": 1
   },
   "ai-kakuma": {
@@ -3803,7 +3803,7 @@
     "type": [
       "character"
     ],
-    "weight": 77,
+    "weight": 38,
     "score": 0
   },
   "akane-minagawa": {
@@ -4561,8 +4561,8 @@
       "character",
       "visual-novel"
     ],
-    "weight": 99,
-    "score": 1
+    "weight": 69,
+    "score": -1199
   },
   "akira-amano": {
     "name": "Akira Amano",
@@ -5879,8 +5879,8 @@
       "manga",
       "light-novel"
     ],
-    "weight": 113,
-    "score": 1
+    "weight": 83,
+    "score": -1199
   },
   "alya-sometimes-hides-her-feelings-in-russian-season-2": {
     "name": "Alya Sometimes Hides Her Feelings in Russian Season 2",
@@ -6269,8 +6269,8 @@
     "type": [
       "anime"
     ],
-    "weight": 428,
-    "score": 234
+    "weight": 413,
+    "score": -566
   },
   "amelie": {
     "name": "Amelie",
@@ -6792,16 +6792,16 @@
     "type": [
       "anime"
     ],
-    "weight": 83,
-    "score": 1
+    "weight": 53,
+    "score": -1199
   },
   "angel-beats-another-epilogue": {
     "name": "Angel Beats! Another Epilogue",
     "type": [
       "anime"
     ],
-    "weight": 461,
-    "score": 250
+    "weight": 456,
+    "score": -250
   },
   "angel-beats-heavens-door": {
     "name": "Angel Beats!: Heaven's Door",
@@ -6817,7 +6817,7 @@
       "anime"
     ],
     "weight": 378,
-    "score": 211
+    "score": -89
   },
   "angel-beats-track-zero": {
     "name": "Angel Beats!: Track Zero",
@@ -7341,7 +7341,7 @@
     "type": [
       "character"
     ],
-    "weight": 150,
+    "weight": 75,
     "score": 1
   },
   "ann-takamaki": {
@@ -7586,8 +7586,8 @@
       "manga",
       "light-novel"
     ],
-    "weight": 97,
-    "score": 1
+    "weight": 62,
+    "score": -1599
   },
   "another-code-two-memories": {
     "name": "Another Code: Two Memories",
@@ -7610,8 +7610,8 @@
     "type": [
       "anime"
     ],
-    "weight": 545,
-    "score": 290
+    "weight": 540,
+    "score": -510
   },
   "another-world": {
     "name": "Another World",
@@ -7822,7 +7822,7 @@
       "light-novel"
     ],
     "weight": 1126,
-    "score": 565
+    "score": 265
   },
   "ao-no-hako": {
     "name": "Ao no Hako",
@@ -9654,8 +9654,8 @@
       "anime",
       "manga"
     ],
-    "weight": 89,
-    "score": 1
+    "weight": 59,
+    "score": -1199
   },
   "assassination-classroom-extracurricular-lesson": {
     "name": "Assassination Classroom: Extracurricular Lesson",
@@ -9686,8 +9686,8 @@
     "type": [
       "anime"
     ],
-    "weight": 96,
-    "score": 1
+    "weight": 66,
+    "score": -1199
   },
   "assassination-classroom-the-movie-365-days-time": {
     "name": "Assassination Classroom The Movie: 365 Days' Time",
@@ -9881,7 +9881,7 @@
     "type": [
       "character"
     ],
-    "weight": 73,
+    "weight": 36,
     "score": 0
   },
   "asuka-mishima": {
@@ -10365,8 +10365,8 @@
       "anime",
       "manga"
     ],
-    "weight": 64,
-    "score": 0
+    "weight": 34,
+    "score": -1500
   },
   "attack-on-titan-before-the-fall": {
     "name": "Attack on Titan: Before the Fall",
@@ -10390,8 +10390,8 @@
     "type": [
       "anime"
     ],
-    "weight": 740,
-    "score": 382
+    "weight": 735,
+    "score": -118
   },
   "attack-on-titan-chibi-theater---survey-corps-the-final": {
     "name": "Attack on Titan: Chibi Theater - Survey Corps, The Final!",
@@ -10414,32 +10414,32 @@
     "type": [
       "anime"
     ],
-    "weight": 429,
-    "score": 235
+    "weight": 414,
+    "score": -565
   },
   "attack-on-titan-final-season": {
     "name": "Attack on Titan: Final Season",
     "type": [
       "anime"
     ],
-    "weight": 81,
-    "score": 0
+    "weight": 51,
+    "score": -1200
   },
   "attack-on-titan-final-season---the-final-chapters": {
     "name": "Attack on Titan: Final Season - The Final Chapters",
     "type": [
       "anime"
     ],
-    "weight": 96,
-    "score": 96
+    "weight": 66,
+    "score": -1104
   },
   "attack-on-titan-final-season-part-2": {
     "name": "Attack on Titan: Final Season Part 2",
     "type": [
       "anime"
     ],
-    "weight": 87,
-    "score": 0
+    "weight": 57,
+    "score": -1200
   },
   "attack-on-titan-junior-high": {
     "name": "Attack on Titan: Junior High",
@@ -10457,8 +10457,8 @@
       "manga",
       "light-novel"
     ],
-    "weight": 142,
-    "score": 0
+    "weight": 127,
+    "score": -800
   },
   "attack-on-titan-no-regrets": {
     "name": "Attack on Titan: No Regrets",
@@ -10466,8 +10466,8 @@
       "anime",
       "manga"
     ],
-    "weight": 125,
-    "score": 0
+    "weight": 110,
+    "score": -800
   },
   "attack-on-titan-no-regrets---complete-color-edition": {
     "name": "Attack on Titan: No Regrets - Complete Color Edition",
@@ -10482,32 +10482,32 @@
     "type": [
       "anime"
     ],
-    "weight": 135,
-    "score": 0
+    "weight": 130,
+    "score": -500
   },
   "attack-on-titan-season-2": {
     "name": "Attack on Titan Season 2",
     "type": [
       "anime"
     ],
-    "weight": 92,
-    "score": 92
+    "weight": 62,
+    "score": -1108
   },
   "attack-on-titan-season-3": {
     "name": "Attack on Titan Season 3",
     "type": [
       "anime"
     ],
-    "weight": 93,
-    "score": 0
+    "weight": 63,
+    "score": -1200
   },
   "attack-on-titan-season-3-part-2": {
     "name": "Attack on Titan Season 3 Part 2",
     "type": [
       "anime"
     ],
-    "weight": 78,
-    "score": 0
+    "weight": 48,
+    "score": -1200
   },
   "attack-on-titan-since-that-day": {
     "name": "Attack on Titan: Since That Day",
@@ -10515,7 +10515,7 @@
       "anime"
     ],
     "weight": 333,
-    "score": 189
+    "score": -111
   },
   "attack-on-titan-the-harsh-mistress-of-the-city": {
     "name": "Attack on Titan: The Harsh Mistress of the City",
@@ -10538,16 +10538,16 @@
     "type": [
       "anime"
     ],
-    "weight": 667,
-    "score": 348
+    "weight": 662,
+    "score": -152
   },
   "attack-on-titan-wings-of-freedom": {
     "name": "Attack on Titan: Wings of Freedom",
     "type": [
       "anime"
     ],
-    "weight": 368,
-    "score": 206
+    "weight": 353,
+    "score": -594
   },
   "audrey-hall": {
     "name": "Audrey Hall",
@@ -10666,8 +10666,8 @@
     "type": [
       "anime"
     ],
-    "weight": 137,
-    "score": 1
+    "weight": 107,
+    "score": -1199
   },
   "aviary-attorney": {
     "name": "Aviary Attorney",
@@ -11549,15 +11549,15 @@
       "anime"
     ],
     "weight": 132,
-    "score": 1
+    "score": -299
   },
   "b-the-beginning-succession": {
     "name": "B: The Beginning Succession",
     "type": [
       "anime"
     ],
-    "weight": 587,
-    "score": 310
+    "weight": 582,
+    "score": -190
   },
   "ba": {
     "name": "Bôa",
@@ -11896,8 +11896,8 @@
       "anime",
       "manga"
     ],
-    "weight": 82,
-    "score": 1
+    "weight": 30,
+    "score": -1699
   },
   "bakemonogatari-recap": {
     "name": "Bakemonogatari Recap",
@@ -12312,8 +12312,8 @@
     "type": [
       "anime"
     ],
-    "weight": 133,
-    "score": 1
+    "weight": 128,
+    "score": -499
   },
   "bang-dream-movie-episode-of-roselia---i-yakusoku": {
     "name": "BanG Dream! Movie: Episode of Roselia - I: Yakusoku",
@@ -12882,16 +12882,16 @@
       "anime",
       "manga"
     ],
-    "weight": 104,
-    "score": 1
+    "weight": 89,
+    "score": -799
   },
   "beastars-2nd-season": {
     "name": "Beastars 2nd Season",
     "type": [
       "anime"
     ],
-    "weight": 124,
-    "score": 1
+    "weight": 109,
+    "score": -799
   },
   "beastars-final-season": {
     "name": "Beastars Final Season",
@@ -12938,8 +12938,8 @@
     "type": [
       "manga"
     ],
-    "weight": 783,
-    "score": 402
+    "weight": 273,
+    "score": -198
   },
   "beat-valkyrie-ixseal": {
     "name": "Beat Valkyrie Ixseal",
@@ -13335,8 +13335,8 @@
       "manga",
       "anime"
     ],
-    "weight": 60,
-    "score": 55
+    "weight": 30,
+    "score": -1545
   },
   "berserk-2016": {
     "name": "Berserk (2016)",
@@ -13361,48 +13361,48 @@
     "type": [
       "anime"
     ],
-    "weight": 146,
-    "score": 1
+    "weight": 141,
+    "score": -499
   },
   "berserk-shinen-no-kami-2": {
     "name": "Berserk: Shinen no Kami 2",
     "type": [
       "manga"
     ],
-    "weight": 124,
-    "score": 24
+    "weight": 104,
+    "score": -976
   },
   "berserk-the-golden-age-arc---memorial-edition": {
     "name": "Berserk: The Golden Age Arc - Memorial Edition",
     "type": [
       "anime"
     ],
-    "weight": 302,
-    "score": 175
+    "weight": 287,
+    "score": -625
   },
   "berserk-the-golden-age-arc-i---the-egg-of-the-king": {
     "name": "Berserk: The Golden Age Arc I - The Egg of the King",
     "type": [
       "anime"
     ],
-    "weight": 135,
-    "score": 1
+    "weight": 120,
+    "score": -799
   },
   "berserk-the-golden-age-arc-ii---the-battle-for-doldrey": {
     "name": "Berserk: The Golden Age Arc II - The Battle for Doldrey",
     "type": [
       "anime"
     ],
-    "weight": 139,
-    "score": 1
+    "weight": 124,
+    "score": -799
   },
   "berserk-the-golden-age-arc-iii---the-advent": {
     "name": "Berserk: The Golden Age Arc III - The Advent",
     "type": [
       "anime"
     ],
-    "weight": 128,
-    "score": 1
+    "weight": 98,
+    "score": -1199
   },
   "berserker": {
     "name": "Berserker",
@@ -15351,7 +15351,7 @@
     "type": [
       "character"
     ],
-    "weight": 464,
+    "weight": 232,
     "score": 251
   },
   "bocchi-na-bokura-no-renai-jijou": {
@@ -15368,8 +15368,8 @@
       "anime",
       "manga"
     ],
-    "weight": 86,
-    "score": 1
+    "weight": 30,
+    "score": -1199
   },
   "bocchi-the-rock-movie": {
     "name": "Bocchi the Rock! Movie",
@@ -16012,8 +16012,8 @@
       "anime",
       "manga"
     ],
-    "weight": 112,
-    "score": 1
+    "weight": 107,
+    "score": -499
   },
   "boruto-naruto-next-generations-part-2": {
     "name": "Boruto: Naruto Next Generations Part 2",
@@ -16821,16 +16821,16 @@
       "manga",
       "light-novel"
     ],
-    "weight": 90,
-    "score": 1
+    "weight": 85,
+    "score": -499
   },
   "bungo-stray-dogs-2": {
     "name": "Bungo Stray Dogs 2",
     "type": [
       "anime"
     ],
-    "weight": 109,
-    "score": 1
+    "weight": 94,
+    "score": -799
   },
   "bungo-stray-dogs-2---walking-alone": {
     "name": "Bungo Stray Dogs 2 - Walking Alone",
@@ -16838,15 +16838,15 @@
       "anime"
     ],
     "weight": 343,
-    "score": 194
+    "score": -106
   },
   "bungo-stray-dogs-3": {
     "name": "Bungo Stray Dogs 3",
     "type": [
       "anime"
     ],
-    "weight": 113,
-    "score": 1
+    "weight": 98,
+    "score": -799
   },
   "bungo-stray-dogs-4": {
     "name": "Bungo Stray Dogs 4",
@@ -16894,8 +16894,8 @@
       "anime",
       "manga"
     ],
-    "weight": 126,
-    "score": 1
+    "weight": 121,
+    "score": -499
   },
   "bungo-stray-dogs-wan": {
     "name": "Bungo Stray Dogs Wan!",
@@ -17445,16 +17445,16 @@
       "anime",
       "manga"
     ],
-    "weight": 85,
-    "score": 0
+    "weight": 30,
+    "score": -1500
   },
   "call-of-the-night-season-2": {
     "name": "Call of the Night Season 2",
     "type": [
       "anime"
     ],
-    "weight": 90,
-    "score": 90
+    "weight": 60,
+    "score": -1110
   },
   "calliope-mori": {
     "name": "Calliope Mori",
@@ -17528,8 +17528,8 @@
     "type": [
       "anime"
     ],
-    "weight": 142,
-    "score": 1
+    "weight": 112,
+    "score": -1199
   },
   "can-i-make-your-ears-happy-in-180-seconds": {
     "name": "Can I Make Your Ears Happy in 180 Seconds?",
@@ -18647,8 +18647,8 @@
       "manga",
       "anime"
     ],
-    "weight": 68,
-    "score": 1
+    "weight": 30,
+    "score": -1199
   },
   "chainsaw-man-assassins-arc": {
     "name": "Chainsaw Man: Assassins Arc",
@@ -18671,8 +18671,8 @@
     "type": [
       "anime"
     ],
-    "weight": 100,
-    "score": 1
+    "weight": 70,
+    "score": -1199
   },
   "chamber": {
     "name": "Chamber",
@@ -18841,8 +18841,8 @@
       "manga",
       "character"
     ],
-    "weight": 92,
-    "score": 1
+    "weight": 77,
+    "score": -799
   },
   "charlotte-dunois": {
     "name": "Charlotte Dunois",
@@ -21474,7 +21474,7 @@
       "visual-novel"
     ],
     "weight": 148,
-    "score": 148
+    "score": 0
   },
   "closers-side-blacklambs": {
     "name": "Closers: Side Blacklambs",
@@ -21651,8 +21651,8 @@
       "manga",
       "light-novel"
     ],
-    "weight": 70,
-    "score": 1
+    "weight": 40,
+    "score": -1199
   },
   "code-geass-lelouch-of-the-rebellion-i---initiation": {
     "name": "Code Geass: Lelouch of the Rebellion I - Initiation",
@@ -21691,8 +21691,8 @@
     "type": [
       "anime"
     ],
-    "weight": 75,
-    "score": 1
+    "weight": 45,
+    "score": -1199
   },
   "code-geass-lelouch-of-the-rebellion-r2-picture-dramas": {
     "name": "Code Geass: Lelouch of the Rebellion R2 Picture Dramas",
@@ -22456,16 +22456,16 @@
       "anime",
       "manga"
     ],
-    "weight": 74,
-    "score": 1
+    "weight": 44,
+    "score": -1499
   },
   "cowboy-bebop-session-xx---mish-mash-blues": {
     "name": "Cowboy Bebop: Session XX - Mish-Mash Blues",
     "type": [
       "anime"
     ],
-    "weight": 691,
-    "score": 359
+    "weight": 676,
+    "score": -441
   },
   "cowboy-bebop-the-movie": {
     "name": "Cowboy Bebop: The Movie",
@@ -22569,7 +22569,7 @@
       "manga"
     ],
     "weight": 1047,
-    "score": 527
+    "score": 127
   },
   "creepy-nuts": {
     "name": "Creepy Nuts",
@@ -23107,8 +23107,8 @@
     "type": [
       "anime"
     ],
-    "weight": 87,
-    "score": 1
+    "weight": 57,
+    "score": -1199
   },
   "cyberpunk-edgerunners-2": {
     "name": "Cyberpunk: Edgerunners 2",
@@ -23899,7 +23899,7 @@
     "type": [
       "manga"
     ],
-    "weight": 100,
+    "weight": 50,
     "score": 1
   },
   "dandelion---wishes-brought-to-you--": {
@@ -24101,8 +24101,8 @@
       "anime",
       "manga"
     ],
-    "weight": 131,
-    "score": 1
+    "weight": 101,
+    "score": -1199
   },
   "dark-heaven": {
     "name": "Dark Heaven",
@@ -24216,8 +24216,8 @@
       "anime",
       "manga"
     ],
-    "weight": 89,
-    "score": 1
+    "weight": 84,
+    "score": -499
   },
   "darling-wa-namamono-ni-tsuki": {
     "name": "Darling wa Namamono ni Tsuki",
@@ -24299,8 +24299,8 @@
       "manga",
       "light-novel"
     ],
-    "weight": 105,
-    "score": 1
+    "weight": 90,
+    "score": -799
   },
   "date-a-live-arusu-install": {
     "name": "Date A Live: Arusu Install",
@@ -24316,7 +24316,7 @@
       "anime"
     ],
     "weight": 322,
-    "score": 184
+    "score": -116
   },
   "date-a-live-encore": {
     "name": "Date A Live: Encore",
@@ -24339,16 +24339,16 @@
     "type": [
       "anime"
     ],
-    "weight": 125,
-    "score": 1
+    "weight": 110,
+    "score": -799
   },
   "date-a-live-ii-kurumi-star-festival": {
     "name": "Date A Live II: Kurumi Star Festival",
     "type": [
       "anime"
     ],
-    "weight": 133,
-    "score": 1
+    "weight": 118,
+    "score": -799
   },
   "date-a-live-iii": {
     "name": "Date A Live III",
@@ -24672,8 +24672,8 @@
       "anime",
       "manga"
     ],
-    "weight": 133,
-    "score": 1
+    "weight": 128,
+    "score": -499
   },
   "dead-mount-death-play-part-2": {
     "name": "Dead Mount Death Play Part 2",
@@ -24722,8 +24722,8 @@
       "anime",
       "light-novel"
     ],
-    "weight": 104,
-    "score": 1
+    "weight": 89,
+    "score": -799
   },
   "deadman-wonderland-the-red-knife-wielder": {
     "name": "Deadman Wonderland: The Red Knife Wielder",
@@ -24731,7 +24731,7 @@
       "anime"
     ],
     "weight": 849,
-    "score": 434
+    "score": 134
   },
   "deadpool-samurai": {
     "name": "Deadpool: Samurai",
@@ -24805,7 +24805,7 @@
       "anime"
     ],
     "weight": 356,
-    "score": 200
+    "score": -100
   },
   "death-gods-lover---the-chain-of-destiny-which-tied-together-": {
     "name": "Death God's Lover - The chain of destiny which tied together-",
@@ -24831,8 +24831,8 @@
       "anime",
       "manga"
     ],
-    "weight": 64,
-    "score": 1
+    "weight": 34,
+    "score": -1199
   },
   "death-note-another-note-the-los-angeles-bb-murder-cases": {
     "name": "Death Note Another Note: The Los Angeles BB Murder Cases",
@@ -24848,8 +24848,8 @@
     "type": [
       "anime"
     ],
-    "weight": 139,
-    "score": 1
+    "weight": 124,
+    "score": -799
   },
   "death-note-short-stories": {
     "name": "Death Note Short Stories",
@@ -24864,8 +24864,8 @@
     "type": [
       "anime"
     ],
-    "weight": 90,
-    "score": 1
+    "weight": 85,
+    "score": -499
   },
   "death-the-kid": {
     "name": "Death the Kid",
@@ -25242,8 +25242,8 @@
       "anime",
       "manga"
     ],
-    "weight": 74,
-    "score": 1
+    "weight": 69,
+    "score": -499
   },
   "demon-slayer-kimetsu-no-yaiba---stories-of-water-and-flame": {
     "name": "Demon Slayer: Kimetsu no Yaiba - Stories of Water and Flame",
@@ -25274,16 +25274,16 @@
     "type": [
       "anime"
     ],
-    "weight": 99,
-    "score": 1
+    "weight": 84,
+    "score": -799
   },
   "demon-slayer-kimetsu-no-yaiba-entertainment-district-arc": {
     "name": "Demon Slayer: Kimetsu no Yaiba Entertainment District Arc",
     "type": [
       "anime"
     ],
-    "weight": 91,
-    "score": 1
+    "weight": 86,
+    "score": -499
   },
   "demon-slayer-kimetsu-no-yaiba-hashira-training-arc": {
     "name": "Demon Slayer: Kimetsu no Yaiba Hashira Training Arc",
@@ -25298,16 +25298,16 @@
     "type": [
       "anime"
     ],
-    "weight": 114,
-    "score": 1
+    "weight": 109,
+    "score": -499
   },
   "demon-slayer-kimetsu-no-yaiba-swordsmith-village-arc": {
     "name": "Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc",
     "type": [
       "anime"
     ],
-    "weight": 104,
-    "score": 1
+    "weight": 89,
+    "score": -799
   },
   "demon-spirit-seed-manual": {
     "name": "Demon Spirit Seed Manual",
@@ -25905,8 +25905,8 @@
     "type": [
       "anime"
     ],
-    "weight": 92,
-    "score": 1
+    "weight": 62,
+    "score": -1499
   },
   "devilman-the-birth": {
     "name": "Devilman: The Birth",
@@ -26198,16 +26198,16 @@
     "type": [
       "anime"
     ],
-    "weight": 533,
-    "score": 284
+    "weight": 503,
+    "score": -916
   },
   "digimon-adventure-02": {
     "name": "Digimon Adventure 02",
     "type": [
       "anime"
     ],
-    "weight": 139,
-    "score": 1
+    "weight": 124,
+    "score": -799
   },
   "digimon-adventure-last-evolution-kizuna": {
     "name": "Digimon Adventure: Last Evolution Kizuna",
@@ -26246,8 +26246,8 @@
     "type": [
       "anime"
     ],
-    "weight": 457,
-    "score": 248
+    "weight": 442,
+    "score": -552
   },
   "digimon-adventure-v-tamer-01": {
     "name": "Digimon Adventure: V-Tamer 01",
@@ -26334,8 +26334,8 @@
     "type": [
       "anime"
     ],
-    "weight": 300,
-    "score": 174
+    "weight": 270,
+    "score": -1026
   },
   "digimon-universe-app-monsters": {
     "name": "Digimon Universe App Monsters",
@@ -26416,7 +26416,7 @@
       "anime"
     ],
     "weight": 593,
-    "score": 312
+    "score": 12
   },
   "dinosaur-sanctuary": {
     "name": "Dinosaur Sanctuary",
@@ -27132,16 +27132,16 @@
       "anime",
       "manga"
     ],
-    "weight": 107,
-    "score": 1
+    "weight": 30,
+    "score": -1199
   },
   "dont-toy-with-me-miss-nagatoro-2nd-attack": {
     "name": "Don't Toy with Me, Miss Nagatoro 2nd Attack",
     "type": [
       "anime"
     ],
-    "weight": 126,
-    "score": 1
+    "weight": 96,
+    "score": -1199
   },
   "doo-na-lee": {
     "name": "Doo-na Lee",
@@ -27272,7 +27272,7 @@
       "anime"
     ],
     "weight": 95,
-    "score": 1
+    "score": -299
   },
   "dorohedoro-bonus-curse-or-extra-evil": {
     "name": "Dorohedoro: Bonus Curse or Extra Evil",
@@ -27280,7 +27280,7 @@
       "anime"
     ],
     "weight": 721,
-    "score": 373
+    "score": 73
   },
   "dorohedoro-season-2": {
     "name": "Dorohedoro Season 2",
@@ -27694,7 +27694,7 @@
       "anime"
     ],
     "weight": 141,
-    "score": 1
+    "score": -299
   },
   "dragon-ball-that-time-i-got-reincarnated-as-yamcha": {
     "name": "Dragon Ball: That Time I Got Reincarnated as Yamcha!",
@@ -28377,16 +28377,16 @@
       "anime",
       "manga"
     ],
-    "weight": 114,
-    "score": 1
+    "weight": 99,
+    "score": -799
   },
   "dusk-maiden-of-amnesia-ghost-girl": {
     "name": "Dusk Maiden of Amnesia: Ghost Girl",
     "type": [
       "anime"
     ],
-    "weight": 627,
-    "score": 328
+    "weight": 622,
+    "score": -172
   },
   "dustmania-grotesque-kaitai-sounyuu-shinsho": {
     "name": "Dustmania Grotesque ~Kaitai Sounyuu Shinsho~",
@@ -29052,8 +29052,8 @@
     "type": [
       "anime"
     ],
-    "weight": 138,
-    "score": 1
+    "weight": 123,
+    "score": -799
   },
   "elegant-yokai-apartment-life": {
     "name": "Elegant Yokai Apartment Life",
@@ -29118,8 +29118,8 @@
       "anime",
       "manga"
     ],
-    "weight": 93,
-    "score": 1
+    "weight": 88,
+    "score": -499
   },
   "elfen-lied-in-the-passing-rain-or-how-can-a-girl-have-reached-such-feelings": {
     "name": "Elfen Lied: In the Passing Rain, or, How Can a Girl Have Reached Such Feelings?",
@@ -29866,8 +29866,8 @@
       "anime",
       "manga"
     ],
-    "weight": 82,
-    "score": 1
+    "weight": 52,
+    "score": -1199
   },
   "erased-digest": {
     "name": "ERASED Digest",
@@ -30244,7 +30244,7 @@
       "anime"
     ],
     "weight": 136,
-    "score": 1
+    "score": -299
   },
   "eroge-sex-and-games-make-sexy-games": {
     "name": "EROGE! Sex and Games Make Sexy Games",
@@ -30590,8 +30590,8 @@
       "anime",
       "visual-novel"
     ],
-    "weight": 142,
-    "score": 1
+    "weight": 137,
+    "score": -499
   },
   "euphyllia-magenta": {
     "name": "Euphyllia Magenta",
@@ -30686,32 +30686,32 @@
     "type": [
       "anime"
     ],
-    "weight": 125,
-    "score": 624
+    "weight": 95,
+    "score": -576
   },
   "evangelion-20-you-can-not-advance": {
     "name": "Evangelion: 2.0 You Can (Not) Advance",
     "type": [
       "anime"
     ],
-    "weight": 117,
-    "score": 0
+    "weight": 87,
+    "score": -1700
   },
   "evangelion-30-you-can-not-redo": {
     "name": "Evangelion: 3.0 You Can (Not) Redo",
     "type": [
       "anime"
     ],
-    "weight": 125,
-    "score": 611
+    "weight": 95,
+    "score": -589
   },
   "evangelion-3010-thrice-upon-a-time": {
     "name": "Evangelion: 3.0+1.0 Thrice Upon a Time",
     "type": [
       "anime"
     ],
-    "weight": 106,
-    "score": 741
+    "weight": 76,
+    "score": -459
   },
   "eve": {
     "name": "Eve",
@@ -31158,7 +31158,7 @@
       "light-novel"
     ],
     "weight": 84,
-    "score": 1
+    "score": -299
   },
   "fairy-tail-100-years-quest": {
     "name": "Fairy Tail: 100 Years Quest",
@@ -31825,16 +31825,16 @@
       "manga",
       "light-novel"
     ],
-    "weight": 87,
-    "score": 1
+    "weight": 72,
+    "score": -799
   },
   "fatezero-season-2": {
     "name": "Fate/Zero Season 2",
     "type": [
       "anime"
     ],
-    "weight": 94,
-    "score": 1
+    "weight": 64,
+    "score": -1199
   },
   "father-and-son": {
     "name": "Father and Son",
@@ -33631,8 +33631,8 @@
       "anime",
       "manga"
     ],
-    "weight": 73,
-    "score": 1
+    "weight": 43,
+    "score": -1199
   },
   "frieren-beyond-journeys-end---golden-land-arc": {
     "name": "Frieren: Beyond Journey's End - Golden Land Arc",
@@ -34215,8 +34215,8 @@
     "type": [
       "anime"
     ],
-    "weight": 60,
-    "score": 1
+    "weight": 30,
+    "score": -1199
   },
   "fullmetal-alchemist-brotherhood-4-koma-theater": {
     "name": "Fullmetal Alchemist: Brotherhood 4-koma Theater",
@@ -34615,8 +34615,8 @@
     "type": [
       "manga"
     ],
-    "weight": 716,
-    "score": 371
+    "weight": 706,
+    "score": -229
   },
   "futaribeya-a-room-for-two": {
     "name": "Futaribeya: A Room for Two",
@@ -35492,7 +35492,7 @@
       "anime"
     ],
     "weight": 346,
-    "score": 196
+    "score": -104
   },
   "ganyu": {
     "name": "Ganyu",
@@ -36295,8 +36295,8 @@
     "type": [
       "anime"
     ],
-    "weight": 99,
-    "score": 1
+    "weight": 84,
+    "score": -799
   },
   "ghost-in-the-shell-2-innocence": {
     "name": "Ghost in the Shell 2: Innocence",
@@ -37817,8 +37817,8 @@
       "manga",
       "light-novel"
     ],
-    "weight": 100,
-    "score": 1
+    "weight": 70,
+    "score": -1199
   },
   "golem": {
     "name": "Golem",
@@ -37995,7 +37995,7 @@
     "type": [
       "manga"
     ],
-    "weight": 74,
+    "weight": 37,
     "score": 1
   },
   "goong": {
@@ -39129,7 +39129,7 @@
     "type": [
       "character"
     ],
-    "weight": 74,
+    "weight": 37,
     "score": 1
   },
   "guu": {
@@ -39917,7 +39917,7 @@
       "manga"
     ],
     "weight": 150,
-    "score": 1
+    "score": -299
   },
   "hajimete-no-hitozuma": {
     "name": "Hajimete no Hitozuma",
@@ -40534,8 +40534,8 @@
     "type": [
       "anime"
     ],
-    "weight": 134,
-    "score": 1
+    "weight": 119,
+    "score": -799
   },
   "hanasakeru-seishonen": {
     "name": "Hanasakeru Seishonen",
@@ -42191,7 +42191,7 @@
     "type": [
       "character"
     ],
-    "weight": 121,
+    "weight": 60,
     "score": 1
   },
   "hayate-ayasaki": {
@@ -42483,8 +42483,8 @@
       "anime",
       "manga"
     ],
-    "weight": 108,
-    "score": 1
+    "weight": 78,
+    "score": -1199
   },
   "heavenly-demon-reborn": {
     "name": "Heavenly Demon Reborn!",
@@ -42838,8 +42838,8 @@
     "type": [
       "anime"
     ],
-    "weight": 104,
-    "score": 1
+    "weight": 89,
+    "score": -799
   },
   "hells-paradise-jigokuraku": {
     "name": "Hell's Paradise: Jigokuraku",
@@ -42854,8 +42854,8 @@
     "type": [
       "anime"
     ],
-    "weight": 122,
-    "score": 1
+    "weight": 107,
+    "score": -799
   },
   "hellsing": {
     "name": "Hellsing",
@@ -42888,8 +42888,8 @@
     "type": [
       "anime"
     ],
-    "weight": 92,
-    "score": 1
+    "weight": 62,
+    "score": -1199
   },
   "helter-skelter-fashion-unfriendly": {
     "name": "Helter Skelter: Fashion Unfriendly",
@@ -43493,7 +43493,7 @@
     "type": [
       "person"
     ],
-    "weight": 89,
+    "weight": 44,
     "score": 1
   },
   "hideaki-sorachi": {
@@ -43800,8 +43800,8 @@
       "anime",
       "manga"
     ],
-    "weight": 128,
-    "score": 1
+    "weight": 123,
+    "score": -499
   },
   "high-school-debut": {
     "name": "High School Debut",
@@ -44026,24 +44026,24 @@
     "type": [
       "anime"
     ],
-    "weight": 614,
-    "score": 322
+    "weight": 609,
+    "score": -178
   },
   "higurashi-no-naku-koro-ni-rei": {
     "name": "Higurashi no Naku Koro ni Rei",
     "type": [
       "visual-novel"
     ],
-    "weight": 121,
-    "score": 0
+    "weight": 116,
+    "score": -500
   },
   "higurashi-when-they-cry": {
     "name": "Higurashi: When They Cry",
     "type": [
       "anime"
     ],
-    "weight": 94,
-    "score": 0
+    "weight": 64,
+    "score": -1200
   },
   "higurashi-when-they-cry---answer-arcs": {
     "name": "Higurashi When They Cry - Answer Arcs",
@@ -44059,7 +44059,7 @@
       "anime"
     ],
     "weight": 779,
-    "score": 401
+    "score": 101
   },
   "higurashi-when-they-cry---hou": {
     "name": "Higurashi When They Cry - Hou",
@@ -44074,8 +44074,8 @@
     "type": [
       "anime"
     ],
-    "weight": 672,
-    "score": 350
+    "weight": 667,
+    "score": -150
   },
   "higurashi-when-they-cry---question-arcs": {
     "name": "Higurashi When They Cry - Question Arcs",
@@ -44154,16 +44154,16 @@
     "type": [
       "anime"
     ],
-    "weight": 130,
-    "score": 0
+    "weight": 100,
+    "score": -1200
   },
   "higurashi-when-they-cry-kai": {
     "name": "Higurashi: When They Cry – Kai",
     "type": [
       "anime"
     ],
-    "weight": 108,
-    "score": 0
+    "weight": 78,
+    "score": -1200
   },
   "higurashi-when-they-cry-kai-specials": {
     "name": "Higurashi: When They Cry – Kai Specials",
@@ -44194,8 +44194,8 @@
     "type": [
       "anime"
     ],
-    "weight": 140,
-    "score": 0
+    "weight": 125,
+    "score": -800
   },
   "higurashi-when-they-cry-time-killing-arc": {
     "name": "Higurashi WHEN THEY CRY: Time Killing Arc",
@@ -46270,7 +46270,7 @@
     "type": [
       "character"
     ],
-    "weight": 96,
+    "weight": 48,
     "score": 1
   },
   "homura-kougetsu": {
@@ -46352,8 +46352,8 @@
       "anime",
       "manga"
     ],
-    "weight": 143,
-    "score": 1
+    "weight": 113,
+    "score": -1199
   },
   "honey-so-sweet": {
     "name": "Honey So Sweet",
@@ -47015,8 +47015,8 @@
       "anime",
       "manga"
     ],
-    "weight": 133,
-    "score": 1
+    "weight": 118,
+    "score": -799
   },
   "how-i-attended-an-all-guys-mixer": {
     "name": "How I Attended an All-Guy's Mixer",
@@ -48591,8 +48591,8 @@
     "type": [
       "anime"
     ],
-    "weight": 336,
-    "score": 191
+    "weight": 306,
+    "score": -1009
   },
   "idol-anime-connection": {
     "name": "Idol Anime Connection",
@@ -50311,8 +50311,8 @@
       "anime",
       "manga"
     ],
-    "weight": 123,
-    "score": 1
+    "weight": 93,
+    "score": -1499
   },
   "inspector-akane-tsunemori": {
     "name": "Inspector Akane Tsunemori",
@@ -51933,8 +51933,8 @@
     "type": [
       "anime"
     ],
-    "weight": 519,
-    "score": 277
+    "weight": 514,
+    "score": -223
   },
   "iwaihime": {
     "name": "Iwaihime",
@@ -52629,8 +52629,8 @@
     "type": [
       "anime"
     ],
-    "weight": 111,
-    "score": 1
+    "weight": 81,
+    "score": -1199
   },
   "jensen-ackles": {
     "name": "Jensen Ackles",
@@ -53466,8 +53466,8 @@
     "type": [
       "anime"
     ],
-    "weight": 86,
-    "score": 1
+    "weight": 56,
+    "score": -1199
   },
   "jojos-bizarre-adventure-diamond-is-unbreakable": {
     "name": "JoJo's Bizarre Adventure: Diamond Is Unbreakable",
@@ -53602,16 +53602,16 @@
     "type": [
       "anime"
     ],
-    "weight": 92,
-    "score": 1
+    "weight": 77,
+    "score": -799
   },
   "jojos-bizarre-adventure-stardust-crusaders---battle-in-egypt": {
     "name": "JoJo's Bizarre Adventure: Stardust Crusaders - Battle in Egypt",
     "type": [
       "anime"
     ],
-    "weight": 93,
-    "score": 1
+    "weight": 78,
+    "score": -799
   },
   "jojos-bizarre-adventure-stone-ocean": {
     "name": "JoJo's Bizarre Adventure: Stone Ocean",
@@ -54066,8 +54066,8 @@
       "anime",
       "manga"
     ],
-    "weight": 73,
-    "score": 1
+    "weight": 58,
+    "score": -799
   },
   "jujutsu-kaisen-0": {
     "name": "Jujutsu Kaisen 0",
@@ -54075,8 +54075,8 @@
       "anime",
       "manga"
     ],
-    "weight": 102,
-    "score": 1
+    "weight": 97,
+    "score": -499
   },
   "jujutsu-kaisen-execution": {
     "name": "Jujutsu Kaisen: Execution",
@@ -54108,7 +54108,7 @@
       "anime"
     ],
     "weight": 127,
-    "score": 1
+    "score": -299
   },
   "jujutsu-kaisen-season-2": {
     "name": "Jujutsu Kaisen Season 2",
@@ -54388,7 +54388,7 @@
       "anime"
     ],
     "weight": 135,
-    "score": 1
+    "score": -799
   },
   "junji-ito-collection---tomie": {
     "name": "Junji Ito: Collection - Tomie",
@@ -54868,8 +54868,8 @@
     "type": [
       "anime"
     ],
-    "weight": 110,
-    "score": 1
+    "weight": 80,
+    "score": -1199
   },
   "k-days-of-blue": {
     "name": "K: Days of Blue",
@@ -55521,8 +55521,8 @@
       "anime",
       "manga"
     ],
-    "weight": 84,
-    "score": 1
+    "weight": 39,
+    "score": -1499
   },
   "kaguya-sama-love-is-war---stairway-to-adulthood": {
     "name": "Kaguya-sama: Love Is War - Stairway to Adulthood",
@@ -55537,32 +55537,32 @@
     "type": [
       "anime"
     ],
-    "weight": 672,
-    "score": 350
+    "weight": 642,
+    "score": -850
   },
   "kaguya-sama-love-is-war--the-first-kiss-that-never-ends-": {
     "name": "Kaguya-sama: Love is War -The First Kiss That Never Ends-",
     "type": [
       "anime"
     ],
-    "weight": 123,
-    "score": 1
+    "weight": 93,
+    "score": -1199
   },
   "kaguya-sama-love-is-war--ultra-romantic-": {
     "name": "Kaguya-sama: Love is War -Ultra Romantic-",
     "type": [
       "anime"
     ],
-    "weight": 87,
-    "score": 1
+    "weight": 57,
+    "score": -1199
   },
   "kaguya-sama-love-is-war-ova": {
     "name": "Kaguya-sama: Love is War OVA",
     "type": [
       "anime"
     ],
-    "weight": 143,
-    "score": 1
+    "weight": 138,
+    "score": -499
   },
   "kaguya-sama-wa-kokurasetai-doujin-ban": {
     "name": "Kaguya-sama wa Kokurasetai: Doujin-ban",
@@ -55955,8 +55955,8 @@
     "type": [
       "anime"
     ],
-    "weight": 104,
-    "score": 1
+    "weight": 74,
+    "score": -799
   },
   "kakegurui-compulsive-gambler": {
     "name": "Kakegurui: Compulsive Gambler",
@@ -55972,7 +55972,7 @@
       "anime"
     ],
     "weight": 901,
-    "score": 459
+    "score": 159
   },
   "kakegurui-twin": {
     "name": "Kakegurui Twin",
@@ -56311,7 +56311,7 @@
       "anime"
     ],
     "weight": 141,
-    "score": 1
+    "score": -299
   },
   "kamikaze-explorer": {
     "name": "Kamikaze ☆ Explorer!",
@@ -58158,8 +58158,8 @@
     "type": [
       "anime"
     ],
-    "weight": 103,
-    "score": 1
+    "weight": 73,
+    "score": -1199
   },
   "katanagatari-sword-tale": {
     "name": "Katanagatari: Sword Tale",
@@ -58705,7 +58705,7 @@
     "type": [
       "person"
     ],
-    "weight": 149,
+    "weight": 74,
     "score": 1
   },
   "kazuki-ura": {
@@ -60287,7 +60287,7 @@
     "type": [
       "person"
     ],
-    "weight": 87,
+    "weight": 43,
     "score": 1
   },
   "kentarou-yabuki": {
@@ -60745,16 +60745,16 @@
       "anime",
       "manga"
     ],
-    "weight": 86,
-    "score": 1
+    "weight": 56,
+    "score": -1199
   },
   "kill-la-kill-specials": {
     "name": "Kill la Kill Specials",
     "type": [
       "anime"
     ],
-    "weight": 392,
-    "score": 217
+    "weight": 377,
+    "score": -583
   },
   "kill-me-baby": {
     "name": "Kill Me Baby",
@@ -61459,8 +61459,8 @@
     "type": [
       "anime"
     ],
-    "weight": 722,
-    "score": 374
+    "weight": 707,
+    "score": -426
   },
   "kiniro-mosaic": {
     "name": "Kiniro Mosaic",
@@ -62383,24 +62383,24 @@
     "type": [
       "anime"
     ],
-    "weight": 116,
-    "score": 1
+    "weight": 86,
+    "score": -1199
   },
   "kizumonogatari-part-2-hot-blooded": {
     "name": "Kizumonogatari Part 2: Hot-Blooded",
     "type": [
       "anime"
     ],
-    "weight": 122,
-    "score": 1
+    "weight": 92,
+    "score": -1199
   },
   "kizumonogatari-part-3-cold-blooded": {
     "name": "Kizumonogatari Part 3: Cold-Blooded",
     "type": [
       "anime"
     ],
-    "weight": 106,
-    "score": 1
+    "weight": 76,
+    "score": -1199
   },
   "kizuna-aikawa": {
     "name": "Kizuna Aikawa",
@@ -62772,8 +62772,8 @@
     "type": [
       "manga"
     ],
-    "weight": 141,
-    "score": 1
+    "weight": 111,
+    "score": -1499
   },
   "koenma": {
     "name": "Koenma",
@@ -63465,16 +63465,16 @@
     "type": [
       "anime"
     ],
-    "weight": 117,
-    "score": 1
+    "weight": 112,
+    "score": -499
   },
   "komi-san-wa-comyushou-desu": {
     "name": "Komi-san wa Comyushou desu.",
     "type": [
       "manga"
     ],
-    "weight": 137,
-    "score": 1
+    "weight": 132,
+    "score": -499
   },
   "komichi-akebi": {
     "name": "Komichi Akebi",
@@ -63751,16 +63751,16 @@
       "manga",
       "light-novel"
     ],
-    "weight": 83,
-    "score": 1
+    "weight": 68,
+    "score": -799
   },
   "konosuba-gods-blessing-on-this-wonderful-world---gods-blessing-on-this-wonderful-choker": {
     "name": "KonoSuba: God's Blessing on This Wonderful World! - God's Blessing on This Wonderful Choker!",
     "type": [
       "anime"
     ],
-    "weight": 140,
-    "score": 1
+    "weight": 135,
+    "score": -499
   },
   "konosuba-gods-blessing-on-this-wonderful-world---legend-of-crimson": {
     "name": "KonoSuba: God's Blessing on This Wonderful World! - Legend of Crimson",
@@ -64129,7 +64129,7 @@
     "type": [
       "person"
     ],
-    "weight": 381,
+    "weight": 190,
     "score": 212
   },
   "kou-ichinomiya": {
@@ -64757,8 +64757,8 @@
       "anime",
       "manga"
     ],
-    "weight": 145,
-    "score": 1
+    "weight": 115,
+    "score": -1199
   },
   "koyoharu-gotouge": {
     "name": "Koyoharu Gotouge",
@@ -64773,7 +64773,7 @@
     "type": [
       "character"
     ],
-    "weight": 83,
+    "weight": 41,
     "score": 1
   },
   "koyomi-mizuhara": {
@@ -64789,8 +64789,8 @@
     "type": [
       "anime"
     ],
-    "weight": 342,
-    "score": 194
+    "weight": 312,
+    "score": -1506
   },
   "kozue-amano": {
     "name": "Kozue Amano",
@@ -66446,7 +66446,7 @@
     "type": [
       "character"
     ],
-    "weight": 66,
+    "weight": 33,
     "score": 1
   },
   "l-shindo": {
@@ -66711,7 +66711,7 @@
     "type": [
       "character"
     ],
-    "weight": 106,
+    "weight": 53,
     "score": 1
   },
   "laios-touden": {
@@ -67710,7 +67710,7 @@
     "type": [
       "character"
     ],
-    "weight": 64,
+    "weight": 32,
     "score": 1
   },
   "levi-kazama": {
@@ -67819,7 +67819,7 @@
       "visual-novel"
     ],
     "weight": 143,
-    "score": 1
+    "score": -299
   },
   "liar-liar-2": {
     "name": "Liar Liar 2",
@@ -67980,7 +67980,7 @@
     "type": [
       "character"
     ],
-    "weight": 71,
+    "weight": 35,
     "score": 1
   },
   "lightning-warrior-raidy": {
@@ -70911,16 +70911,16 @@
       "anime",
       "manga"
     ],
-    "weight": 82,
-    "score": 1
+    "weight": 67,
+    "score": -799
   },
   "made-in-abyss-dawn-of-the-deep-soul": {
     "name": "Made in Abyss: Dawn of the Deep Soul",
     "type": [
       "anime"
     ],
-    "weight": 116,
-    "score": 1
+    "weight": 111,
+    "score": -499
   },
   "made-in-abyss-journeys-dawn": {
     "name": "Made in Abyss: Journey's Dawn",
@@ -71775,8 +71775,8 @@
     "type": [
       "light-novel"
     ],
-    "weight": 1094,
-    "score": 550
+    "weight": 1064,
+    "score": -950
   },
   "mahou-shoujo-ni-akogarete-2nd-season": {
     "name": "Mahou Shoujo ni Akogarete 2nd Season",
@@ -72599,7 +72599,7 @@
       "anime"
     ],
     "weight": 526,
-    "score": 281
+    "score": -19
   },
   "making-lovers": {
     "name": "Making * Lovers",
@@ -76767,8 +76767,8 @@
     "type": [
       "manga"
     ],
-    "weight": 133,
-    "score": 1
+    "weight": 118,
+    "score": -799
   },
   "meteor-world-actor": {
     "name": "Meteor World Actor",
@@ -77227,8 +77227,8 @@
       "anime",
       "manga"
     ],
-    "weight": 120,
-    "score": 1
+    "weight": 30,
+    "score": -1199
   },
   "mietemasu-yo-aizawa-san": {
     "name": "Mietemasu yo! Aizawa-san",
@@ -78600,7 +78600,7 @@
       "light-novel"
     ],
     "weight": 919,
-    "score": 467
+    "score": 167
   },
   "mirai-nikki-mosaic": {
     "name": "Mirai Nikki: Mosaic",
@@ -78624,7 +78624,7 @@
       "manga"
     ],
     "weight": 1025,
-    "score": 517
+    "score": 217
   },
   "mirai-no-kimi-to-subete-no-uta-ni": {
     "name": "Mirai no Kimi to, Subete no Uta ni",
@@ -78895,7 +78895,7 @@
     "type": [
       "character"
     ],
-    "weight": 88,
+    "weight": 44,
     "score": 1
   },
   "misato-tachibana": {
@@ -80794,8 +80794,8 @@
     "type": [
       "anime"
     ],
-    "weight": 136,
-    "score": 1
+    "weight": 106,
+    "score": -2399
   },
   "monogatari-series-off-season": {
     "name": "Monogatari Series: Off Season",
@@ -80811,8 +80811,8 @@
       "anime",
       "light-novel"
     ],
-    "weight": 91,
-    "score": 1
+    "weight": 61,
+    "score": -1199
   },
   "monokuma": {
     "name": "Monokuma",
@@ -80869,8 +80869,8 @@
       "anime",
       "manga"
     ],
-    "weight": 79,
-    "score": 1
+    "weight": 49,
+    "score": -1199
   },
   "monster-girl-doctor": {
     "name": "Monster Girl Doctor",
@@ -81040,8 +81040,8 @@
       "anime",
       "manga"
     ],
-    "weight": 115,
-    "score": 1
+    "weight": 100,
+    "score": -799
   },
   "morel-mccarnathy": {
     "name": "Morel McCarnathy",
@@ -81556,8 +81556,8 @@
     "type": [
       "manga"
     ],
-    "weight": 1130,
-    "score": 567
+    "weight": 1125,
+    "score": 167
   },
   "ms-pictures": {
     "name": "MS Pictures",
@@ -82536,8 +82536,8 @@
       "anime",
       "manga"
     ],
-    "weight": 93,
-    "score": 1
+    "weight": 63,
+    "score": -1199
   },
   "my-dress-up-darling-season-2": {
     "name": "My Dress-Up Darling Season 2",
@@ -82585,7 +82585,7 @@
       "anime"
     ],
     "weight": 705,
-    "score": 366
+    "score": 66
   },
   "my-first-story": {
     "name": "MY FIRST STORY",
@@ -83044,7 +83044,7 @@
       "manga"
     ],
     "weight": 147,
-    "score": 1
+    "score": -399
   },
   "my-life-as-inukai-sans-dog-ova": {
     "name": "My Life as Inukai-san’s Dog. OVA",
@@ -83118,8 +83118,8 @@
       "anime",
       "manga"
     ],
-    "weight": 114,
-    "score": 1
+    "weight": 84,
+    "score": -1199
   },
   "my-lovely-ghost-kana": {
     "name": "My Lovely Ghost Kana",
@@ -83623,8 +83623,8 @@
       "anime",
       "manga"
     ],
-    "weight": 429,
-    "score": 235
+    "weight": 384,
+    "score": -965
   },
   "mysterious-girlfriend-x": {
     "name": "Mysterious Girlfriend X",
@@ -84540,7 +84540,7 @@
     "type": [
       "character"
     ],
-    "weight": 439,
+    "weight": 219,
     "score": 239
   },
   "nanashi-kaidan": {
@@ -84549,7 +84549,7 @@
       "anime"
     ],
     "weight": 956,
-    "score": 484
+    "score": 184
   },
   "nanatsu-irodrops": {
     "name": "Nanatsu-iro★Drops",
@@ -85062,8 +85062,8 @@
       "anime",
       "manga"
     ],
-    "weight": 75,
-    "score": 1
+    "weight": 45,
+    "score": -1199
   },
   "naruto-finally-a-clash-jounin-vs-genin": {
     "name": "Naruto: Finally a Clash!! Jounin vs. Genin!",
@@ -85134,8 +85134,8 @@
     "type": [
       "anime"
     ],
-    "weight": 71,
-    "score": 1
+    "weight": 41,
+    "score": -1199
   },
   "naruto-shippuden-konoha-gakuen---special": {
     "name": "Naruto Shippuden: Konoha Gakuen - Special",
@@ -85994,8 +85994,8 @@
     "type": [
       "anime"
     ],
-    "weight": 825,
-    "score": 422
+    "weight": 795,
+    "score": -778
   },
   "needy-streamer-overload": {
     "name": "NEEDY STREAMER OVERLOAD",
@@ -86348,8 +86348,8 @@
     "type": [
       "anime"
     ],
-    "weight": 132,
-    "score": 1
+    "weight": 102,
+    "score": -1199
   },
   "nekopara": {
     "name": "Nekopara",
@@ -86581,8 +86581,8 @@
       "anime",
       "manga"
     ],
-    "weight": 71,
-    "score": 71
+    "weight": 30,
+    "score": -1429
   },
   "neon-genesis-evangelion-angelic-days": {
     "name": "Neon Genesis Evangelion: Angelic Days",
@@ -86613,8 +86613,8 @@
     "type": [
       "anime"
     ],
-    "weight": 139,
-    "score": 0
+    "weight": 109,
+    "score": -1200
   },
   "neon-genesis-evangelion-new-series": {
     "name": "Neon Genesis Evangelion (New Series)",
@@ -86629,8 +86629,8 @@
     "type": [
       "anime"
     ],
-    "weight": 88,
-    "score": 150
+    "weight": 58,
+    "score": -1050
   },
   "neon-genesis-evangelion-the-shinji-ikari-raising-project": {
     "name": "Neon Genesis Evangelion: The Shinji Ikari Raising Project",
@@ -86718,7 +86718,7 @@
       "character"
     ],
     "weight": 146,
-    "score": 1
+    "score": -299
   },
   "nero-vanetti": {
     "name": "Nero Vanetti",
@@ -87007,7 +87007,7 @@
     "type": [
       "manga"
     ],
-    "weight": 126,
+    "weight": 63,
     "score": 1
   },
   "nichijou---my-ordinary-life": {
@@ -87755,15 +87755,15 @@
       "anime"
     ],
     "weight": 859,
-    "score": 438
+    "score": 138
   },
   "nisemonogatari": {
     "name": "Nisemonogatari",
     "type": [
       "anime"
     ],
-    "weight": 116,
-    "score": 1
+    "weight": 86,
+    "score": -1499
   },
   "nishikata": {
     "name": "Nishikata",
@@ -87869,8 +87869,8 @@
       "manga",
       "light-novel"
     ],
-    "weight": 83,
-    "score": 1
+    "weight": 68,
+    "score": -799
   },
   "no-game-no-life-please": {
     "name": "No Game No Life, Please!",
@@ -90532,16 +90532,16 @@
     "type": [
       "anime"
     ],
-    "weight": 261,
-    "score": 155
+    "weight": 256,
+    "score": -345
   },
   "one-piece-film-strong-world-episode-0": {
     "name": "One Piece Film: Strong World Episode 0",
     "type": [
       "anime"
     ],
-    "weight": 851,
-    "score": 435
+    "weight": 821,
+    "score": -765
   },
   "one-piece-film-z": {
     "name": "One Piece Film: Z",
@@ -90928,8 +90928,8 @@
       "anime",
       "manga"
     ],
-    "weight": 85,
-    "score": 0
+    "weight": 55,
+    "score": -1200
   },
   "online": {
     "name": "Online",
@@ -91772,24 +91772,24 @@
       "anime",
       "manga"
     ],
-    "weight": 55,
-    "score": 55
+    "weight": 30,
+    "score": -1145
   },
   "oshi-no-ko-season-2": {
     "name": "[Oshi No Ko] Season 2",
     "type": [
       "anime"
     ],
-    "weight": 60,
-    "score": 0
+    "weight": 30,
+    "score": -1200
   },
   "oshi-no-ko-season-3": {
     "name": "[Oshi No Ko] Season 3",
     "type": [
       "anime"
     ],
-    "weight": 67,
-    "score": 0
+    "weight": 37,
+    "score": -1200
   },
   "oshi-no-ko-season-4": {
     "name": "[Oshi No Ko] Season 4",
@@ -91885,7 +91885,7 @@
       "otaku-history"
     ],
     "weight": 75,
-    "score": 75
+    "score": 0
   },
   "otaku-no-musume-san": {
     "name": "Otaku no Musume-san",
@@ -92491,7 +92491,7 @@
       "anime"
     ],
     "weight": 130,
-    "score": 1
+    "score": -299
   },
   "overgeared": {
     "name": "Overgeared",
@@ -92596,16 +92596,16 @@
     "type": [
       "anime"
     ],
-    "weight": 120,
-    "score": 1
+    "weight": 90,
+    "score": -1499
   },
   "owarimonogatari-second-season": {
     "name": "Owarimonogatari Second Season",
     "type": [
       "anime"
     ],
-    "weight": 104,
-    "score": 1
+    "weight": 74,
+    "score": -1199
   },
   "owarimonogatari-second-season-recaps": {
     "name": "Owarimonogatari Second Season Recaps",
@@ -92960,8 +92960,8 @@
       "anime",
       "character"
     ],
-    "weight": 112,
-    "score": 1
+    "weight": 97,
+    "score": -799
   },
   "paradise-heights": {
     "name": "Paradise Heights",
@@ -93492,8 +93492,8 @@
     "type": [
       "anime"
     ],
-    "weight": 93,
-    "score": 1
+    "weight": 63,
+    "score": -1199
   },
   "perfect-gold-the-alchemy-of-happiness": {
     "name": "Perfect Gold: The Alchemy of Happiness",
@@ -93817,8 +93817,8 @@
     "type": [
       "anime"
     ],
-    "weight": 115,
-    "score": 1
+    "weight": 85,
+    "score": -1199
   },
   "phantom-seeds": {
     "name": "Phantom Seeds",
@@ -94384,7 +94384,7 @@
       "manga"
     ],
     "weight": 126,
-    "score": 1
+    "score": -299
   },
   "play-it-cool-guys": {
     "name": "Play It Cool, Guys",
@@ -94457,8 +94457,8 @@
       "anime",
       "manga"
     ],
-    "weight": 140,
-    "score": 1
+    "weight": 135,
+    "score": -499
   },
   "please-rpe-me": {
     "name": "Please R❤pe Me!",
@@ -94557,8 +94557,8 @@
     "type": [
       "anime"
     ],
-    "weight": 118,
-    "score": 1
+    "weight": 88,
+    "score": -1199
   },
   "pluto-urasawa-x-tezuka": {
     "name": "Pluto: Urasawa x Tezuka",
@@ -96032,7 +96032,7 @@
     "type": [
       "anime"
     ],
-    "weight": 80,
+    "weight": 40,
     "score": 1
   },
   "puella-magi-madoka-magica-concept-movie": {
@@ -96064,24 +96064,24 @@
     "type": [
       "anime"
     ],
-    "weight": 135,
-    "score": 1
+    "weight": 120,
+    "score": -799
   },
   "puella-magi-madoka-magica-the-movie-part-2-eternal": {
     "name": "Puella Magi Madoka Magica the Movie Part 2: Eternal",
     "type": [
       "anime"
     ],
-    "weight": 133,
-    "score": 1
+    "weight": 118,
+    "score": -799
   },
   "puella-magi-madoka-magica-the-movie-rebellion": {
     "name": "Puella Magi Madoka Magica the Movie: Rebellion",
     "type": [
       "anime"
     ],
-    "weight": 104,
-    "score": 1
+    "weight": 89,
+    "score": -1299
   },
   "puella-magi-madoka-magica-wraith-arc": {
     "name": "Puella Magi Madoka Magica: Wraith Arc",
@@ -96196,7 +96196,7 @@
       "manga"
     ],
     "weight": 652,
-    "score": 340
+    "score": 40
   },
   "puparia": {
     "name": "Puparia",
@@ -97177,7 +97177,7 @@
       "visual-novel"
     ],
     "weight": 122,
-    "score": 122
+    "score": 0
   },
   "rance-41-okusuri-koujou-o-sukue": {
     "name": "Rance 4.1 ~Okusuri Koujou o Sukue!~",
@@ -97498,24 +97498,24 @@
     "type": [
       "anime"
     ],
-    "weight": 102,
-    "score": 0
+    "weight": 72,
+    "score": -1200
   },
   "rascal-does-not-dream-of-a-knapsack-kid": {
     "name": "Rascal Does Not Dream of a Knapsack Kid",
     "type": [
       "anime"
     ],
-    "weight": 140,
-    "score": 0
+    "weight": 110,
+    "score": -1200
   },
   "rascal-does-not-dream-of-a-sister-venturing-out": {
     "name": "Rascal Does Not Dream of a Sister Venturing Out",
     "type": [
       "anime"
     ],
-    "weight": 140,
-    "score": 0
+    "weight": 110,
+    "score": -1200
   },
   "rascal-does-not-dream-of-bunny-girl-senpai": {
     "name": "Rascal Does Not Dream of Bunny Girl Senpai",
@@ -97523,8 +97523,8 @@
       "anime",
       "manga"
     ],
-    "weight": 82,
-    "score": 0
+    "weight": 52,
+    "score": -1200
   },
   "rascal-does-not-dream-of-santa-claus": {
     "name": "Rascal Does Not Dream of Santa Claus",
@@ -98036,7 +98036,7 @@
       "anime"
     ],
     "weight": 111,
-    "score": 1
+    "score": -299
   },
   "record-of-ragnarok-ii": {
     "name": "Record of Ragnarok II",
@@ -98239,8 +98239,8 @@
     "type": [
       "character"
     ],
-    "weight": 86,
-    "score": 1
+    "weight": 43,
+    "score": -299
   },
   "rei-ayanami-tentative": {
     "name": "Rei Ayanami (tentative)",
@@ -99615,8 +99615,8 @@
       "light-novel",
       "anime"
     ],
-    "weight": 71,
-    "score": 1
+    "weight": 41,
+    "score": -1499
   },
   "rezero--starting-life-in-another-world--chapter-1-a-day-in-the-capital": {
     "name": "Re:ZERO -Starting Life in Another World- Chapter 1: A Day in the Capital",
@@ -99663,8 +99663,8 @@
     "type": [
       "anime"
     ],
-    "weight": 141,
-    "score": 1
+    "weight": 136,
+    "score": -499
   },
   "rezero--starting-life-in-another-world--memory-snow-manner-movie": {
     "name": "Re:ZERO -Starting Life in Another World- Memory Snow: Manner Movie",
@@ -99679,24 +99679,24 @@
     "type": [
       "anime"
     ],
-    "weight": 101,
-    "score": 1
+    "weight": 71,
+    "score": -1199
   },
   "rezero--starting-life-in-another-world--season-2-part-2": {
     "name": "Re:ZERO -Starting Life in Another World- Season 2 Part 2",
     "type": [
       "anime"
     ],
-    "weight": 100,
-    "score": 1
+    "weight": 70,
+    "score": -1199
   },
   "rezero--starting-life-in-another-world--season-3": {
     "name": "Re:ZERO -Starting Life in Another World- Season 3",
     "type": [
       "anime"
     ],
-    "weight": 109,
-    "score": 1
+    "weight": 94,
+    "score": -799
   },
   "rezero--starting-life-in-another-world--season-4": {
     "name": "Re:ZERO -Starting Life in Another World- Season 4",
@@ -99711,16 +99711,16 @@
     "type": [
       "anime"
     ],
-    "weight": 140,
-    "score": 1
+    "weight": 135,
+    "score": -499
   },
   "rezero--starting-life-in-another-world--the-frozen-bond-manner-movie": {
     "name": "Re:ZERO -Starting Life in Another World- The Frozen Bond: Manner Movie",
     "type": [
       "anime"
     ],
-    "weight": 671,
-    "score": 349
+    "weight": 666,
+    "score": -151
   },
   "rezero-petit": {
     "name": "Re:ZERO PETIT",
@@ -99975,7 +99975,7 @@
     "type": [
       "person"
     ],
-    "weight": 71,
+    "weight": 35,
     "score": 1
   },
   "rie-tanaka": {
@@ -102511,8 +102511,8 @@
     "type": [
       "manga"
     ],
-    "weight": 1073,
-    "score": 540
+    "weight": 1058,
+    "score": -60
   },
   "ruri-gokou": {
     "name": "Ruri Gokou",
@@ -108686,8 +108686,8 @@
     "type": [
       "anime"
     ],
-    "weight": 50,
-    "score": 1
+    "weight": 30,
+    "score": -1199
   },
   "serial-experiments-lain-the-nightmare-of-fabrication": {
     "name": "Serial Experiments Lain: The Nightmare of Fabrication",
@@ -109130,16 +109130,16 @@
       "anime",
       "manga"
     ],
-    "weight": 124,
-    "score": 1
+    "weight": 119,
+    "score": -499
   },
   "shadows-house-2nd-season": {
     "name": "Shadows House 2nd Season",
     "type": [
       "anime"
     ],
-    "weight": 139,
-    "score": 1
+    "weight": 134,
+    "score": -499
   },
   "shaft": {
     "name": "Shaft",
@@ -110011,8 +110011,8 @@
       "manga",
       "character"
     ],
-    "weight": 106,
-    "score": 1
+    "weight": 101,
+    "score": -499
   },
   "shiki-aoki": {
     "name": "Shiki Aoki",
@@ -110612,7 +110612,7 @@
     "type": [
       "character"
     ],
-    "weight": 80,
+    "weight": 40,
     "score": 1
   },
   "shinji-kimura": {
@@ -114046,8 +114046,8 @@
     "type": [
       "manga"
     ],
-    "weight": 128,
-    "score": 1
+    "weight": 113,
+    "score": -799
   },
   "snake": {
     "name": "Snake",
@@ -114307,8 +114307,8 @@
       "anime",
       "light-novel"
     ],
-    "weight": 78,
-    "score": 1
+    "weight": 63,
+    "score": -799
   },
   "solo-leveling-how-to-get-stronger": {
     "name": "Solo Leveling: How to Get Stronger",
@@ -114339,8 +114339,8 @@
     "type": [
       "anime"
     ],
-    "weight": 102,
-    "score": 1
+    "weight": 72,
+    "score": -1199
   },
   "soloist-in-a-cage": {
     "name": "Soloist in a Cage",
@@ -114500,8 +114500,8 @@
     "type": [
       "anime"
     ],
-    "weight": 142,
-    "score": 1
+    "weight": 112,
+    "score": -1199
   },
   "sonicomi-communication-with-sonico": {
     "name": "Sonicomi: Communication with Sonico",
@@ -114692,7 +114692,7 @@
     "type": [
       "person"
     ],
-    "weight": 89,
+    "weight": 44,
     "score": 1
   },
   "sora-kasugano": {
@@ -115923,8 +115923,8 @@
       "anime",
       "manga"
     ],
-    "weight": 85,
-    "score": 1
+    "weight": 80,
+    "score": -499
   },
   "spy-x-family-code-white": {
     "name": "Spy x Family Code: White",
@@ -115948,7 +115948,7 @@
       "anime"
     ],
     "weight": 108,
-    "score": 1
+    "score": -299
   },
   "spy-x-family-season-2": {
     "name": "Spy x Family Season 2",
@@ -116326,8 +116326,8 @@
       "light-novel",
       "visual-novel"
     ],
-    "weight": 62,
-    "score": 1
+    "weight": 32,
+    "score": -1199
   },
   "steinsgate-0": {
     "name": "Steins;Gate 0",
@@ -116335,16 +116335,16 @@
       "anime",
       "manga"
     ],
-    "weight": 100,
-    "score": 1
+    "weight": 70,
+    "score": -1199
   },
   "steinsgate-0-valentines-of-crystal-polymorphism--bittersweet-intermedio-": {
     "name": "Steins;Gate 0: Valentine's of Crystal Polymorphism -Bittersweet Intermedio-",
     "type": [
       "anime"
     ],
-    "weight": 507,
-    "score": 272
+    "weight": 477,
+    "score": -928
   },
   "steinsgate-aishin-meizu-no-babel": {
     "name": "Steins;Gate: Aishin Meizu no Babel",
@@ -116359,8 +116359,8 @@
     "type": [
       "anime"
     ],
-    "weight": 136,
-    "score": 1
+    "weight": 121,
+    "score": -799
   },
   "steinsgate-heni-kuukan-no-octet": {
     "name": "STEINS;GATE: Hen'i Kuukan no Octet",
@@ -116399,16 +116399,16 @@
     "type": [
       "anime"
     ],
-    "weight": 258,
-    "score": 154
+    "weight": 228,
+    "score": -1046
   },
   "steinsgate-the-movie---load-region-of-dj-vu": {
     "name": "Steins;Gate: The Movie - Load Region of Déjà Vu",
     "type": [
       "anime"
     ],
-    "weight": 120,
-    "score": 1
+    "weight": 90,
+    "score": -1199
   },
   "steinsgate-the-sagacious-wisdom-of-cognitive-computing": {
     "name": "Steins;Gate: The Sagacious Wisdom of Cognitive Computing",
@@ -117633,7 +117633,7 @@
     "type": [
       "person"
     ],
-    "weight": 88,
+    "weight": 44,
     "score": 1
   },
   "sumire16-sai": {
@@ -117722,8 +117722,8 @@
     "type": [
       "anime"
     ],
-    "weight": 102,
-    "score": 1
+    "weight": 72,
+    "score": -1199
   },
   "summer-wars": {
     "name": "Summer Wars",
@@ -117876,7 +117876,7 @@
       "manga"
     ],
     "weight": 141,
-    "score": 1
+    "score": -299
   },
   "sunrider-academy": {
     "name": "Sunrider Academy",
@@ -118205,7 +118205,7 @@
     "type": [
       "person"
     ],
-    "weight": 121,
+    "weight": 60,
     "score": 1
   },
   "susumu-nakoshi": {
@@ -118382,8 +118382,8 @@
     "type": [
       "anime"
     ],
-    "weight": 112,
-    "score": 1
+    "weight": 97,
+    "score": -799
   },
   "suzume-iwato": {
     "name": "Suzume Iwato",
@@ -118406,8 +118406,8 @@
     "type": [
       "manga"
     ],
-    "weight": 738,
-    "score": 381
+    "weight": 708,
+    "score": -819
   },
   "suzumiya-haruhi-series": {
     "name": "Suzumiya Haruhi Series",
@@ -118722,7 +118722,7 @@
       "light-novel"
     ],
     "weight": 79,
-    "score": 1
+    "score": -299
   },
   "sword-art-online-aincrad": {
     "name": "Sword Art Online: Aincrad",
@@ -118786,8 +118786,8 @@
       "anime",
       "light-novel"
     ],
-    "weight": 130,
-    "score": 1
+    "weight": 125,
+    "score": -499
   },
   "sword-art-online-alternative-gun-gale-online---refrain": {
     "name": "Sword Art Online Alternative: Gun Gale Online - Refrain",
@@ -118842,8 +118842,8 @@
     "type": [
       "anime"
     ],
-    "weight": 107,
-    "score": 1
+    "weight": 102,
+    "score": -499
   },
   "sword-art-online-ii-debriefing": {
     "name": "Sword Art Online II: Debriefing",
@@ -121062,8 +121062,8 @@
       "anime",
       "visual-novel"
     ],
-    "weight": 676,
-    "score": 352
+    "weight": 661,
+    "score": -448
   },
   "taste-of-illness": {
     "name": "Taste of Illness",
@@ -121190,7 +121190,7 @@
     "type": [
       "person"
     ],
-    "weight": 90,
+    "weight": 45,
     "score": 1
   },
   "tatsuki-fujimoto-17-26": {
@@ -122839,8 +122839,8 @@
       "manga",
       "light-novel"
     ],
-    "weight": 90,
-    "score": 1
+    "weight": 60,
+    "score": -1499
   },
   "the-apothecary-diaries-movie": {
     "name": "The Apothecary Diaries Movie",
@@ -123125,7 +123125,7 @@
       "manga"
     ],
     "weight": 141,
-    "score": 1
+    "score": -299
   },
   "the-caf-terrace-and-its-goddesses-season-2": {
     "name": "The Café Terrace and Its Goddesses Season 2",
@@ -123573,8 +123573,8 @@
       "manga",
       "light-novel"
     ],
-    "weight": 122,
-    "score": 1
+    "weight": 117,
+    "score": -499
   },
   "the-detective-is-already-dead-season-2": {
     "name": "The Detective Is Already Dead Season 2",
@@ -123640,8 +123640,8 @@
     "type": [
       "anime"
     ],
-    "weight": 99,
-    "score": 1
+    "weight": 69,
+    "score": -1199
   },
   "the-disappearance-of-nagato-yuki-chan": {
     "name": "The Disappearance of Nagato Yuki-chan",
@@ -124231,8 +124231,8 @@
     "type": [
       "anime"
     ],
-    "weight": 90,
-    "score": 1
+    "weight": 75,
+    "score": -799
   },
   "the-future-diary-ova": {
     "name": "The Future Diary OVA",
@@ -125323,8 +125323,8 @@
     "type": [
       "light-novel"
     ],
-    "weight": 1163,
-    "score": 582
+    "weight": 1158,
+    "score": 82
   },
   "the-last-summoner": {
     "name": "The Last Summoner",
@@ -125675,7 +125675,7 @@
       "manga"
     ],
     "weight": 146,
-    "score": 1
+    "score": -299
   },
   "the-maiden-rape-assault---violent-semen-inferno": {
     "name": "The Maiden Rape Assault - Violent Semen Inferno",
@@ -125820,8 +125820,8 @@
     "type": [
       "anime"
     ],
-    "weight": 124,
-    "score": 1
+    "weight": 94,
+    "score": -1199
   },
   "the-melancholy-of-suzumiya-haruhi-chan-the-untold-adventures-of-the-sos-brigade": {
     "name": "The Melancholy of Suzumiya Haruhi-chan: The Untold Adventures of the SOS Brigade",
@@ -126234,8 +126234,8 @@
     "type": [
       "anime"
     ],
-    "weight": 140,
-    "score": 1
+    "weight": 110,
+    "score": -1199
   },
   "the-perks-of-being-a-villainess": {
     "name": "The Perks of Being a Villainess",
@@ -126428,8 +126428,8 @@
       "anime",
       "manga"
     ],
-    "weight": 88,
-    "score": 1
+    "weight": 58,
+    "score": -1199
   },
   "the-promised-neverland-guidepost": {
     "name": "The Promised Neverland: Guidepost",
@@ -127041,8 +127041,8 @@
       "anime",
       "manga"
     ],
-    "weight": 328,
-    "score": 187
+    "weight": 308,
+    "score": -613
   },
   "the-shy-hero-and-the-assassin-princesses": {
     "name": "The Shy Hero and the Assassin Princesses",
@@ -127390,8 +127390,8 @@
     "type": [
       "anime"
     ],
-    "weight": 95,
-    "score": 1
+    "weight": 65,
+    "score": -1999
   },
   "the-tatami-time-machine-blues": {
     "name": "The Tatami Time Machine Blues",
@@ -128063,8 +128063,8 @@
     "type": [
       "anime"
     ],
-    "weight": 378,
-    "score": 211
+    "weight": 373,
+    "score": -289
   },
   "theo-cornaro": {
     "name": "Theo Cornaro",
@@ -129612,7 +129612,7 @@
       "visual-novel"
     ],
     "weight": 131,
-    "score": 131
+    "score": 0
   },
   "tokyo-ravens": {
     "name": "Tokyo Ravens",
@@ -129775,8 +129775,8 @@
       "anime",
       "manga"
     ],
-    "weight": 120,
-    "score": 1
+    "weight": 115,
+    "score": -499
   },
   "tomo-kunagisa": {
     "name": "Tomo Kunagisa",
@@ -130531,8 +130531,8 @@
       "manga",
       "light-novel"
     ],
-    "weight": 81,
-    "score": 1
+    "weight": 51,
+    "score": -1199
   },
   "toradora-portable": {
     "name": "Toradora! Portable",
@@ -130556,7 +130556,7 @@
       "anime"
     ],
     "weight": 777,
-    "score": 400
+    "score": 100
   },
   "toradora-special": {
     "name": "Toradora! Special",
@@ -130564,7 +130564,7 @@
       "anime"
     ],
     "weight": 581,
-    "score": 307
+    "score": 7
   },
   "torako-koshi": {
     "name": "Torako Koshi",
@@ -131921,7 +131921,7 @@
     "type": [
       "character"
     ],
-    "weight": 85,
+    "weight": 42,
     "score": 1
   },
   "tsubasa-kazanari": {
@@ -132445,8 +132445,8 @@
     "type": [
       "anime"
     ],
-    "weight": 136,
-    "score": 1
+    "weight": 106,
+    "score": -1199
   },
   "tsukipro-the-animation": {
     "name": "Tsukipro The Animation",
@@ -133786,8 +133786,8 @@
     "type": [
       "anime"
     ],
-    "weight": 137,
-    "score": 1
+    "weight": 122,
+    "score": -799
   },
   "undead-unluck": {
     "name": "Undead Unluck",
@@ -134202,8 +134202,8 @@
     "type": [
       "anime"
     ],
-    "weight": 132,
-    "score": 1
+    "weight": 117,
+    "score": -1099
   },
   "urusei-yatsura-2022-2nd-season": {
     "name": "Urusei Yatsura (2022) 2nd Season",
@@ -134621,16 +134621,16 @@
       "anime",
       "manga"
     ],
-    "weight": 129,
-    "score": 1
+    "weight": 124,
+    "score": -499
   },
   "uzaki-chan-wants-to-hang-out-season-2": {
     "name": "Uzaki-chan Wants to Hang Out! Season 2",
     "type": [
       "anime"
     ],
-    "weight": 137,
-    "score": 1
+    "weight": 132,
+    "score": -499
   },
   "uzamaid": {
     "name": "UzaMaid!",
@@ -134662,8 +134662,8 @@
       "manga",
       "anime"
     ],
-    "weight": 95,
-    "score": 1
+    "weight": 85,
+    "score": -999
   },
   "v6": {
     "name": "V6",
@@ -135203,7 +135203,7 @@
       "anime"
     ],
     "weight": 127,
-    "score": 1
+    "score": -299
   },
   "vermeil-in-gold-the-failing-student-and-the-strongest-scourge-plunge-into-the-world-of-magic": {
     "name": "Vermeil in Gold: The Failing Student and the Strongest Scourge Plunge Into the World of Magic",
@@ -136706,8 +136706,8 @@
       "anime",
       "manga"
     ],
-    "weight": 100,
-    "score": 1
+    "weight": 85,
+    "score": -1099
   },
   "webtoon-character-na-kang-lim": {
     "name": "Webtoon Character Na Kang Lim",
@@ -136871,8 +136871,8 @@
       "manga",
       "light-novel"
     ],
-    "weight": 84,
-    "score": 83
+    "weight": 30,
+    "score": -1117
   },
   "welcome-to-the-outcasts-restaurant": {
     "name": "Welcome to the Outcast's Restaurant!",
@@ -137205,8 +137205,8 @@
       "anime",
       "manga"
     ],
-    "weight": 128,
-    "score": 1
+    "weight": 123,
+    "score": -499
   },
   "why-the-hell-are-you-here-teacher": {
     "name": "Why the Hell are You Here, Teacher!?",
@@ -137886,8 +137886,8 @@
     "type": [
       "anime"
     ],
-    "weight": 106,
-    "score": 1
+    "weight": 91,
+    "score": -799
   },
   "wonder-egg-priority-my-priority": {
     "name": "Wonder Egg Priority: My Priority",
@@ -137895,7 +137895,7 @@
       "anime"
     ],
     "weight": 397,
-    "score": 220
+    "score": -80
   },
   "wonder-festival-history": {
     "name": "Wonder Festival History",
@@ -138955,7 +138955,7 @@
       "anime"
     ],
     "weight": 696,
-    "score": 361
+    "score": 61
   },
   "yandere-kanojo": {
     "name": "Yandere Kanojo",
@@ -140999,8 +140999,8 @@
       "manga",
       "light-novel"
     ],
-    "weight": 73,
-    "score": 1
+    "weight": 43,
+    "score": -1199
   },
   "your-name-another-side-earthbound": {
     "name": "Your Name. Another Side: Earthbound",
@@ -141275,16 +141275,16 @@
       "anime",
       "manga"
     ],
-    "weight": 114,
-    "score": 1
+    "weight": 84,
+    "score": -1199
   },
   "yu-gi-oh-3d-bonds-beyond-time": {
     "name": "Yu-Gi-Oh! 3D: Bonds Beyond Time",
     "type": [
       "anime"
     ],
-    "weight": 737,
-    "score": 380
+    "weight": 722,
+    "score": -420
   },
   "yu-gi-oh-5ds": {
     "name": "Yu-Gi-Oh! 5D's",
@@ -141292,8 +141292,8 @@
       "anime",
       "manga"
     ],
-    "weight": 129,
-    "score": 1
+    "weight": 99,
+    "score": -1199
   },
   "yu-gi-oh-arc-v": {
     "name": "Yu-Gi-Oh! Arc-V",
@@ -141318,8 +141318,8 @@
       "anime",
       "manga"
     ],
-    "weight": 129,
-    "score": 1
+    "weight": 99,
+    "score": -1199
   },
   "yu-gi-oh-r": {
     "name": "Yu-Gi-Oh! R",
@@ -141342,8 +141342,8 @@
     "type": [
       "anime"
     ],
-    "weight": 857,
-    "score": 438
+    "weight": 852,
+    "score": -62
   },
   "yu-gi-oh-vrains": {
     "name": "Yu-Gi-Oh! VRAINS",
@@ -141392,15 +141392,15 @@
       "manga"
     ],
     "weight": 120,
-    "score": 1
+    "score": -299
   },
   "yu-yu-hakusho-ghost-files": {
     "name": "Yu Yu Hakusho: Ghost Files",
     "type": [
       "anime"
     ],
-    "weight": 92,
-    "score": 1
+    "weight": 62,
+    "score": -1699
   },
   "yu-yu-hakusho-the-movie": {
     "name": "Yu Yu Hakusho: The Movie",
@@ -141408,7 +141408,7 @@
       "anime"
     ],
     "weight": 791,
-    "score": 406
+    "score": -194
   },
   "yubisaki-connection-love-at-your-fingertips": {
     "name": "Yubisaki Connection ~ Love At Your Fingertips",
@@ -141464,8 +141464,8 @@
       "anime",
       "light-novel"
     ],
-    "weight": 132,
-    "score": 1
+    "weight": 117,
+    "score": -799
   },
   "yugioh-movie": {
     "name": "Yu☆Gi☆Oh! (Movie)",
@@ -141473,15 +141473,15 @@
       "anime"
     ],
     "weight": 704,
-    "score": 365
+    "score": 65
   },
   "yugioh-the-dark-side-of-dimensions": {
     "name": "Yu☆Gi☆Oh! The Dark Side of Dimensions",
     "type": [
       "anime"
     ],
-    "weight": 366,
-    "score": 205
+    "weight": 336,
+    "score": -995
   },
   "yui": {
     "name": "YUI",
@@ -143767,7 +143767,7 @@
     "type": [
       "character"
     ],
-    "weight": 359,
+    "weight": 179,
     "score": 202
   },
   "yuusei-matsui": {
@@ -144481,8 +144481,8 @@
     "type": [
       "anime"
     ],
-    "weight": 137,
-    "score": 1
+    "weight": 122,
+    "score": -799
   },
   "zeref": {
     "name": "Zeref",
@@ -144723,8 +144723,8 @@
     "type": [
       "anime"
     ],
-    "weight": 134,
-    "score": 1
+    "weight": 104,
+    "score": -1199
   },
   "zoku-satsuriku-no-django--jigoku-no-shoukinkubi-": {
     "name": "Zoku Satsuriku no Django -Jigoku no Shoukinkubi-",
@@ -144748,8 +144748,8 @@
       "anime",
       "manga"
     ],
-    "weight": 116,
-    "score": 1
+    "weight": 86,
+    "score": -1199
   },
   "zombie-land-saga": {
     "name": "Zombie Land Saga",
@@ -144895,5 +144895,493 @@
     ],
     "weight": 809,
     "score": 415
+  },
+  "aiue": {
+    "name": "Aiue",
+    "type": [
+      "anime"
+    ],
+    "weight": 150,
+    "score": 150
+  },
+  "akatsuki-no-chinkonka": {
+    "name": "Requiem of the Dawn",
+    "type": [
+      "anime"
+    ],
+    "weight": 111,
+    "score": 150
+  },
+  "another-misaki-mei---shizukani": {
+    "name": "Another: Misaki Mei - Shizukani",
+    "type": [
+      "anime"
+    ],
+    "weight": 133,
+    "score": 150
+  },
+  "attack-zero-x-evangelion": {
+    "name": "Attack Zero x Evangelion",
+    "type": [
+      "anime"
+    ],
+    "weight": 150,
+    "score": 150
+  },
+  "ayanami-rei-hajimete-no-kuchibeni": {
+    "name": "Ayanami Rei, First Lipstick",
+    "type": [
+      "anime"
+    ],
+    "weight": 148,
+    "score": 150
+  },
+  "beautiful-world": {
+    "name": "Beautiful World",
+    "type": [
+      "anime"
+    ],
+    "weight": 139,
+    "score": 150
+  },
+  "cowboy-bebop-ein-no-natsuyasumi": {
+    "name": "Cowboy Bebop: Ein's Summer Vacation",
+    "type": [
+      "anime"
+    ],
+    "weight": 134,
+    "score": 150
+  },
+  "dainouteki-na-rendezvous": {
+    "name": "Dainouteki na Rendezvous",
+    "type": [
+      "anime"
+    ],
+    "weight": 150,
+    "score": 150
+  },
+  "devilman-crybaby---digest-eizou": {
+    "name": "Devilman: Crybaby - Digest Video",
+    "type": [
+      "anime"
+    ],
+    "weight": 136,
+    "score": 150
+  },
+  "fight-song": {
+    "name": "Fight Song",
+    "type": [
+      "anime"
+    ],
+    "weight": 134,
+    "score": 150
+  },
+  "good-day": {
+    "name": "Good Day",
+    "type": [
+      "anime"
+    ],
+    "weight": 150,
+    "score": 150
+  },
+  "hazard-symbol": {
+    "name": "Hazard Symbol",
+    "type": [
+      "anime"
+    ],
+    "weight": 145,
+    "score": 150
+  },
+  "he-wei-dao-x-hui-yeda-xiaojie-xiangyao-wo-gaobai": {
+    "name": "He Wei Dao x Kaguya-sama: Love is War",
+    "type": [
+      "anime"
+    ],
+    "weight": 133,
+    "score": 150
+  },
+  "ichijitsusenshu": {
+    "name": "Ichijitsusenshu",
+    "type": [
+      "anime"
+    ],
+    "weight": 145,
+    "score": 150
+  },
+  "imprisoned-xii": {
+    "name": "Imprisoned XII",
+    "type": [
+      "anime"
+    ],
+    "weight": 143,
+    "score": 150
+  },
+  "in-the-back-room": {
+    "name": "In the Back Room",
+    "type": [
+      "anime"
+    ],
+    "weight": 150,
+    "score": 150
+  },
+  "jouzai": {
+    "name": "Tablet",
+    "type": [
+      "anime"
+    ],
+    "weight": 150,
+    "score": 150
+  },
+  "kao": {
+    "name": "Alter Ego",
+    "type": [
+      "anime"
+    ],
+    "weight": 120,
+    "score": 150
+  },
+  "kimi-wa-houkago-insomnia-pv": {
+    "name": "Insomniacs After School PV",
+    "type": [
+      "anime"
+    ],
+    "weight": 150,
+    "score": 150
+  },
+  "koe-no-katachi-specials": {
+    "name": "A Silent Voice Specials",
+    "type": [
+      "anime"
+    ],
+    "weight": 131,
+    "score": 150
+  },
+  "koyomi-history": {
+    "name": "Koyomi History",
+    "type": [
+      "anime"
+    ],
+    "weight": 144,
+    "score": 150
+  },
+  "let-you-down": {
+    "name": "Let You Down",
+    "type": [
+      "anime"
+    ],
+    "weight": 134,
+    "score": 150
+  },
+  "mahou-shoujo-madokamagica-movie-3-hangyaku-no-monogatari---magica-quartet-x-nisioisin": {
+    "name": "Mahou Shoujo Madoka★Magica Movie 3: Hangyaku no Monogatari - Magica Quartet x Nisioisin",
+    "type": [
+      "anime"
+    ],
+    "weight": 130,
+    "score": 150
+  },
+  "mahou-shoujo-sonicomagica": {
+    "name": "Puella Magi Sonico Magica",
+    "type": [
+      "anime"
+    ],
+    "weight": 143,
+    "score": 150
+  },
+  "makemagic": {
+    "name": "Makemagic",
+    "type": [
+      "anime"
+    ],
+    "weight": 150,
+    "score": 150
+  },
+  "manga-bakemonogatari-shaft-seisaku-tokubetsu-pv": {
+    "name": "Bakemonogatari Shaft Special Production PV",
+    "type": [
+      "anime"
+    ],
+    "weight": 144,
+    "score": 150
+  },
+  "maomao-no-hitorigoto": {
+    "name": "Maomao no Hitorigoto",
+    "type": [
+      "anime"
+    ],
+    "weight": 147,
+    "score": 150
+  },
+  "minna-to-manner-wo-manabou": {
+    "name": "Minna to Manner wo Manabou",
+    "type": [
+      "anime"
+    ],
+    "weight": 150,
+    "score": 150
+  },
+  "monogatari-series-off-monster-season---zankoku-douwa-utsukushi-hime": {
+    "name": "Monogatari Series: Off & Monster Season - A Cruel Fairy Tale: The Beautiful Princess",
+    "type": [
+      "anime"
+    ],
+    "weight": 113,
+    "score": 150
+  },
+  "nadame-sukashi-negotiation": {
+    "name": "Nadame Sukashi Negotiation",
+    "type": [
+      "anime"
+    ],
+    "weight": 150,
+    "score": 150
+  },
+  "naisho-no-hanashi": {
+    "name": "Naisho no Hanashi",
+    "type": [
+      "anime"
+    ],
+    "weight": 150,
+    "score": 150
+  },
+  "okitegami-kyouko-no-bibouroku-x-monogatari": {
+    "name": "The Memorandum of Kyoko Okitegami x Monogatari",
+    "type": [
+      "anime"
+    ],
+    "weight": 149,
+    "score": 150
+  },
+  "rezero-kara-hajimeru-isekai-seikatsu---memory-snow-announcement": {
+    "name": "Re:ZERO -Starting Life in Another World- Memory Snow PV",
+    "type": [
+      "anime"
+    ],
+    "weight": 148,
+    "score": 150
+  },
+  "shingeki-no-kyojin-in-the-dome-heishi-tachi-no-hoshizora": {
+    "name": "Attack on Titan in the Dome: Soldiers' Starry Sky",
+    "type": [
+      "anime"
+    ],
+    "weight": 133,
+    "score": 150
+  },
+  "sleepless-nocturne-the-animation": {
+    "name": "Sleepless Nocturne The Animation",
+    "type": [
+      "anime"
+    ],
+    "weight": 146,
+    "score": 150
+  },
+  "tenki-no-ko-cms": {
+    "name": "Weathering with You CMs",
+    "type": [
+      "anime"
+    ],
+    "weight": 148,
+    "score": 150
+  },
+  "twilight": {
+    "name": "Twilight",
+    "type": [
+      "anime"
+    ],
+    "weight": 150,
+    "score": 150
+  },
+  "undead": {
+    "name": "Undead",
+    "type": [
+      "anime"
+    ],
+    "weight": 120,
+    "score": 150
+  },
+  "unmei-kyoudoutai": {
+    "name": "Unmei Kyoudoutai!",
+    "type": [
+      "anime"
+    ],
+    "weight": 150,
+    "score": 150
+  },
+  "urusei-yatsura-x-onitsuka-tiger-collaboration-cm": {
+    "name": "Urusei Yatsura x Onitsuka Tiger Collaboration CM",
+    "type": [
+      "anime"
+    ],
+    "weight": 150,
+    "score": 150
+  },
+  "yami-shibai-2": {
+    "name": "Theatre of Darkness: Yamishibai 2",
+    "type": [
+      "anime"
+    ],
+    "weight": 134,
+    "score": 150
+  },
+  "yami-shibai-4": {
+    "name": "Theatre of Darkness: Yamishibai 4",
+    "type": [
+      "anime"
+    ],
+    "weight": 145,
+    "score": 150
+  },
+  "yami-shibai-5": {
+    "name": "Theatre of Darkness: Yamishibai 5",
+    "type": [
+      "anime"
+    ],
+    "weight": 143,
+    "score": 150
+  },
+  "yasashii-suisei": {
+    "name": "Comet",
+    "type": [
+      "anime"
+    ],
+    "weight": 145,
+    "score": 150
+  },
+  "yofukashi-no-uta-mini": {
+    "name": "Call of the Night Mini",
+    "type": [
+      "anime"
+    ],
+    "weight": 138,
+    "score": 150
+  },
+  "yojouhan-shinwa-taikei-specials": {
+    "name": "The Tatami Galaxy Specials",
+    "type": [
+      "anime"
+    ],
+    "weight": 124,
+    "score": 150
+  },
+  "yuuyuuhakusho-picture-drama": {
+    "name": "Yuu☆Yuu☆Hakusho Picture Drama",
+    "type": [
+      "anime"
+    ],
+    "weight": 142,
+    "score": 150
+  },
+  "yuuyuuhakusho-mu-mu-hakusho---nightmare-hakusho": {
+    "name": "Yuu☆Yuu☆Hakusho: Mu Mu Hakusho - Nightmare Hakusho",
+    "type": [
+      "anime"
+    ],
+    "weight": 148,
+    "score": 150
+  },
+  "yuuyuuhakusho-two-shotsnoru-ka-soru-ka": {
+    "name": "Yu Yu Hakusho: Ghost Files - Two Shots / All or Nothing",
+    "type": [
+      "anime"
+    ],
+    "weight": 130,
+    "score": 150
+  },
+  "yuusha": {
+    "name": "The Brave",
+    "type": [
+      "anime"
+    ],
+    "weight": 101,
+    "score": 150
+  },
+  "amaama-kun-no-okashi-na-yuuwaku": {
+    "name": "Amaama-kun no Okashi na Yuuwaku",
+    "type": [
+      "manga"
+    ],
+    "weight": 150,
+    "score": 150
+  },
+  "amanin-shoujo-azuki": {
+    "name": "Amanin Shoujo Azuki",
+    "type": [
+      "manga"
+    ],
+    "weight": 150,
+    "score": 150
+  },
+  "another-0": {
+    "name": "Another 0",
+    "type": [
+      "manga"
+    ],
+    "weight": 136,
+    "score": 150
+  },
+  "daredemo-dakeru-kimi-ga-suki": {
+    "name": "I Like You Who Can Have Sex Anyone.",
+    "type": [
+      "manga"
+    ],
+    "weight": 130,
+    "score": 150
+  },
+  "haruwaka": {
+    "name": "Haruwaka",
+    "type": [
+      "manga"
+    ],
+    "weight": 145,
+    "score": 150
+  },
+  "hikaru-to-hikaru": {
+    "name": "Hikaru to Hikaru",
+    "type": [
+      "manga"
+    ],
+    "weight": 150,
+    "score": 150
+  },
+  "isshou-suki-tte-yutta-jan": {
+    "name": "Isshou Suki tte Yutta jan",
+    "type": [
+      "manga"
+    ],
+    "weight": 127,
+    "score": 150
+  },
+  "itou-junji-kyoufu-manga-collection-tunnel-kitan": {
+    "name": "Itou Junji Kyoufu Manga Collection: Tunnel Kitan",
+    "type": [
+      "manga"
+    ],
+    "weight": 119,
+    "score": 150
+  },
+  "senki-survival-saga-isekai-no-unmei-wo-kaketa-mujintou-fujun-isei-kouyuu": {
+    "name": "Battle Princess Survival Saga",
+    "type": [
+      "manga"
+    ],
+    "weight": 141,
+    "score": 150
+  },
+  "shousetsu-berserk-enryuu-no-kishi": {
+    "name": "Berserk: The Flame Dragon Knight",
+    "type": [
+      "light-novel"
+    ],
+    "weight": 142,
+    "score": 150
+  },
+  "uzumaki-tokubetsu-hen-ginga": {
+    "name": "Uzumaki Lost Chapter: Galaxies",
+    "type": [
+      "manga"
+    ],
+    "weight": 149,
+    "score": 150
   }
 }
