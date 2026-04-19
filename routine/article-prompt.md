@@ -253,7 +253,7 @@ location, characters(if-featured), broadcast-season, angle=event-coverage
 
 ## Step 10 - Write the article
 
-Length: 700-1100 words. Aim for the high end on analytical pieces.
+Length: 700-2100 words. Aim for the high end on analytical pieces.
 
 Structure: lead with the hook - the specific claim, contradiction, or question you are
 going to examine. Do not open with "In the world of anime..." or any generic framing.
