@@ -33,7 +33,7 @@ git reset --hard origin/main
 
 ---
 
-**You must process exactly 5 topics per run, one at a time, in strict sequential order.**
+**You must process exactly 4 topics per run, one at a time, in strict sequential order.**
 
 For each topic: run Steps 1-13 in full (select, research, write, review, update state,
 commit) before calling get_next_topic.py again. The scoring system depends on this —
@@ -41,7 +41,7 @@ calling get_next_topic.py before committing the previous topic's state will retu
 same topic again and break the rotation.
 
 Do NOT batch topics. Do NOT call get_next_topic.py more than once before completing
-the full cycle for the current topic. One topic at a time, five times, then push (Step 14).
+the full cycle for the current topic. One topic at a time, four times, then push (Step 14).
 
 ---
 
@@ -380,7 +380,7 @@ Do NOT push yet. Go back to Step 1 for the next topic.
 
 ## Step 14 - Push once after all topics are done
 
-After completing all 5 topics, push everything:
+After completing all 4 topics, push everything:
   git push origin main
 
 **Handling push conflicts:** If `git push` fails because another agent pushed first:
