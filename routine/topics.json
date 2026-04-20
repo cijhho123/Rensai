@@ -145431,5 +145431,1757 @@
     ],
     "weight": 30,
     "score": 0
+  },
+  "fred-patten": {
+    "name": "Fred Patten",
+    "type": [
+      "person"
+    ],
+    "weight": 80,
+    "score": 0
+  },
+  "mark-merlino-sy-sable": {
+    "name": "Mark Merlino (Sy Sable)",
+    "type": [
+      "person"
+    ],
+    "weight": 120,
+    "score": 0
+  },
+  "judy-niver": {
+    "name": "Judy Niver",
+    "type": [
+      "person"
+    ],
+    "weight": 135,
+    "score": 0
+  },
+  "wendell-washer": {
+    "name": "Wendell Washer",
+    "type": [
+      "person"
+    ],
+    "weight": 140,
+    "score": 0
+  },
+  "robin-leyden": {
+    "name": "Robin Leyden",
+    "type": [
+      "person"
+    ],
+    "weight": 140,
+    "score": 0
+  },
+  "jerry-beck": {
+    "name": "Jerry Beck",
+    "type": [
+      "person"
+    ],
+    "weight": 90,
+    "score": 0
+  },
+  "carl-macek": {
+    "name": "Carl Macek",
+    "type": [
+      "person"
+    ],
+    "weight": 65,
+    "score": 0
+  },
+  "mike-tatsugawa": {
+    "name": "Mike Tatsugawa",
+    "type": [
+      "person"
+    ],
+    "weight": 90,
+    "score": 0
+  },
+  "meri-davis": {
+    "name": "Meri Davis",
+    "type": [
+      "person"
+    ],
+    "weight": 125,
+    "score": 0
+  },
+  "susan-j-napier": {
+    "name": "Susan J. Napier",
+    "type": [
+      "person"
+    ],
+    "weight": 85,
+    "score": 0
+  },
+  "frederik-l-schodt": {
+    "name": "Frederik L. Schodt",
+    "type": [
+      "person"
+    ],
+    "weight": 60,
+    "score": 0
+  },
+  "robert-fenelon": {
+    "name": "Robert Fenelon",
+    "type": [
+      "person"
+    ],
+    "weight": 130,
+    "score": 0
+  },
+  "ann-schubert": {
+    "name": "Ann Schubert",
+    "type": [
+      "person"
+    ],
+    "weight": 120,
+    "score": 0
+  },
+  "alex-matulich": {
+    "name": "Alex Matulich",
+    "type": [
+      "person"
+    ],
+    "weight": 125,
+    "score": 0
+  },
+  "joanne-ninomiya": {
+    "name": "Joanne Ninomiya",
+    "type": [
+      "person"
+    ],
+    "weight": 130,
+    "score": 0
+  },
+  "august-ragone": {
+    "name": "August Ragone",
+    "type": [
+      "person"
+    ],
+    "weight": 130,
+    "score": 0
+  },
+  "revell-walker": {
+    "name": "Revell Walker",
+    "type": [
+      "person"
+    ],
+    "weight": 140,
+    "score": 0
+  },
+  "patrick-w-galbraith": {
+    "name": "Patrick W. Galbraith",
+    "type": [
+      "person"
+    ],
+    "weight": 90,
+    "score": 0
+  },
+  "jaqueline-berndt": {
+    "name": "Jaqueline Berndt",
+    "type": [
+      "person"
+    ],
+    "weight": 130,
+    "score": 0
+  },
+  "annelee-newitz": {
+    "name": "Annelee Newitz",
+    "type": [
+      "person"
+    ],
+    "weight": 125,
+    "score": 0
+  },
+  "kinko-ito": {
+    "name": "Kinko Ito",
+    "type": [
+      "person"
+    ],
+    "weight": 135,
+    "score": 0
+  },
+  "sharon-kinsella": {
+    "name": "Sharon Kinsella",
+    "type": [
+      "person"
+    ],
+    "weight": 130,
+    "score": 0
+  },
+  "jonathan-clements": {
+    "name": "Jonathan Clements",
+    "type": [
+      "person"
+    ],
+    "weight": 120,
+    "score": 0
+  },
+  "john-a-lent": {
+    "name": "John A. Lent",
+    "type": [
+      "person"
+    ],
+    "weight": 135,
+    "score": 0
+  },
+  "dean-mullaney-and-jan-mullaney": {
+    "name": "Dean Mullaney (and Jan Mullaney)",
+    "type": [
+      "person"
+    ],
+    "weight": 130,
+    "score": 0
+  },
+  "trish-ledoux": {
+    "name": "Trish Ledoux",
+    "type": [
+      "person"
+    ],
+    "weight": 125,
+    "score": 0
+  },
+  "dana-fong": {
+    "name": "Dana Fong",
+    "type": [
+      "person"
+    ],
+    "weight": 140,
+    "score": 0
+  },
+  "matthew-anacleto": {
+    "name": "Matthew Anacleto",
+    "type": [
+      "person"
+    ],
+    "weight": 145,
+    "score": 0
+  },
+  "toshifumi-yoshida": {
+    "name": "Toshifumi Yoshida",
+    "type": [
+      "person"
+    ],
+    "weight": 145,
+    "score": 0
+  },
+  "dave-merrill": {
+    "name": "Dave Merrill",
+    "type": [
+      "person"
+    ],
+    "weight": 135,
+    "score": 0
+  },
+  "cartoonfantasy-organization-cfo": {
+    "name": "Cartoon/Fantasy Organization (C/FO)",
+    "type": [
+      "otaku-culture"
+    ],
+    "weight": 35,
+    "score": 0
+  },
+  "fansubbing-scene": {
+    "name": "Fansubbing scene",
+    "type": [
+      "otaku-culture"
+    ],
+    "weight": 30,
+    "score": 0
+  },
+  "anime-expo-animecon": {
+    "name": "Anime Expo (AnimeCon)",
+    "type": [
+      "otaku-history"
+    ],
+    "weight": 30,
+    "score": 0
+  },
+  "a-kon-project-a-kon": {
+    "name": "A-Kon (Project A-Kon)",
+    "type": [
+      "otaku-history"
+    ],
+    "weight": 35,
+    "score": 0
+  },
+  "streamline-pictures": {
+    "name": "Streamline Pictures",
+    "type": [
+      "producer"
+    ],
+    "weight": 35,
+    "score": 0
+  },
+  "animeigo": {
+    "name": "AnimEigo",
+    "type": [
+      "producer"
+    ],
+    "weight": 40,
+    "score": 0
+  },
+  "funimation-productions": {
+    "name": "Funimation Productions",
+    "type": [
+      "producer"
+    ],
+    "weight": 30,
+    "score": 0
+  },
+  "protoculture-addicts": {
+    "name": "Protoculture Addicts",
+    "type": [
+      "otaku-culture"
+    ],
+    "weight": 40,
+    "score": 0
+  },
+  "animerica": {
+    "name": "Animerica",
+    "type": [
+      "otaku-culture"
+    ],
+    "weight": 40,
+    "score": 0
+  },
+  "recartsanime": {
+    "name": "Rec.arts.anime",
+    "type": [
+      "otaku-culture"
+    ],
+    "weight": 35,
+    "score": 0
+  },
+  "vhs-tape-trading-networks": {
+    "name": "VHS tape trading networks",
+    "type": [
+      "otaku-culture"
+    ],
+    "weight": 30,
+    "score": 0
+  },
+  "early-manga-imports-by-fans": {
+    "name": "Early manga imports by fans",
+    "type": [
+      "otaku-culture"
+    ],
+    "weight": 45,
+    "score": 0
+  },
+  "san-diego-comic-con-anime-panels-1980s": {
+    "name": "San Diego Comic-Con anime panels (1980s)",
+    "type": [
+      "otaku-history"
+    ],
+    "weight": 40,
+    "score": 0
+  },
+  "jacosub-software": {
+    "name": "JACOSub software",
+    "type": [
+      "otaku-culture"
+    ],
+    "weight": 45,
+    "score": 0
+  },
+  "rising-sun-cfo-chapter": {
+    "name": "Rising Sun C/FO Chapter",
+    "type": [
+      "otaku-culture"
+    ],
+    "weight": 45,
+    "score": 0
+  },
+  "otaku-term-popularization": {
+    "name": "Otaku term popularization",
+    "type": [
+      "otaku-history"
+    ],
+    "weight": 30,
+    "score": 0
+  },
+  "toonami-block-cartoon-network": {
+    "name": "Toonami block (Cartoon Network)",
+    "type": [
+      "otaku-culture"
+    ],
+    "weight": 30,
+    "score": 0
+  },
+  "akira-theatrical-release-1988": {
+    "name": "Akira theatrical release (1988)",
+    "type": [
+      "otaku-history"
+    ],
+    "weight": 30,
+    "score": 0
+  },
+  "robotech-adaptation": {
+    "name": "Robotech adaptation",
+    "type": [
+      "otaku-history"
+    ],
+    "weight": 30,
+    "score": 0
+  },
+  "eclipse-comics-manga-line": {
+    "name": "Eclipse Comics manga line",
+    "type": [
+      "producer"
+    ],
+    "weight": 50,
+    "score": 0
+  },
+  "tokyopop": {
+    "name": "TOKYOPOP",
+    "type": [
+      "producer"
+    ],
+    "weight": 35,
+    "score": 0
+  },
+  "lasfs-anime-screenings": {
+    "name": "LASFS anime screenings",
+    "type": [
+      "otaku-history"
+    ],
+    "weight": 40,
+    "score": 0
+  },
+  "books-nippon-japanese-animation-fan-club": {
+    "name": "Books Nippon Japanese Animation Fan Club",
+    "type": [
+      "otaku-culture"
+    ],
+    "weight": 45,
+    "score": 0
+  },
+  "anime-zine": {
+    "name": "Anime-zine",
+    "type": [
+      "otaku-culture"
+    ],
+    "weight": 45,
+    "score": 0
+  },
+  "apa-anime-fanzines-amateur-press-associations": {
+    "name": "APA anime fanzines (Amateur Press Associations)",
+    "type": [
+      "otaku-culture"
+    ],
+    "weight": 45,
+    "score": 0
+  },
+  "earth-defense-command-fan-club": {
+    "name": "Earth Defense Command fan club",
+    "type": [
+      "otaku-culture"
+    ],
+    "weight": 45,
+    "score": 0
+  },
+  "star-blazers-fan-club": {
+    "name": "Star Blazers Fan Club",
+    "type": [
+      "otaku-culture"
+    ],
+    "weight": 45,
+    "score": 0
+  },
+  "japanese-animation-club-of-orlando": {
+    "name": "Japanese Animation Club of Orlando",
+    "type": [
+      "otaku-culture"
+    ],
+    "weight": 45,
+    "score": 0
+  },
+  "new-world-pictures-anime-dubs": {
+    "name": "New World Pictures anime dubs",
+    "type": [
+      "producer"
+    ],
+    "weight": 50,
+    "score": 0
+  },
+  "harmony-gold-and-robotech": {
+    "name": "Harmony Gold and Robotech",
+    "type": [
+      "producer"
+    ],
+    "weight": 35,
+    "score": 0
+  },
+  "adv-films-uncut-releases": {
+    "name": "ADV Films uncut releases",
+    "type": [
+      "producer"
+    ],
+    "weight": 35,
+    "score": 0
+  },
+  "viz-media-manga-translations": {
+    "name": "Viz Media manga translations",
+    "type": [
+      "producer"
+    ],
+    "weight": 35,
+    "score": 0
+  },
+  "central-park-media": {
+    "name": "Central Park Media",
+    "type": [
+      "producer"
+    ],
+    "weight": 40,
+    "score": 0
+  },
+  "media-blasters": {
+    "name": "Media Blasters",
+    "type": [
+      "producer"
+    ],
+    "weight": 50,
+    "score": 0
+  },
+  "saban-entertainment-anime-adaptations": {
+    "name": "Saban Entertainment anime adaptations",
+    "type": [
+      "producer"
+    ],
+    "weight": 40,
+    "score": 0
+  },
+  "pioneer-ldc-us-licensing": {
+    "name": "Pioneer LDC US licensing",
+    "type": [
+      "producer"
+    ],
+    "weight": 50,
+    "score": 0
+  },
+  "bandai-entertainment": {
+    "name": "Bandai Entertainment",
+    "type": [
+      "producer"
+    ],
+    "weight": 40,
+    "score": 0
+  },
+  "4kids-entertainment-early-licenses": {
+    "name": "4Kids Entertainment early licenses",
+    "type": [
+      "producer"
+    ],
+    "weight": 45,
+    "score": 0
+  },
+  "manga-entertainment": {
+    "name": "Manga Entertainment",
+    "type": [
+      "producer"
+    ],
+    "weight": 40,
+    "score": 0
+  },
+  "osamu-tezuka-us-visits": {
+    "name": "Osamu Tezuka US visits",
+    "type": [
+      "otaku-history"
+    ],
+    "weight": 35,
+    "score": 0
+  },
+  "monkey-punch-kazuhito-kato": {
+    "name": "Monkey Punch (Kazuhito Kato)",
+    "type": [
+      "person"
+    ],
+    "weight": 80,
+    "score": 0
+  },
+  "yumiko-igarashi": {
+    "name": "Yumiko Igarashi",
+    "type": [
+      "person"
+    ],
+    "weight": 90,
+    "score": 0
+  },
+  "helen-mccarthy-uk": {
+    "name": "Helen McCarthy (UK)",
+    "type": [
+      "person"
+    ],
+    "weight": 85,
+    "score": 0
+  },
+  "wendy-pini": {
+    "name": "Wendy Pini",
+    "type": [
+      "person"
+    ],
+    "weight": 95,
+    "score": 0
+  },
+  "jim-kaposztas": {
+    "name": "Jim Kaposztas",
+    "type": [
+      "person"
+    ],
+    "weight": 85,
+    "score": 0
+  },
+  "meng-vang-xiong": {
+    "name": "Meng Vang Xiong",
+    "type": [
+      "person"
+    ],
+    "weight": 125,
+    "score": 0
+  },
+  "martin-billany-littlekuriboh": {
+    "name": "Martin Billany (LittleKuriboh)",
+    "type": [
+      "person"
+    ],
+    "weight": 60,
+    "score": 0
+  },
+  "cartoonfantasy-organization-cfo-fansubbing": {
+    "name": "Cartoon/Fantasy Organization (C/FO) fansubbing",
+    "type": [
+      "otaku-culture"
+    ],
+    "weight": 45,
+    "score": 0
+  },
+  "teiboku-fansubs": {
+    "name": "Teiboku Fansubs",
+    "type": [
+      "otaku-culture"
+    ],
+    "weight": 45,
+    "score": 0
+  },
+  "analog-fansubbing-era": {
+    "name": "Analog fansubbing era",
+    "type": [
+      "otaku-culture"
+    ],
+    "weight": 30,
+    "score": 0
+  },
+  "fansub-tape-trading-networks": {
+    "name": "Fansub tape trading networks",
+    "type": [
+      "otaku-culture"
+    ],
+    "weight": 35,
+    "score": 0
+  },
+  "early-fansub-legal-tensions": {
+    "name": "Early fansub legal tensions",
+    "type": [
+      "otaku-culture"
+    ],
+    "weight": 35,
+    "score": 0
+  },
+  "fandubbing-history": {
+    "name": "Fandubbing history",
+    "type": [
+      "otaku-culture"
+    ],
+    "weight": 30,
+    "score": 0
+  },
+  "voicedub-group": {
+    "name": "VoiceDub Group",
+    "type": [
+      "otaku-culture"
+    ],
+    "weight": 45,
+    "score": 0
+  },
+  "ocean-group-dub-alumni-fan-influenced": {
+    "name": "Ocean Group dub alumni (fan-influenced)",
+    "type": [
+      "otaku-culture"
+    ],
+    "weight": 45,
+    "score": 0
+  },
+  "early-fandub-theme-song-covers": {
+    "name": "Early fandub theme song covers",
+    "type": [
+      "otaku-culture"
+    ],
+    "weight": 45,
+    "score": 0
+  },
+  "yu-gi-oh-the-abridged-series-littlekuriboh": {
+    "name": "Yu-Gi-Oh: The Abridged Series (LittleKuriboh)",
+    "type": [
+      "otaku-culture"
+    ],
+    "weight": 35,
+    "score": 0
+  },
+  "teamfourstar-dragon-ball-z-abridged": {
+    "name": "TeamFourStar (Dragon Ball Z Abridged)",
+    "type": [
+      "otaku-culture"
+    ],
+    "weight": 35,
+    "score": 0
+  },
+  "hbi2k": {
+    "name": "Hbi2k",
+    "type": [
+      "person"
+    ],
+    "weight": 130,
+    "score": 0
+  },
+  "abridged-series-remix-culture": {
+    "name": "Abridged series remix culture",
+    "type": [
+      "otaku-culture"
+    ],
+    "weight": 30,
+    "score": 0
+  },
+  "anime-music-video-amv-origins": {
+    "name": "Anime music video (AMV) origins",
+    "type": [
+      "otaku-culture"
+    ],
+    "weight": 30,
+    "score": 0
+  },
+  "kevin-caldwell": {
+    "name": "Kevin Caldwell",
+    "type": [
+      "person"
+    ],
+    "weight": 95,
+    "score": 0
+  },
+  "early-amv-creators-pre-2000": {
+    "name": "Early AMV creators (pre-2000)",
+    "type": [
+      "otaku-culture"
+    ],
+    "weight": 40,
+    "score": 0
+  },
+  "amv-filmmakers-association": {
+    "name": "AMV Filmmakers Association",
+    "type": [
+      "otaku-culture"
+    ],
+    "weight": 40,
+    "score": 0
+  },
+  "dadakai-manga-translation-group": {
+    "name": "Dadakai manga translation group",
+    "type": [
+      "otaku-culture"
+    ],
+    "weight": 40,
+    "score": 0
+  },
+  "mangascans": {
+    "name": "Mangascans",
+    "type": [
+      "otaku-culture"
+    ],
+    "weight": 35,
+    "score": 0
+  },
+  "mangascreener": {
+    "name": "MangaScreener",
+    "type": [
+      "otaku-culture"
+    ],
+    "weight": 45,
+    "score": 0
+  },
+  "toriyamas-world": {
+    "name": "Toriyama's World",
+    "type": [
+      "otaku-culture"
+    ],
+    "weight": 45,
+    "score": 0
+  },
+  "snoopycool": {
+    "name": "SnoopyCool",
+    "type": [
+      "otaku-culture"
+    ],
+    "weight": 40,
+    "score": 0
+  },
+  "studio-robb": {
+    "name": "Studio Robb",
+    "type": [
+      "otaku-culture"
+    ],
+    "weight": 45,
+    "score": 0
+  },
+  "fugutabetais-mangatranslation": {
+    "name": "FuguTabetai's MangaTranslation",
+    "type": [
+      "otaku-culture"
+    ],
+    "weight": 50,
+    "score": 0
+  },
+  "suou-jima-random-manga-translations": {
+    "name": "Suou Jima (Random Manga Translations)",
+    "type": [
+      "otaku-culture"
+    ],
+    "weight": 50,
+    "score": 0
+  },
+  "shoujomagic": {
+    "name": "ShoujoMagic",
+    "type": [
+      "otaku-culture"
+    ],
+    "weight": 40,
+    "score": 0
+  },
+  "manga-sketchbook": {
+    "name": "Manga-Sketchbook",
+    "type": [
+      "otaku-culture"
+    ],
+    "weight": 50,
+    "score": 0
+  },
+  "storm-in-heaven": {
+    "name": "Storm in Heaven",
+    "type": [
+      "otaku-culture"
+    ],
+    "weight": 50,
+    "score": 0
+  },
+  "project-omanga": {
+    "name": "Project Omanga",
+    "type": [
+      "otaku-culture"
+    ],
+    "weight": 50,
+    "score": 0
+  },
+  "yamatocon-1983": {
+    "name": "YamatoCon (1983)",
+    "type": [
+      "otaku-history"
+    ],
+    "weight": 35,
+    "score": 0
+  },
+  "animecon-1991": {
+    "name": "AnimeCon (1991)",
+    "type": [
+      "otaku-history"
+    ],
+    "weight": 35,
+    "score": 0
+  },
+  "project-a-kon-1990": {
+    "name": "Project A-Kon (1990)",
+    "type": [
+      "otaku-history"
+    ],
+    "weight": 35,
+    "score": 0
+  },
+  "anime-america-1996": {
+    "name": "Anime America (1996)",
+    "type": [
+      "otaku-history"
+    ],
+    "weight": 40,
+    "score": 0
+  },
+  "anime-east-1995": {
+    "name": "Anime East (1995)",
+    "type": [
+      "otaku-history"
+    ],
+    "weight": 40,
+    "score": 0
+  },
+  "otakon": {
+    "name": "Otakon",
+    "type": [
+      "otaku-history"
+    ],
+    "weight": 30,
+    "score": 0
+  },
+  "fanimecon": {
+    "name": "FanimeCon",
+    "type": [
+      "otaku-history"
+    ],
+    "weight": 35,
+    "score": 0
+  },
+  "recartsanime-usenet-newsgroup": {
+    "name": "Rec.arts.anime Usenet newsgroup",
+    "type": [
+      "otaku-culture"
+    ],
+    "weight": 45,
+    "score": 0
+  },
+  "usenet-anime-communities-pre-1995": {
+    "name": "Usenet anime communities (pre-1995)",
+    "type": [
+      "otaku-culture"
+    ],
+    "weight": 35,
+    "score": 0
+  },
+  "irc-anime-channels": {
+    "name": "IRC anime channels",
+    "type": [
+      "otaku-culture"
+    ],
+    "weight": 35,
+    "score": 0
+  },
+  "compuserve-anime-and-manga-forum": {
+    "name": "CompuServe Anime & Manga Forum",
+    "type": [
+      "otaku-culture"
+    ],
+    "weight": 40,
+    "score": 0
+  },
+  "anime-web-turnpike": {
+    "name": "Anime Web Turnpike",
+    "type": [
+      "otaku-culture"
+    ],
+    "weight": 35,
+    "score": 0
+  },
+  "early-fansites-1990s": {
+    "name": "early fansites (1990s)",
+    "type": [
+      "otaku-culture"
+    ],
+    "weight": 45,
+    "score": 0
+  },
+  "anitube-scene-origins": {
+    "name": "Anitube scene origins",
+    "type": [
+      "otaku-culture"
+    ],
+    "weight": 30,
+    "score": 0
+  },
+  "early-anitube-creators": {
+    "name": "Early Anitube creators",
+    "type": [
+      "otaku-culture"
+    ],
+    "weight": 40,
+    "score": 0
+  },
+  "anitube-cultural-shift": {
+    "name": "AniTube cultural shift",
+    "type": [
+      "otaku-culture"
+    ],
+    "weight": 40,
+    "score": 0
+  },
+  "uk-anime-fandom-pioneers": {
+    "name": "UK anime fandom pioneers",
+    "type": [
+      "otaku-culture"
+    ],
+    "weight": 40,
+    "score": 0
+  },
+  "european-otaku-networks": {
+    "name": "European otaku networks",
+    "type": [
+      "otaku-culture"
+    ],
+    "weight": 40,
+    "score": 0
+  },
+  "australian-anime-clubs": {
+    "name": "Australian anime clubs",
+    "type": [
+      "otaku-culture"
+    ],
+    "weight": 40,
+    "score": 0
+  },
+  "azuma-hiroki": {
+    "name": "Azuma Hiroki",
+    "type": [
+      "person"
+    ],
+    "weight": 65,
+    "score": 0
+  },
+  "akio-nakamori": {
+    "name": "Akio Nakamori",
+    "type": [
+      "person"
+    ],
+    "weight": 80,
+    "score": 0
+  },
+  "otaku-moral-panic-1980s-90s": {
+    "name": "Otaku moral panic (1980s-90s)",
+    "type": [
+      "otaku-history"
+    ],
+    "weight": 30,
+    "score": 0
+  },
+  "early-cosplay-at-cons": {
+    "name": "Early cosplay at cons",
+    "type": [
+      "otaku-culture"
+    ],
+    "weight": 30,
+    "score": 0
+  },
+  "doujinshi-fan-creation-scene": {
+    "name": "Doujinshi fan-creation scene",
+    "type": [
+      "otaku-culture"
+    ],
+    "weight": 30,
+    "score": 0
+  },
+  "early-anime-merchandise-collecting": {
+    "name": "Early anime merchandise collecting",
+    "type": [
+      "otaku-culture"
+    ],
+    "weight": 35,
+    "score": 0
+  },
+  "toonami-block-advocacy": {
+    "name": "Toonami block advocacy",
+    "type": [
+      "otaku-culture"
+    ],
+    "weight": 30,
+    "score": 0
+  },
+  "arctic-animation": {
+    "name": "Arctic Animation",
+    "type": [
+      "otaku-culture"
+    ],
+    "weight": 40,
+    "score": 0
+  },
+  "tomodachi-anime-meng-vang-xiong": {
+    "name": "Tomodachi Anime (Meng Vang Xiong)",
+    "type": [
+      "otaku-culture"
+    ],
+    "weight": 40,
+    "score": 0
+  },
+  "ranma-project": {
+    "name": "Ranma Project",
+    "type": [
+      "otaku-culture"
+    ],
+    "weight": 45,
+    "score": 0
+  },
+  "william-chow": {
+    "name": "William Chow",
+    "type": [
+      "person"
+    ],
+    "weight": 95,
+    "score": 0
+  },
+  "john-renault-cfo-rising-sun-chapter": {
+    "name": "John Renault (C/FO Rising Sun Chapter)",
+    "type": [
+      "person"
+    ],
+    "weight": 135,
+    "score": 0
+  },
+  "ocean-group-dub-alumni-influence": {
+    "name": "Ocean Group dub alumni influence",
+    "type": [
+      "otaku-culture"
+    ],
+    "weight": 45,
+    "score": 0
+  },
+  "early-fandub-theme-song-cover-artists": {
+    "name": "Early fandub theme-song cover artists",
+    "type": [
+      "otaku-culture"
+    ],
+    "weight": 45,
+    "score": 0
+  },
+  "hawaii-based-fandub-suppliers-joanne-ninomiya-circle": {
+    "name": "Hawaii-based fandub suppliers (Joanne Ninomiya circle)",
+    "type": [
+      "otaku-culture"
+    ],
+    "weight": 50,
+    "score": 0
+  },
+  "pre-youtube-fandub-forums-recartsanime-spin-offs": {
+    "name": "Pre-YouTube fandub forums (rec.arts.anime spin-offs)",
+    "type": [
+      "otaku-culture"
+    ],
+    "weight": 50,
+    "score": 0
+  },
+  "sao-abridged-creators-early-offshoots": {
+    "name": "SAO Abridged creators (early offshoots)",
+    "type": [
+      "otaku-culture"
+    ],
+    "weight": 45,
+    "score": 0
+  },
+  "precursor-parody-dubs-pre-2006-experiments": {
+    "name": "Precursor parody dubs (pre-2006 experiments)",
+    "type": [
+      "otaku-culture"
+    ],
+    "weight": 45,
+    "score": 0
+  },
+  "dokidoki": {
+    "name": "DokiDoki",
+    "type": [
+      "person"
+    ],
+    "weight": 140,
+    "score": 0
+  },
+  "big-big-truck": {
+    "name": "Big Big Truck",
+    "type": [
+      "person"
+    ],
+    "weight": 140,
+    "score": 0
+  },
+  "aluminumstudios": {
+    "name": "AluminumStudios",
+    "type": [
+      "person"
+    ],
+    "weight": 145,
+    "score": 0
+  },
+  "duane-johnson": {
+    "name": "Duane Johnson",
+    "type": [
+      "person"
+    ],
+    "weight": 145,
+    "score": 0
+  },
+  "kagatoamv": {
+    "name": "KagatoAMV",
+    "type": [
+      "person"
+    ],
+    "weight": 145,
+    "score": 0
+  },
+  "kusoyaro": {
+    "name": "Kusoyaro",
+    "type": [
+      "person"
+    ],
+    "weight": 150,
+    "score": 0
+  },
+  "lostboy": {
+    "name": "Lostboy",
+    "type": [
+      "person"
+    ],
+    "weight": 150,
+    "score": 0
+  },
+  "mcwagner": {
+    "name": "MCWagner",
+    "type": [
+      "person"
+    ],
+    "weight": 150,
+    "score": 0
+  },
+  "fugutabetai-mangatranslation": {
+    "name": "FuguTabetai (MangaTranslation)",
+    "type": [
+      "otaku-culture"
+    ],
+    "weight": 50,
+    "score": 0
+  },
+  "hearts-hearts-anime-review": {
+    "name": "Hearts (Hearts Anime Review)",
+    "type": [
+      "person"
+    ],
+    "weight": 130,
+    "score": 0
+  },
+  "grumpy-g-sun": {
+    "name": "Grumpy G Sun",
+    "type": [
+      "person"
+    ],
+    "weight": 140,
+    "score": 0
+  },
+  "early-full-episode-upload-pioneers-2006-2008": {
+    "name": "Early full-episode upload pioneers (2006-2008)",
+    "type": [
+      "otaku-culture"
+    ],
+    "weight": 40,
+    "score": 0
+  },
+  "pre-anitube-amv-compilation-channels": {
+    "name": "Pre-Anitube AMV compilation channels",
+    "type": [
+      "otaku-culture"
+    ],
+    "weight": 45,
+    "score": 0
+  },
+  "reaction-and-discussion-video-creators-late-2000s": {
+    "name": "Reaction & discussion video creators (late 2000s)",
+    "type": [
+      "otaku-culture"
+    ],
+    "weight": 40,
+    "score": 0
+  },
+  "recartsanime-usenet-ann-schubert": {
+    "name": "Rec.arts.anime Usenet (Ann Schubert)",
+    "type": [
+      "otaku-culture"
+    ],
+    "weight": 45,
+    "score": 0
+  },
+  "early-anime-merchandise-importers-1970s-80s": {
+    "name": "Early anime merchandise importers (1970s-80s)",
+    "type": [
+      "otaku-culture"
+    ],
+    "weight": 40,
+    "score": 0
+  },
+  "uk-anime-pioneers-helen-mccarthy": {
+    "name": "UK anime pioneers (Helen McCarthy)",
+    "type": [
+      "otaku-culture"
+    ],
+    "weight": 45,
+    "score": 0
+  },
+  "mr-anime-early-channel": {
+    "name": "Mr. Anime (early channel)",
+    "type": [
+      "person"
+    ],
+    "weight": 140,
+    "score": 0
+  },
+  "gigguk-garnt-maneetapho-the-anime-zone": {
+    "name": "Gigguk (Garnt Maneetapho / The Anime Zone)",
+    "type": [
+      "person"
+    ],
+    "weight": 55,
+    "score": 0
+  },
+  "the-anime-man-joey-bizinger": {
+    "name": "The Anime Man (Joey Bizinger)",
+    "type": [
+      "person"
+    ],
+    "weight": 65,
+    "score": 0
+  },
+  "cdawgva": {
+    "name": "CDawgVA",
+    "type": [
+      "person"
+    ],
+    "weight": 70,
+    "score": 0
+  },
+  "mothers-basement-geoff-thew": {
+    "name": "Mother's Basement (Geoff Thew)",
+    "type": [
+      "person"
+    ],
+    "weight": 80,
+    "score": 0
+  },
+  "glass-reflection-tristan-arkada-gallant-grarkada": {
+    "name": "Glass Reflection (Tristan \"Arkada\" Gallant / GRArkada)",
+    "type": [
+      "person"
+    ],
+    "weight": 85,
+    "score": 0
+  },
+  "nux-taku": {
+    "name": "Nux Taku",
+    "type": [
+      "person"
+    ],
+    "weight": 85,
+    "score": 0
+  },
+  "akidearest": {
+    "name": "Akidearest",
+    "type": [
+      "person"
+    ],
+    "weight": 90,
+    "score": 0
+  },
+  "kito-senpai": {
+    "name": "Kito Senpai",
+    "type": [
+      "person"
+    ],
+    "weight": 135,
+    "score": 0
+  },
+  "podtaku-founded-2012-by-tristan-arkada-holdenreviews-gigguk-and-others": {
+    "name": "PodTaku (founded 2012 by Tristan Arkada, HoldenReviews, Gigguk, and others)",
+    "type": [
+      "otaku-culture"
+    ],
+    "weight": 35,
+    "score": 0
+  },
+  "trash-taste-gigguk-the-anime-man-cdawgva": {
+    "name": "Trash Taste (Gigguk, The Anime Man, CDawgVA)",
+    "type": [
+      "otaku-culture"
+    ],
+    "weight": 30,
+    "score": 0
+  },
+  "j-taku-podtaku-side-podcast-2014": {
+    "name": "J-Taku (PodTaku side podcast, 2014)",
+    "type": [
+      "otaku-culture"
+    ],
+    "weight": 45,
+    "score": 0
+  },
+  "glass-reflection-podcast-spin-offs-tristan-arkada-circle": {
+    "name": "Glass Reflection podcast spin-offs (Tristan Arkada circle)",
+    "type": [
+      "otaku-culture"
+    ],
+    "weight": 45,
+    "score": 0
+  },
+  "early-anime-podcast-experiments-pre-2012-forumsyoutube": {
+    "name": "Early anime podcast experiments (pre-2012 forums/YouTube)",
+    "type": [
+      "otaku-culture"
+    ],
+    "weight": 45,
+    "score": 0
+  },
+  "ranime-subreddit": {
+    "name": "r/anime subreddit",
+    "type": [
+      "otaku-culture"
+    ],
+    "weight": 30,
+    "score": 0
+  },
+  "ranime-wiki-and-lore-pages": {
+    "name": "r/anime wiki & lore pages",
+    "type": [
+      "otaku-culture"
+    ],
+    "weight": 40,
+    "score": 0
+  },
+  "ranime-meta-threads-and-casual-discussion-threads": {
+    "name": "r/anime meta threads & casual discussion threads",
+    "type": [
+      "otaku-culture"
+    ],
+    "weight": 40,
+    "score": 0
+  },
+  "related-anime-subreddits-network-ranime-spin-offs": {
+    "name": "Related anime subreddits network (r/anime spin-offs)",
+    "type": [
+      "otaku-culture"
+    ],
+    "weight": 40,
+    "score": 0
+  },
+  "pre-reddit-forum-migrations-recartsanime-to-early-2010s": {
+    "name": "Pre-Reddit forum migrations (rec.arts.anime to early 2010s)",
+    "type": [
+      "otaku-culture"
+    ],
+    "weight": 40,
+    "score": 0
+  },
+  "cathedral-anime": {
+    "name": "Cathedral Anime",
+    "type": [
+      "otaku-culture"
+    ],
+    "weight": 50,
+    "score": 0
+  },
+  "central-anime": {
+    "name": "Central Anime",
+    "type": [
+      "otaku-culture"
+    ],
+    "weight": 45,
+    "score": 0
+  },
+  "jimaku-animation": {
+    "name": "Jimaku Animation",
+    "type": [
+      "otaku-culture"
+    ],
+    "weight": 50,
+    "score": 0
+  },
+  "kodocha-anime": {
+    "name": "Kodocha Anime",
+    "type": [
+      "otaku-culture"
+    ],
+    "weight": 45,
+    "score": 0
+  },
+  "polar-animation": {
+    "name": "Polar Animation",
+    "type": [
+      "otaku-culture"
+    ],
+    "weight": 50,
+    "score": 0
+  },
+  "urusei-yatsura-project-uyp": {
+    "name": "Urusei Yatsura Project (UYP)",
+    "type": [
+      "otaku-culture"
+    ],
+    "weight": 50,
+    "score": 0
+  },
+  "dragon-team": {
+    "name": "Dragon Team",
+    "type": [
+      "otaku-culture"
+    ],
+    "weight": 45,
+    "score": 0
+  },
+  "megami": {
+    "name": "Megami",
+    "type": [
+      "person"
+    ],
+    "weight": 140,
+    "score": 0
+  },
+  "a-man-destined-to-be-king": {
+    "name": "A Man Destined To Be King",
+    "type": [
+      "person"
+    ],
+    "weight": 145,
+    "score": 0
+  },
+  "ganxingba": {
+    "name": "Ganxingba",
+    "type": [
+      "person"
+    ],
+    "weight": 145,
+    "score": 0
+  },
+  "anime-labs-solo-operator": {
+    "name": "Anime Labs (solo operator)",
+    "type": [
+      "otaku-culture"
+    ],
+    "weight": 50,
+    "score": 0
+  },
+  "arc-v-abridged-team-early-offshoots": {
+    "name": "Arc-V Abridged team (early offshoots)",
+    "type": [
+      "otaku-culture"
+    ],
+    "weight": 50,
+    "score": 0
+  },
+  "anime-round-table-and-review": {
+    "name": "Anime Round Table and Review",
+    "type": [
+      "otaku-culture"
+    ],
+    "weight": 50,
+    "score": 0
+  },
+  "the-anime-nostalgia-podcast-dawn-h": {
+    "name": "The Anime Nostalgia Podcast (Dawn H.)",
+    "type": [
+      "otaku-culture"
+    ],
+    "weight": 45,
+    "score": 0
+  },
+  "anime-shmanime-podcast-mikey-and-jay": {
+    "name": "Anime Shmanime Podcast (Mikey & Jay)",
+    "type": [
+      "otaku-culture"
+    ],
+    "weight": 50,
+    "score": 0
+  },
+  "retro-anime-podcast-ian-and-lewis": {
+    "name": "Retro Anime Podcast (Ian & Lewis)",
+    "type": [
+      "otaku-culture"
+    ],
+    "weight": 50,
+    "score": 0
+  },
+  "anime-addicts-anonymous": {
+    "name": "Anime Addicts Anonymous",
+    "type": [
+      "otaku-culture"
+    ],
+    "weight": 45,
+    "score": 0
+  },
+  "anime-world-order-podcast": {
+    "name": "Anime World Order Podcast",
+    "type": [
+      "otaku-culture"
+    ],
+    "weight": 40,
+    "score": 0
+  },
+  "vintage-anime-club-podcast": {
+    "name": "Vintage Anime Club Podcast",
+    "type": [
+      "otaku-culture"
+    ],
+    "weight": 50,
+    "score": 0
+  },
+  "animazement": {
+    "name": "Animazement",
+    "type": [
+      "otaku-history"
+    ],
+    "weight": 40,
+    "score": 0
+  },
+  "anime-central": {
+    "name": "Anime Central",
+    "type": [
+      "otaku-history"
+    ],
+    "weight": 35,
+    "score": 0
+  },
+  "anime-weekend-atlanta": {
+    "name": "Anime Weekend Atlanta",
+    "type": [
+      "otaku-history"
+    ],
+    "weight": 40,
+    "score": 0
+  },
+  "recontanimeted": {
+    "name": "ReConTanimeTed",
+    "type": [
+      "otaku-history"
+    ],
+    "weight": 50,
+    "score": 0
+  },
+  "salon-del-manga-barcelona": {
+    "name": "Salon del Manga (Barcelona)",
+    "type": [
+      "otaku-history"
+    ],
+    "weight": 45,
+    "score": 0
+  },
+  "bay-con-anime-marathon-1986": {
+    "name": "Bay Con anime marathon (1986)",
+    "type": [
+      "otaku-history"
+    ],
+    "weight": 50,
+    "score": 0
+  },
+  "redhawk-scans": {
+    "name": "Redhawk Scans",
+    "type": [
+      "otaku-culture"
+    ],
+    "weight": 40,
+    "score": 0
+  },
+  "dual-translations": {
+    "name": "Dual Translations",
+    "type": [
+      "otaku-culture"
+    ],
+    "weight": 50,
+    "score": 0
+  },
+  "ryokurin": {
+    "name": "Ryokurin",
+    "type": [
+      "otaku-culture"
+    ],
+    "weight": 50,
+    "score": 0
+  },
+  "onemanga-scanlators": {
+    "name": "Onemanga scanlators",
+    "type": [
+      "otaku-culture"
+    ],
+    "weight": 40,
+    "score": 0
+  },
+  "batoto-community-founders": {
+    "name": "Batoto community founders",
+    "type": [
+      "otaku-culture"
+    ],
+    "weight": 40,
+    "score": 0
+  },
+  "steve-kyte": {
+    "name": "Steve Kyte",
+    "type": [
+      "person"
+    ],
+    "weight": 130,
+    "score": 0
+  },
+  "anime-babes": {
+    "name": "Anime Babes",
+    "type": [
+      "otaku-culture"
+    ],
+    "weight": 45,
+    "score": 0
+  },
+  "kotani-mari": {
+    "name": "Kotani Mari",
+    "type": [
+      "person"
+    ],
+    "weight": 85,
+    "score": 0
+  },
+  "yonezawa-yoshihiro": {
+    "name": "Yonezawa Yoshihiro",
+    "type": [
+      "person"
+    ],
+    "weight": 55,
+    "score": 0
+  },
+  "sasakibara-go": {
+    "name": "Sasakibara Go",
+    "type": [
+      "person"
+    ],
+    "weight": 90,
+    "score": 0
+  },
+  "marc-hariston": {
+    "name": "Marc Hariston",
+    "type": [
+      "person"
+    ],
+    "weight": 140,
+    "score": 0
+  },
+  "studio-hybrid": {
+    "name": "Studio Hybrid",
+    "type": [
+      "otaku-culture"
+    ],
+    "weight": 50,
+    "score": 0
+  },
+  "tim-park": {
+    "name": "Tim Park",
+    "type": [
+      "person"
+    ],
+    "weight": 90,
+    "score": 0
+  },
+  "mastar-media": {
+    "name": "MaSTAR Media",
+    "type": [
+      "person"
+    ],
+    "weight": 130,
+    "score": 0
+  },
+  "animeuproar": {
+    "name": "AnimeUproar",
+    "type": [
+      "person"
+    ],
+    "weight": 135,
+    "score": 0
   }
 }
