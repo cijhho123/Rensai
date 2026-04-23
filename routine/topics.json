@@ -3803,8 +3803,8 @@
     "type": [
       "character"
     ],
-    "weight": 87,
-    "score": 0
+    "weight": 80,
+    "score": -2300
   },
   "akane-minagawa": {
     "name": "Akane Minagawa",
@@ -8321,8 +8321,8 @@
     "type": [
       "character"
     ],
-    "weight": 195,
-    "score": 1
+    "weight": 80,
+    "score": -5
   },
   "aquarian-age-juvenile-orion": {
     "name": "Aquarian Age: Juvenile Orion",
@@ -9881,8 +9881,8 @@
     "type": [
       "character"
     ],
-    "weight": 83,
-    "score": 0
+    "weight": 53,
+    "score": -1
   },
   "asuka-mishima": {
     "name": "Asuka Mishima",
@@ -42192,7 +42192,7 @@
       "character"
     ],
     "weight": 138,
-    "score": 1
+    "score": -300
   },
   "hayate-ayasaki": {
     "name": "Hayate Ayasaki",
@@ -56471,8 +56471,8 @@
     "type": [
       "character"
     ],
-    "weight": 207,
-    "score": 1
+    "weight": 90,
+    "score": -3
   },
   "kana-asumi": {
     "name": "Kana Asumi",
@@ -71015,8 +71015,8 @@
     "type": [
       "character"
     ],
-    "weight": 267,
-    "score": 1
+    "weight": 150,
+    "score": -1
   },
   "madoka-yonezawa": {
     "name": "Madoka Yonezawa",
@@ -71639,8 +71639,8 @@
     "type": [
       "character"
     ],
-    "weight": 678,
-    "score": 171
+    "weight": 100,
+    "score": -1
   },
   "mahiro-takasugi": {
     "name": "Mahiro Takasugi",
@@ -71879,8 +71879,8 @@
     "type": [
       "character"
     ],
-    "weight": 202,
-    "score": 1
+    "weight": 100,
+    "score": -1
   },
   "mai-taniyama": {
     "name": "Mai Taniyama",
@@ -73738,8 +73738,8 @@
     "type": [
       "character"
     ],
-    "weight": 195,
-    "score": 0
+    "weight": 53,
+    "score": -3
   },
   "mari-kozakura": {
     "name": "Mari Kozakura",
@@ -76420,8 +76420,8 @@
     "type": [
       "character"
     ],
-    "weight": 1028,
-    "score": 243
+    "weight": 90,
+    "score": -123
   },
   "meme": {
     "name": "Meme",
@@ -77291,8 +77291,8 @@
     "type": [
       "character"
     ],
-    "weight": 2431,
-    "score": 532
+    "weight": 200,
+    "score": -1
   },
   "miharu-rokujou": {
     "name": "Miharu Rokujou",
@@ -98239,7 +98239,7 @@
     "type": [
       "character"
     ],
-    "weight": 99,
+    "weight": 53,
     "score": -299
   },
   "rei-ayanami-tentative": {
@@ -102151,8 +102151,8 @@
     "type": [
       "character"
     ],
-    "weight": 207,
-    "score": 1
+    "weight": 90,
+    "score": -4
   },
   "ruby-kurosawa": {
     "name": "Ruby Kurosawa",
@@ -110612,8 +110612,8 @@
     "type": [
       "character"
     ],
-    "weight": 92,
-    "score": 1
+    "weight": 53,
+    "score": -1
   },
   "shinji-kimura": {
     "name": "Shinji Kimura",
@@ -110884,8 +110884,8 @@
     "type": [
       "character"
     ],
-    "weight": 212,
-    "score": 1
+    "weight": 100,
+    "score": -1
   },
   "shinobu-sensui": {
     "name": "Shinobu Sensui",
@@ -131921,8 +131921,8 @@
     "type": [
       "character"
     ],
-    "weight": 97,
-    "score": 1
+    "weight": 77,
+    "score": -900
   },
   "tsubasa-kazanari": {
     "name": "Tsubasa Kazanari",
